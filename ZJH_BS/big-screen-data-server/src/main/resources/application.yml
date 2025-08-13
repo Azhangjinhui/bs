@@ -1,0 +1,44 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: big-screen-data-server
+      
+  # Doris数据库配置
+  datasource:
+    url: jdbc:mysql://node01:9030/dwd_carbon?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai
+    username: root
+    password: 
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    
+    # 连接池配置
+    hikari:
+      minimum-idle: 1
+      maximum-pool-size: 1
+      auto-commit: true
+      idle-timeout: 300000
+      pool-name: DorisHikariCP
+      max-lifetime: 1800000
+      connection-timeout: 30000
+      connection-test-query: SELECT 1
+  
+  # Redis配置
+  data:
+    redis:
+      host: 118.145.198.148
+      port: 6379
+      password: 123456
+      database: 0
+      timeout: 3000ms
+      jedis:
+        pool:
+          max-active: 8
+          max-wait: -1ms
+          max-idle: 8
+          min-idle: 0
+
+# MyBatis配置
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  configuration:
+    map-underscore-to-camel-case: true

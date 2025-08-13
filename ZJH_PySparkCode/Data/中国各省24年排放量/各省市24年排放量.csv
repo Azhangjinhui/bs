@@ -1,0 +1,2233 @@
+Area,"CO2 (Mt)",Sector,Date
+Anhui,0.307827,Aviation,2024-01
+Beijing,0.304469,Aviation,2024-01
+Chongqing,0.318075,Aviation,2024-01
+Fujian,0.331777,Aviation,2024-01
+Gansu,0.129079,Aviation,2024-01
+Guangdong,0.339401,Aviation,2024-01
+Guangxi,0.067585,Aviation,2024-01
+Guizhou,0.233898,Aviation,2024-01
+Hainan,0.019460,Aviation,2024-01
+Hebei,0.288850,Aviation,2024-01
+Heilongjiang,0.130141,Aviation,2024-01
+Henan,0.148818,Aviation,2024-01
+Hubei,0.133328,Aviation,2024-01
+Hunan,0.126382,Aviation,2024-01
+"Inner Mongolia",0.151402,Aviation,2024-01
+Jiangsu,0.830549,Aviation,2024-01
+Jiangxi,0.198374,Aviation,2024-01
+Jilin,0.121331,Aviation,2024-01
+Liaoning,0.292604,Aviation,2024-01
+Ningxia,0.055025,Aviation,2024-01
+Qinghai,0.040582,Aviation,2024-01
+Shaanxi,0.348712,Aviation,2024-01
+Shandong,0.589114,Aviation,2024-01
+Shanghai,0.321279,Aviation,2024-01
+Shanxi,0.145558,Aviation,2024-01
+Sichuan,0.633495,Aviation,2024-01
+Tianjin,0.106363,Aviation,2024-01
+Tibet,0.028103,Aviation,2024-01
+Xinjiang,0.198598,Aviation,2024-01
+Yunnan,0.312797,Aviation,2024-01
+Zhejiang,0.555365,Aviation,2024-01
+Anhui,2.420452,"Ground Transport",2024-01
+Beijing,2.593892,"Ground Transport",2024-01
+Chongqing,2.584804,"Ground Transport",2024-01
+Fujian,2.466279,"Ground Transport",2024-01
+Gansu,2.584291,"Ground Transport",2024-01
+Guangdong,2.485318,"Ground Transport",2024-01
+Guangxi,2.530738,"Ground Transport",2024-01
+Guizhou,2.411497,"Ground Transport",2024-01
+Hainan,2.658837,"Ground Transport",2024-01
+Hebei,2.530798,"Ground Transport",2024-01
+Heilongjiang,2.636801,"Ground Transport",2024-01
+Henan,2.537521,"Ground Transport",2024-01
+Hubei,2.561893,"Ground Transport",2024-01
+Hunan,2.578071,"Ground Transport",2024-01
+"Inner Mongolia",2.452966,"Ground Transport",2024-01
+Jiangsu,2.427510,"Ground Transport",2024-01
+Jiangxi,2.484178,"Ground Transport",2024-01
+Jilin,2.561501,"Ground Transport",2024-01
+Liaoning,2.505822,"Ground Transport",2024-01
+Ningxia,2.508635,"Ground Transport",2024-01
+Qinghai,2.533092,"Ground Transport",2024-01
+Shaanxi,2.603843,"Ground Transport",2024-01
+Shandong,2.521393,"Ground Transport",2024-01
+Shanghai,2.513579,"Ground Transport",2024-01
+Shanxi,2.512473,"Ground Transport",2024-01
+Sichuan,2.590592,"Ground Transport",2024-01
+Tianjin,2.454321,"Ground Transport",2024-01
+Tibet,2.322769,"Ground Transport",2024-01
+Xinjiang,2.322769,"Ground Transport",2024-01
+Yunnan,2.517674,"Ground Transport",2024-01
+Zhejiang,2.437247,"Ground Transport",2024-01
+Anhui,10.724797,Industry,2024-01
+Beijing,0.425299,Industry,2024-01
+Chongqing,4.332996,Industry,2024-01
+Fujian,9.679199,Industry,2024-01
+Gansu,3.480584,Industry,2024-01
+Guangdong,15.790179,Industry,2024-01
+Guangxi,12.818247,Industry,2024-01
+Guizhou,7.832868,Industry,2024-01
+Hainan,0.705723,Industry,2024-01
+Hebei,42.868261,Industry,2024-01
+Heilongjiang,2.327085,Industry,2024-01
+Henan,11.024375,Industry,2024-01
+Hubei,20.034285,Industry,2024-01
+Hunan,7.723718,Industry,2024-01
+"Inner Mongolia",7.722815,Industry,2024-01
+Jiangsu,31.848294,Industry,2024-01
+Jiangxi,7.411140,Industry,2024-01
+Jilin,3.342696,Industry,2024-01
+Liaoning,16.072189,Industry,2024-01
+Ningxia,1.427685,Industry,2024-01
+Qinghai,1.056899,Industry,2024-01
+Shaanxi,4.170166,Industry,2024-01
+Shandong,27.570777,Industry,2024-01
+Shanghai,3.405838,Industry,2024-01
+Shanxi,11.410517,Industry,2024-01
+Sichuan,13.719719,Industry,2024-01
+Tianjin,5.321350,Industry,2024-01
+Tibet,0.073525,Industry,2024-01
+Xinjiang,4.081963,Industry,2024-01
+Yunnan,15.837970,Industry,2024-01
+Zhejiang,12.977900,Industry,2024-01
+Anhui,23.798812,Power,2024-01
+Beijing,2.804496,Power,2024-01
+Chongqing,4.683013,Power,2024-01
+Fujian,8.534996,Power,2024-01
+Gansu,9.732508,Power,2024-01
+Guangdong,18.621201,Power,2024-01
+Guangxi,8.075509,Power,2024-01
+Guizhou,8.798094,Power,2024-01
+Hainan,1.527642,Power,2024-01
+Hebei,29.449563,Power,2024-01
+Heilongjiang,6.862435,Power,2024-01
+Henan,21.732842,Power,2024-01
+Hubei,10.304858,Power,2024-01
+Hunan,7.742998,Power,2024-01
+"Inner Mongolia",49.748012,Power,2024-01
+Jiangsu,32.057232,Power,2024-01
+Jiangxi,7.361118,Power,2024-01
+Jilin,5.413683,Power,2024-01
+Liaoning,11.469360,Power,2024-01
+Ningxia,10.914156,Power,2024-01
+Qinghai,2.640955,Power,2024-01
+Shaanxi,20.996692,Power,2024-01
+Shandong,40.820229,Power,2024-01
+Shanghai,4.564093,Power,2024-01
+Shanxi,27.460009,Power,2024-01
+Sichuan,6.938424,Power,2024-01
+Tianjin,6.285881,Power,2024-01
+Tibet,0.016907,Power,2024-01
+Xinjiang,27.887050,Power,2024-01
+Yunnan,4.956519,Power,2024-01
+Zhejiang,14.347645,Power,2024-01
+Anhui,0.328100,Residential,2024-01
+Beijing,7.519046,Residential,2024-01
+Chongqing,0.000000,Residential,2024-01
+Fujian,0.000000,Residential,2024-01
+Gansu,3.087143,Residential,2024-01
+Guangdong,0.000000,Residential,2024-01
+Guangxi,0.000000,Residential,2024-01
+Guizhou,0.020486,Residential,2024-01
+Hainan,0.000000,Residential,2024-01
+Hebei,10.536193,Residential,2024-01
+Heilongjiang,9.554619,Residential,2024-01
+Henan,6.324006,Residential,2024-01
+Hubei,0.212926,Residential,2024-01
+Hunan,0.000000,Residential,2024-01
+"Inner Mongolia",7.497903,Residential,2024-01
+Jiangsu,0.013910,Residential,2024-01
+Jiangxi,0.000000,Residential,2024-01
+Jilin,7.644362,Residential,2024-01
+Liaoning,15.306224,Residential,2024-01
+Ningxia,1.666835,Residential,2024-01
+Qinghai,0.943637,Residential,2024-01
+Shaanxi,5.289204,Residential,2024-01
+Shandong,19.052036,Residential,2024-01
+Shanghai,0.000000,Residential,2024-01
+Shanxi,8.533403,Residential,2024-01
+Sichuan,0.000000,Residential,2024-01
+Tianjin,6.270599,Residential,2024-01
+Tibet,0.016913,Residential,2024-01
+Xinjiang,5.240502,Residential,2024-01
+Yunnan,0.020732,Residential,2024-01
+Zhejiang,0.000000,Residential,2024-01
+Anhui,37.579988,Total,2024-01
+Beijing,13.647202,Total,2024-01
+Chongqing,11.918891,Total,2024-01
+Fujian,21.012252,Total,2024-01
+Gansu,19.013608,Total,2024-01
+Guangdong,37.236102,Total,2024-01
+Guangxi,23.492080,Total,2024-01
+Guizhou,19.296837,Total,2024-01
+Hainan,4.911662,Total,2024-01
+Hebei,85.673667,Total,2024-01
+Heilongjiang,21.511083,Total,2024-01
+Henan,41.767558,Total,2024-01
+Hubei,33.247285,Total,2024-01
+Hunan,18.171172,Total,2024-01
+"Inner Mongolia",67.573102,Total,2024-01
+Jiangsu,67.177493,Total,2024-01
+Jiangxi,17.454811,Total,2024-01
+Jilin,19.083575,Total,2024-01
+Liaoning,45.646202,Total,2024-01
+Ningxia,16.572340,Total,2024-01
+Qinghai,7.215171,Total,2024-01
+Shaanxi,33.408615,Total,2024-01
+Shandong,90.553556,Total,2024-01
+Shanghai,10.804790,Total,2024-01
+Shanxi,50.061961,Total,2024-01
+Sichuan,23.882223,Total,2024-01
+Tianjin,20.438516,Total,2024-01
+Tibet,2.458213,Total,2024-01
+Xinjiang,39.730881,Total,2024-01
+Yunnan,23.645696,Total,2024-01
+Zhejiang,30.318154,Total,2024-01
+Anhui,0.306521,Aviation,2024-02
+Beijing,0.303174,Aviation,2024-02
+Chongqing,0.324166,Aviation,2024-02
+Fujian,0.330366,Aviation,2024-02
+Gansu,0.131550,Aviation,2024-02
+Guangdong,0.341903,Aviation,2024-02
+Guangxi,0.068083,Aviation,2024-02
+Guizhou,0.238377,Aviation,2024-02
+Hainan,0.019605,Aviation,2024-02
+Hebei,0.287621,Aviation,2024-02
+Heilongjiang,0.133028,Aviation,2024-02
+Henan,0.149915,Aviation,2024-02
+Hubei,0.134311,Aviation,2024-02
+Hunan,0.127314,Aviation,2024-02
+"Inner Mongolia",0.150759,Aviation,2024-02
+Jiangsu,0.827022,Aviation,2024-02
+Jiangxi,0.197530,Aviation,2024-02
+Jilin,0.124025,Aviation,2024-02
+Liaoning,0.299097,Aviation,2024-02
+Ningxia,0.056079,Aviation,2024-02
+Qinghai,0.041361,Aviation,2024-02
+Shaanxi,0.355385,Aviation,2024-02
+Shandong,0.586614,Aviation,2024-02
+Shanghai,0.319915,Aviation,2024-02
+Shanxi,0.144944,Aviation,2024-02
+Sichuan,0.645619,Aviation,2024-02
+Tianjin,0.105912,Aviation,2024-02
+Tibet,0.028640,Aviation,2024-02
+Xinjiang,0.202401,Aviation,2024-02
+Yunnan,0.318784,Aviation,2024-02
+Zhejiang,0.553004,Aviation,2024-02
+Anhui,2.095355,"Ground Transport",2024-02
+Beijing,2.086868,"Ground Transport",2024-02
+Chongqing,2.137745,"Ground Transport",2024-02
+Fujian,2.063736,"Ground Transport",2024-02
+Gansu,2.197910,"Ground Transport",2024-02
+Guangdong,2.054041,"Ground Transport",2024-02
+Guangxi,2.113360,"Ground Transport",2024-02
+Guizhou,2.022843,"Ground Transport",2024-02
+Hainan,2.176131,"Ground Transport",2024-02
+Hebei,2.178271,"Ground Transport",2024-02
+Heilongjiang,2.120021,"Ground Transport",2024-02
+Henan,2.206551,"Ground Transport",2024-02
+Hubei,2.181987,"Ground Transport",2024-02
+Hunan,2.114932,"Ground Transport",2024-02
+"Inner Mongolia",2.085993,"Ground Transport",2024-02
+Jiangsu,2.115614,"Ground Transport",2024-02
+Jiangxi,2.077586,"Ground Transport",2024-02
+Jilin,2.129140,"Ground Transport",2024-02
+Liaoning,2.095337,"Ground Transport",2024-02
+Ningxia,2.187135,"Ground Transport",2024-02
+Qinghai,2.123772,"Ground Transport",2024-02
+Shaanxi,2.186808,"Ground Transport",2024-02
+Shandong,2.185899,"Ground Transport",2024-02
+Shanghai,2.105925,"Ground Transport",2024-02
+Shanxi,2.166747,"Ground Transport",2024-02
+Sichuan,2.149995,"Ground Transport",2024-02
+Tianjin,2.057011,"Ground Transport",2024-02
+Tibet,2.006659,"Ground Transport",2024-02
+Xinjiang,2.006659,"Ground Transport",2024-02
+Yunnan,2.082718,"Ground Transport",2024-02
+Zhejiang,2.048089,"Ground Transport",2024-02
+Anhui,9.321554,Industry,2024-02
+Beijing,0.369650,Industry,2024-02
+Chongqing,3.766064,Industry,2024-02
+Fujian,8.412762,Industry,2024-02
+Gansu,3.025181,Industry,2024-02
+Guangdong,13.724176,Industry,2024-02
+Guangxi,11.141096,Industry,2024-02
+Guizhou,6.808006,Industry,2024-02
+Hainan,0.613386,Industry,2024-02
+Hebei,37.259331,Industry,2024-02
+Heilongjiang,2.022604,Industry,2024-02
+Henan,9.581933,Industry,2024-02
+Hubei,17.412976,Industry,2024-02
+Hunan,6.713135,Industry,2024-02
+"Inner Mongolia",6.712351,Industry,2024-02
+Jiangsu,27.681226,Industry,2024-02
+Jiangxi,6.441463,Industry,2024-02
+Jilin,2.905333,Industry,2024-02
+Liaoning,13.969286,Industry,2024-02
+Ningxia,1.240886,Industry,2024-02
+Qinghai,0.918614,Industry,2024-02
+Shaanxi,3.624535,Industry,2024-02
+Shandong,23.963386,Industry,2024-02
+Shanghai,2.960215,Industry,2024-02
+Shanxi,9.917550,Industry,2024-02
+Sichuan,11.924614,Industry,2024-02
+Tianjin,4.625098,Industry,2024-02
+Tibet,0.063905,Industry,2024-02
+Xinjiang,3.547874,Industry,2024-02
+Yunnan,13.765713,Industry,2024-02
+Zhejiang,11.279858,Industry,2024-02
+Anhui,19.471755,Power,2024-02
+Beijing,2.294588,Power,2024-02
+Chongqing,3.831555,Power,2024-02
+Fujian,6.983180,Power,2024-02
+Gansu,7.962961,Power,2024-02
+Guangdong,15.235527,Power,2024-02
+Guangxi,6.607237,Power,2024-02
+Guizhou,7.198442,Power,2024-02
+Hainan,1.249889,Power,2024-02
+Hebei,24.095100,Power,2024-02
+Heilongjiang,5.614720,Power,2024-02
+Henan,17.781417,Power,2024-02
+Hubei,8.431246,Power,2024-02
+Hunan,6.335184,Power,2024-02
+"Inner Mongolia",40.702919,Power,2024-02
+Jiangsu,26.228641,Power,2024-02
+Jiangxi,6.022738,Power,2024-02
+Jilin,4.429377,Power,2024-02
+Liaoning,9.384024,Power,2024-02
+Ningxia,8.929762,Power,2024-02
+Qinghai,2.160782,Power,2024-02
+Shaanxi,17.179115,Power,2024-02
+Shandong,33.398372,Power,2024-02
+Shanghai,3.734258,Power,2024-02
+Shanxi,22.467280,Power,2024-02
+Sichuan,5.676892,Power,2024-02
+Tianjin,5.142993,Power,2024-02
+Tibet,0.013832,Power,2024-02
+Xinjiang,22.816676,Power,2024-02
+Yunnan,4.055334,Power,2024-02
+Zhejiang,11.738980,Power,2024-02
+Anhui,0.300162,Residential,2024-02
+Beijing,6.878858,Residential,2024-02
+Chongqing,0.000000,Residential,2024-02
+Fujian,0.000000,Residential,2024-02
+Gansu,2.824295,Residential,2024-02
+Guangdong,0.000000,Residential,2024-02
+Guangxi,0.000000,Residential,2024-02
+Guizhou,0.018738,Residential,2024-02
+Hainan,0.000000,Residential,2024-02
+Hebei,9.639112,Residential,2024-02
+Heilongjiang,8.741115,Residential,2024-02
+Henan,5.785563,Residential,2024-02
+Hubei,0.194798,Residential,2024-02
+Hunan,0.000000,Residential,2024-02
+"Inner Mongolia",6.859513,Residential,2024-02
+Jiangsu,0.012726,Residential,2024-02
+Jiangxi,0.000000,Residential,2024-02
+Jilin,6.993501,Residential,2024-02
+Liaoning,14.003016,Residential,2024-02
+Ningxia,1.524916,Residential,2024-02
+Qinghai,0.863296,Residential,2024-02
+Shaanxi,4.838867,Residential,2024-02
+Shandong,17.429899,Residential,2024-02
+Shanghai,0.000000,Residential,2024-02
+Shanxi,7.806848,Residential,2024-02
+Sichuan,0.000000,Residential,2024-02
+Tianjin,5.736705,Residential,2024-02
+Tibet,0.015472,Residential,2024-02
+Xinjiang,4.794315,Residential,2024-02
+Yunnan,0.018968,Residential,2024-02
+Zhejiang,0.000000,Residential,2024-02
+Anhui,31.495346,Total,2024-02
+Beijing,11.933137,Total,2024-02
+Chongqing,10.059532,Total,2024-02
+Fujian,17.790041,Total,2024-02
+Gansu,16.141901,Total,2024-02
+Guangdong,31.355651,Total,2024-02
+Guangxi,19.929772,Total,2024-02
+Guizhou,16.286403,Total,2024-02
+Hainan,4.059013,Total,2024-02
+Hebei,73.459440,Total,2024-02
+Heilongjiang,18.631486,Total,2024-02
+Henan,35.505378,Total,2024-02
+Hubei,28.355315,Total,2024-02
+Hunan,15.290571,Total,2024-02
+"Inner Mongolia",56.511544,Total,2024-02
+Jiangsu,56.865231,Total,2024-02
+Jiangxi,14.739306,Total,2024-02
+Jilin,16.581384,Total,2024-02
+Liaoning,39.750755,Total,2024-02
+Ningxia,13.938781,Total,2024-02
+Qinghai,6.107822,Total,2024-02
+Shaanxi,28.184710,Total,2024-02
+Shandong,77.564172,Total,2024-02
+Shanghai,9.120314,Total,2024-02
+Shanxi,42.503367,Total,2024-02
+Sichuan,20.397119,Total,2024-02
+Tianjin,17.667719,Total,2024-02
+Tibet,2.128505,Total,2024-02
+Xinjiang,33.367922,Total,2024-02
+Yunnan,20.241515,Total,2024-02
+Zhejiang,25.619932,Total,2024-02
+Anhui,0.303974,Aviation,2024-03
+Beijing,0.300663,Aviation,2024-03
+Chongqing,0.315681,Aviation,2024-03
+Fujian,0.327626,Aviation,2024-03
+Gansu,0.128108,Aviation,2024-03
+Guangdong,0.332257,Aviation,2024-03
+Guangxi,0.066160,Aviation,2024-03
+Guizhou,0.232139,Aviation,2024-03
+Hainan,0.019051,Aviation,2024-03
+Hebei,0.285235,Aviation,2024-03
+Heilongjiang,0.109153,Aviation,2024-03
+Henan,0.145683,Aviation,2024-03
+Hubei,0.130521,Aviation,2024-03
+Hunan,0.123723,Aviation,2024-03
+"Inner Mongolia",0.149509,Aviation,2024-03
+Jiangsu,0.820157,Aviation,2024-03
+Jiangxi,0.195892,Aviation,2024-03
+Jilin,0.101769,Aviation,2024-03
+Liaoning,0.245424,Aviation,2024-03
+Ningxia,0.054613,Aviation,2024-03
+Qinghai,0.040276,Aviation,2024-03
+Shaanxi,0.346085,Aviation,2024-03
+Shandong,0.581750,Aviation,2024-03
+Shanghai,0.317263,Aviation,2024-03
+Shanxi,0.143743,Aviation,2024-03
+Sichuan,0.628724,Aviation,2024-03
+Tianjin,0.105032,Aviation,2024-03
+Tibet,0.027892,Aviation,2024-03
+Xinjiang,0.197101,Aviation,2024-03
+Yunnan,0.310441,Aviation,2024-03
+Zhejiang,0.548417,Aviation,2024-03
+Anhui,2.450754,"Ground Transport",2024-03
+Beijing,2.711904,"Ground Transport",2024-03
+Chongqing,2.643501,"Ground Transport",2024-03
+Fujian,2.507928,"Ground Transport",2024-03
+Gansu,2.762940,"Ground Transport",2024-03
+Guangdong,2.533918,"Ground Transport",2024-03
+Guangxi,2.517444,"Ground Transport",2024-03
+Guizhou,2.501829,"Ground Transport",2024-03
+Hainan,2.583281,"Ground Transport",2024-03
+Hebei,2.585528,"Ground Transport",2024-03
+Heilongjiang,2.591708,"Ground Transport",2024-03
+Henan,2.530301,"Ground Transport",2024-03
+Hubei,2.642347,"Ground Transport",2024-03
+Hunan,2.550641,"Ground Transport",2024-03
+"Inner Mongolia",2.488546,"Ground Transport",2024-03
+Jiangsu,2.461402,"Ground Transport",2024-03
+Jiangxi,2.482512,"Ground Transport",2024-03
+Jilin,2.615230,"Ground Transport",2024-03
+Liaoning,2.609383,"Ground Transport",2024-03
+Ningxia,2.616675,"Ground Transport",2024-03
+Qinghai,2.632829,"Ground Transport",2024-03
+Shaanxi,2.650352,"Ground Transport",2024-03
+Shandong,2.540580,"Ground Transport",2024-03
+Shanghai,2.664836,"Ground Transport",2024-03
+Shanxi,2.557457,"Ground Transport",2024-03
+Sichuan,2.625180,"Ground Transport",2024-03
+Tianjin,2.594171,"Ground Transport",2024-03
+Tibet,2.383479,"Ground Transport",2024-03
+Xinjiang,2.383479,"Ground Transport",2024-03
+Yunnan,2.556043,"Ground Transport",2024-03
+Zhejiang,2.500769,"Ground Transport",2024-03
+Anhui,12.483306,Industry,2024-03
+Beijing,0.573146,Industry,2024-03
+Chongqing,4.542714,Industry,2024-03
+Fujian,10.965720,Industry,2024-03
+Gansu,4.860936,Industry,2024-03
+Guangdong,17.545972,Industry,2024-03
+Guangxi,14.438092,Industry,2024-03
+Guizhou,9.353426,Industry,2024-03
+Hainan,0.709689,Industry,2024-03
+Hebei,51.231430,Industry,2024-03
+Heilongjiang,2.882515,Industry,2024-03
+Henan,13.804615,Industry,2024-03
+Hubei,25.603478,Industry,2024-03
+Hunan,9.005456,Industry,2024-03
+"Inner Mongolia",9.863524,Industry,2024-03
+Jiangsu,36.880795,Industry,2024-03
+Jiangxi,8.572208,Industry,2024-03
+Jilin,4.078049,Industry,2024-03
+Liaoning,18.708049,Industry,2024-03
+Ningxia,1.721838,Industry,2024-03
+Qinghai,1.305591,Industry,2024-03
+Shaanxi,6.364243,Industry,2024-03
+Shandong,32.302648,Industry,2024-03
+Shanghai,4.320287,Industry,2024-03
+Shanxi,13.717415,Industry,2024-03
+Sichuan,15.994558,Industry,2024-03
+Tianjin,6.450095,Industry,2024-03
+Tibet,0.145941,Industry,2024-03
+Xinjiang,5.677079,Industry,2024-03
+Yunnan,16.283067,Industry,2024-03
+Zhejiang,15.306841,Industry,2024-03
+Anhui,19.219924,Power,2024-03
+Beijing,1.927299,Power,2024-03
+Chongqing,4.093544,Power,2024-03
+Fujian,9.811758,Power,2024-03
+Gansu,7.537246,Power,2024-03
+Guangdong,21.331110,Power,2024-03
+Guangxi,7.546727,Power,2024-03
+Guizhou,8.125223,Power,2024-03
+Hainan,1.717255,Power,2024-03
+Hebei,22.671525,Power,2024-03
+Heilongjiang,5.860156,Power,2024-03
+Henan,15.274546,Power,2024-03
+Hubei,7.841777,Power,2024-03
+Hunan,5.291701,Power,2024-03
+"Inner Mongolia",42.418306,Power,2024-03
+Jiangsu,30.299755,Power,2024-03
+Jiangxi,6.127004,Power,2024-03
+Jilin,4.393191,Power,2024-03
+Liaoning,8.952255,Power,2024-03
+Ningxia,9.703265,Power,2024-03
+Qinghai,2.224449,Power,2024-03
+Shaanxi,16.530745,Power,2024-03
+Shandong,32.834470,Power,2024-03
+Shanghai,4.025887,Power,2024-03
+Shanxi,21.934329,Power,2024-03
+Sichuan,7.332562,Power,2024-03
+Tianjin,4.893556,Power,2024-03
+Tibet,0.020489,Power,2024-03
+Xinjiang,24.165479,Power,2024-03
+Yunnan,5.351054,Power,2024-03
+Zhejiang,16.875132,Power,2024-03
+Anhui,0.220282,Residential,2024-03
+Beijing,5.048266,Residential,2024-03
+Chongqing,0.000000,Residential,2024-03
+Fujian,0.000000,Residential,2024-03
+Gansu,2.072699,Residential,2024-03
+Guangdong,0.000000,Residential,2024-03
+Guangxi,0.000000,Residential,2024-03
+Guizhou,0.013755,Residential,2024-03
+Hainan,0.000000,Residential,2024-03
+Hebei,7.073970,Residential,2024-03
+Heilongjiang,6.414942,Residential,2024-03
+Henan,4.245917,Residential,2024-03
+Hubei,0.142957,Residential,2024-03
+Hunan,0.000000,Residential,2024-03
+"Inner Mongolia",5.034071,Residential,2024-03
+Jiangsu,0.009339,Residential,2024-03
+Jiangxi,0.000000,Residential,2024-03
+Jilin,5.132401,Residential,2024-03
+Liaoning,10.276554,Residential,2024-03
+Ningxia,1.119107,Residential,2024-03
+Qinghai,0.633560,Residential,2024-03
+Shaanxi,3.551158,Residential,2024-03
+Shandong,12.791478,Residential,2024-03
+Shanghai,0.000000,Residential,2024-03
+Shanxi,5.729301,Residential,2024-03
+Sichuan,0.000000,Residential,2024-03
+Tianjin,4.210059,Residential,2024-03
+Tibet,0.011353,Residential,2024-03
+Xinjiang,3.518460,Residential,2024-03
+Yunnan,0.013920,Residential,2024-03
+Zhejiang,0.000000,Residential,2024-03
+Anhui,34.678247,Total,2024-03
+Beijing,10.561272,Total,2024-03
+Chongqing,11.595438,Total,2024-03
+Fujian,23.613031,Total,2024-03
+Gansu,17.361927,Total,2024-03
+Guangdong,41.743257,Total,2024-03
+Guangxi,24.568428,Total,2024-03
+Guizhou,20.226372,Total,2024-03
+Hainan,5.029276,Total,2024-03
+Hebei,83.847686,Total,2024-03
+Heilongjiang,17.858474,Total,2024-03
+Henan,36.001069,Total,2024-03
+Hubei,36.361078,Total,2024-03
+Hunan,16.971513,Total,2024-03
+"Inner Mongolia",59.953958,Total,2024-03
+Jiangsu,70.471451,Total,2024-03
+Jiangxi,17.377612,Total,2024-03
+Jilin,16.320638,Total,2024-03
+Liaoning,40.791664,Total,2024-03
+Ningxia,15.215498,Total,2024-03
+Qinghai,6.836705,Total,2024-03
+Shaanxi,29.442585,Total,2024-03
+Shandong,81.050927,Total,2024-03
+Shanghai,11.328272,Total,2024-03
+Shanxi,44.082238,Total,2024-03
+Sichuan,26.581029,Total,2024-03
+Tianjin,18.252918,Total,2024-03
+Tibet,2.589158,Total,2024-03
+Xinjiang,35.941600,Total,2024-03
+Yunnan,24.514527,Total,2024-03
+Zhejiang,35.231159,Total,2024-03
+Anhui,0.288002,Aviation,2024-04
+Beijing,0.277384,Aviation,2024-04
+Chongqing,0.315788,Aviation,2024-04
+Fujian,0.311817,Aviation,2024-04
+Gansu,0.127830,Aviation,2024-04
+Guangdong,0.331247,Aviation,2024-04
+Guangxi,0.066088,Aviation,2024-04
+Guizhou,0.229884,Aviation,2024-04
+Hainan,0.018062,Aviation,2024-04
+Hebei,0.262023,Aviation,2024-04
+Heilongjiang,0.108384,Aviation,2024-04
+Henan,0.150199,Aviation,2024-04
+Hubei,0.138716,Aviation,2024-04
+Hunan,0.123645,Aviation,2024-04
+"Inner Mongolia",0.139149,Aviation,2024-04
+Jiangsu,0.753259,Aviation,2024-04
+Jiangxi,0.186048,Aviation,2024-04
+Jilin,0.102749,Aviation,2024-04
+Liaoning,0.241213,Aviation,2024-04
+Ningxia,0.053422,Aviation,2024-04
+Qinghai,0.038065,Aviation,2024-04
+Shaanxi,0.340241,Aviation,2024-04
+Shandong,0.559925,Aviation,2024-04
+Shanghai,0.293078,Aviation,2024-04
+Shanxi,0.132955,Aviation,2024-04
+Sichuan,0.631893,Aviation,2024-04
+Tianjin,0.098751,Aviation,2024-04
+Tibet,0.026212,Aviation,2024-04
+Xinjiang,0.196490,Aviation,2024-04
+Yunnan,0.309065,Aviation,2024-04
+Zhejiang,0.497551,Aviation,2024-04
+Anhui,2.362288,"Ground Transport",2024-04
+Beijing,2.669758,"Ground Transport",2024-04
+Chongqing,2.634520,"Ground Transport",2024-04
+Fujian,2.448666,"Ground Transport",2024-04
+Gansu,2.695222,"Ground Transport",2024-04
+Guangdong,2.462737,"Ground Transport",2024-04
+Guangxi,2.413568,"Ground Transport",2024-04
+Guizhou,2.426951,"Ground Transport",2024-04
+Hainan,2.433072,"Ground Transport",2024-04
+Hebei,2.489592,"Ground Transport",2024-04
+Heilongjiang,2.556919,"Ground Transport",2024-04
+Henan,2.447410,"Ground Transport",2024-04
+Hubei,2.536132,"Ground Transport",2024-04
+Hunan,2.517485,"Ground Transport",2024-04
+"Inner Mongolia",2.418024,"Ground Transport",2024-04
+Jiangsu,2.367403,"Ground Transport",2024-04
+Jiangxi,2.418598,"Ground Transport",2024-04
+Jilin,2.552294,"Ground Transport",2024-04
+Liaoning,2.565989,"Ground Transport",2024-04
+Ningxia,2.506749,"Ground Transport",2024-04
+Qinghai,2.580486,"Ground Transport",2024-04
+Shaanxi,2.557431,"Ground Transport",2024-04
+Shandong,2.457379,"Ground Transport",2024-04
+Shanghai,2.577783,"Ground Transport",2024-04
+Shanxi,2.492624,"Ground Transport",2024-04
+Sichuan,2.551358,"Ground Transport",2024-04
+Tianjin,2.510550,"Ground Transport",2024-04
+Tibet,2.320789,"Ground Transport",2024-04
+Xinjiang,2.320789,"Ground Transport",2024-04
+Yunnan,2.461028,"Ground Transport",2024-04
+Zhejiang,2.400505,"Ground Transport",2024-04
+Anhui,11.132221,Industry,2024-04
+Beijing,0.430332,Industry,2024-04
+Chongqing,4.092794,Industry,2024-04
+Fujian,10.607148,Industry,2024-04
+Gansu,3.447948,Industry,2024-04
+Guangdong,15.553822,Industry,2024-04
+Guangxi,12.624234,Industry,2024-04
+Guizhou,8.394908,Industry,2024-04
+Hainan,0.565571,Industry,2024-04
+Hebei,48.204944,Industry,2024-04
+Heilongjiang,2.831760,Industry,2024-04
+Henan,12.669096,Industry,2024-04
+Hubei,24.231945,Industry,2024-04
+Hunan,8.161631,Industry,2024-04
+"Inner Mongolia",8.858234,Industry,2024-04
+Jiangsu,34.375020,Industry,2024-04
+Jiangxi,7.747534,Industry,2024-04
+Jilin,3.530844,Industry,2024-04
+Liaoning,16.852051,Industry,2024-04
+Ningxia,1.992600,Industry,2024-04
+Qinghai,1.603764,Industry,2024-04
+Shaanxi,6.135123,Industry,2024-04
+Shandong,30.738069,Industry,2024-04
+Shanghai,4.163221,Industry,2024-04
+Shanxi,13.931919,Industry,2024-04
+Sichuan,14.611593,Industry,2024-04
+Tianjin,5.881632,Industry,2024-04
+Tibet,0.182041,Industry,2024-04
+Xinjiang,5.557355,Industry,2024-04
+Yunnan,14.545905,Industry,2024-04
+Zhejiang,13.640442,Industry,2024-04
+Anhui,17.287636,Power,2024-04
+Beijing,1.283030,Power,2024-04
+Chongqing,3.317090,Power,2024-04
+Fujian,7.565550,Power,2024-04
+Gansu,5.164409,Power,2024-04
+Guangdong,20.909869,Power,2024-04
+Guangxi,7.116768,Power,2024-04
+Guizhou,6.894295,Power,2024-04
+Hainan,1.886382,Power,2024-04
+Hebei,20.768110,Power,2024-04
+Heilongjiang,4.663616,Power,2024-04
+Henan,13.747097,Power,2024-04
+Hubei,6.826487,Power,2024-04
+Hunan,3.402819,Power,2024-04
+"Inner Mongolia",39.177594,Power,2024-04
+Jiangsu,28.453292,Power,2024-04
+Jiangxi,5.385018,Power,2024-04
+Jilin,3.213468,Power,2024-04
+Liaoning,7.138915,Power,2024-04
+Ningxia,8.195960,Power,2024-04
+Qinghai,1.549446,Power,2024-04
+Shaanxi,13.686094,Power,2024-04
+Shandong,31.470249,Power,2024-04
+Shanghai,3.167597,Power,2024-04
+Shanxi,18.942601,Power,2024-04
+Sichuan,5.681707,Power,2024-04
+Tianjin,4.266994,Power,2024-04
+Tibet,0.030734,Power,2024-04
+Xinjiang,20.239118,Power,2024-04
+Yunnan,4.798961,Power,2024-04
+Zhejiang,15.379644,Power,2024-04
+Anhui,0.144498,Residential,2024-04
+Beijing,3.311454,Residential,2024-04
+Chongqing,0.000000,Residential,2024-04
+Fujian,0.000000,Residential,2024-04
+Gansu,1.359605,Residential,2024-04
+Guangdong,0.000000,Residential,2024-04
+Guangxi,0.000000,Residential,2024-04
+Guizhou,0.009022,Residential,2024-04
+Hainan,0.000000,Residential,2024-04
+Hebei,4.640237,Residential,2024-04
+Heilongjiang,4.207941,Residential,2024-04
+Henan,2.785145,Residential,2024-04
+Hubei,0.093776,Residential,2024-04
+Hunan,0.000000,Residential,2024-04
+"Inner Mongolia",3.302142,Residential,2024-04
+Jiangsu,0.006129,Residential,2024-04
+Jiangxi,0.000000,Residential,2024-04
+Jilin,3.366647,Residential,2024-04
+Liaoning,6.740996,Residential,2024-04
+Ningxia,0.734086,Residential,2024-04
+Qinghai,0.415583,Residential,2024-04
+Shaanxi,2.329412,Residential,2024-04
+Shandong,8.390681,Residential,2024-04
+Shanghai,0.000000,Residential,2024-04
+Shanxi,3.758187,Residential,2024-04
+Sichuan,0.000000,Residential,2024-04
+Tianjin,2.761629,Residential,2024-04
+Tibet,0.007450,Residential,2024-04
+Xinjiang,2.307964,Residential,2024-04
+Yunnan,0.009133,Residential,2024-04
+Zhejiang,0.000000,Residential,2024-04
+Anhui,31.214647,Total,2024-04
+Beijing,7.971963,Total,2024-04
+Chongqing,10.360192,Total,2024-04
+Fujian,20.933185,Total,2024-04
+Gansu,12.795014,Total,2024-04
+Guangdong,39.257671,Total,2024-04
+Guangxi,22.220658,Total,2024-04
+Guizhou,17.955057,Total,2024-04
+Hainan,4.903088,Total,2024-04
+Hebei,76.364901,Total,2024-04
+Heilongjiang,14.368624,Total,2024-04
+Henan,31.798950,Total,2024-04
+Hubei,33.827049,Total,2024-04
+Hunan,14.205581,Total,2024-04
+"Inner Mongolia",53.895144,Total,2024-04
+Jiangsu,65.955095,Total,2024-04
+Jiangxi,15.737199,Total,2024-04
+Jilin,12.766001,Total,2024-04
+Liaoning,33.539171,Total,2024-04
+Ningxia,13.482821,Total,2024-04
+Qinghai,6.187343,Total,2024-04
+Shaanxi,25.048296,Total,2024-04
+Shandong,73.616310,Total,2024-04
+Shanghai,10.201683,Total,2024-04
+Shanxi,39.258289,Total,2024-04
+Sichuan,23.476541,Total,2024-04
+Tianjin,15.519554,Total,2024-04
+Tibet,2.567228,Total,2024-04
+Xinjiang,30.621718,Total,2024-04
+Yunnan,22.124088,Total,2024-04
+Zhejiang,31.918143,Total,2024-04
+Anhui,0.301480,Aviation,2024-05
+Beijing,0.290371,Aviation,2024-05
+Chongqing,0.330597,Aviation,2024-05
+Fujian,0.326414,Aviation,2024-05
+Gansu,0.133822,Aviation,2024-05
+Guangdong,0.344890,Aviation,2024-05
+Guangxi,0.068804,Aviation,2024-05
+Guizhou,0.240666,Aviation,2024-05
+Hainan,0.018803,Aviation,2024-05
+Hebei,0.274285,Aviation,2024-05
+Heilongjiang,0.110941,Aviation,2024-05
+Henan,0.156386,Aviation,2024-05
+Hubei,0.144430,Aviation,2024-05
+Hunan,0.128740,Aviation,2024-05
+"Inner Mongolia",0.145665,Aviation,2024-05
+Jiangsu,0.788520,Aviation,2024-05
+Jiangxi,0.194758,Aviation,2024-05
+Jilin,0.105168,Aviation,2024-05
+Liaoning,0.246896,Aviation,2024-05
+Ningxia,0.055931,Aviation,2024-05
+Qinghai,0.039848,Aviation,2024-05
+Shaanxi,0.356191,Aviation,2024-05
+Shandong,0.586136,Aviation,2024-05
+Shanghai,0.306796,Aviation,2024-05
+Shanxi,0.139176,Aviation,2024-05
+Sichuan,0.661515,Aviation,2024-05
+Tianjin,0.103376,Aviation,2024-05
+Tibet,0.027444,Aviation,2024-05
+Xinjiang,0.205701,Aviation,2024-05
+Yunnan,0.323557,Aviation,2024-05
+Zhejiang,0.520841,Aviation,2024-05
+Anhui,2.429040,"Ground Transport",2024-05
+Beijing,2.668560,"Ground Transport",2024-05
+Chongqing,2.633793,"Ground Transport",2024-05
+Fujian,2.524301,"Ground Transport",2024-05
+Gansu,2.765202,"Ground Transport",2024-05
+Guangdong,2.551177,"Ground Transport",2024-05
+Guangxi,2.499170,"Ground Transport",2024-05
+Guizhou,2.510739,"Ground Transport",2024-05
+Hainan,2.540196,"Ground Transport",2024-05
+Hebei,2.556720,"Ground Transport",2024-05
+Heilongjiang,2.682403,"Ground Transport",2024-05
+Henan,2.493320,"Ground Transport",2024-05
+Hubei,2.578979,"Ground Transport",2024-05
+Hunan,2.583218,"Ground Transport",2024-05
+"Inner Mongolia",2.509290,"Ground Transport",2024-05
+Jiangsu,2.433968,"Ground Transport",2024-05
+Jiangxi,2.468279,"Ground Transport",2024-05
+Jilin,2.664945,"Ground Transport",2024-05
+Liaoning,2.661695,"Ground Transport",2024-05
+Ningxia,2.575811,"Ground Transport",2024-05
+Qinghai,2.660520,"Ground Transport",2024-05
+Shaanxi,2.603131,"Ground Transport",2024-05
+Shandong,2.524811,"Ground Transport",2024-05
+Shanghai,2.603797,"Ground Transport",2024-05
+Shanxi,2.563624,"Ground Transport",2024-05
+Sichuan,2.607295,"Ground Transport",2024-05
+Tianjin,2.571383,"Ground Transport",2024-05
+Tibet,2.416048,"Ground Transport",2024-05
+Xinjiang,2.416048,"Ground Transport",2024-05
+Yunnan,2.554574,"Ground Transport",2024-05
+Zhejiang,2.444916,"Ground Transport",2024-05
+Anhui,11.734884,Industry,2024-05
+Beijing,0.431000,Industry,2024-05
+Chongqing,4.104687,Industry,2024-05
+Fujian,11.207664,Industry,2024-05
+Gansu,3.565242,Industry,2024-05
+Guangdong,17.667523,Industry,2024-05
+Guangxi,12.653595,Industry,2024-05
+Guizhou,8.663436,Industry,2024-05
+Hainan,0.647723,Industry,2024-05
+Hebei,50.659132,Industry,2024-05
+Heilongjiang,2.976499,Industry,2024-05
+Henan,13.584831,Industry,2024-05
+Hubei,25.671512,Industry,2024-05
+Hunan,8.488256,Industry,2024-05
+"Inner Mongolia",9.665691,Industry,2024-05
+Jiangsu,34.066378,Industry,2024-05
+Jiangxi,8.430725,Industry,2024-05
+Jilin,3.853237,Industry,2024-05
+Liaoning,17.949654,Industry,2024-05
+Ningxia,2.219039,Industry,2024-05
+Qinghai,1.975937,Industry,2024-05
+Shaanxi,6.544859,Industry,2024-05
+Shandong,32.522555,Industry,2024-05
+Shanghai,4.185970,Industry,2024-05
+Shanxi,14.881642,Industry,2024-05
+Sichuan,14.907709,Industry,2024-05
+Tianjin,5.825504,Industry,2024-05
+Tibet,0.226737,Industry,2024-05
+Xinjiang,5.757086,Industry,2024-05
+Yunnan,12.738561,Industry,2024-05
+Zhejiang,14.711595,Industry,2024-05
+Anhui,17.976607,Power,2024-05
+Beijing,1.255497,Power,2024-05
+Chongqing,3.301241,Power,2024-05
+Fujian,8.380755,Power,2024-05
+Gansu,4.140831,Power,2024-05
+Guangdong,19.057416,Power,2024-05
+Guangxi,5.955239,Power,2024-05
+Guizhou,5.955921,Power,2024-05
+Hainan,1.658714,Power,2024-05
+Hebei,21.156768,Power,2024-05
+Heilongjiang,4.223925,Power,2024-05
+Henan,15.182441,Power,2024-05
+Hubei,7.461043,Power,2024-05
+Hunan,3.869731,Power,2024-05
+"Inner Mongolia",40.342500,Power,2024-05
+Jiangsu,30.003135,Power,2024-05
+Jiangxi,5.441228,Power,2024-05
+Jilin,2.887781,Power,2024-05
+Liaoning,6.672382,Power,2024-05
+Ningxia,8.633349,Power,2024-05
+Qinghai,1.273305,Power,2024-05
+Shaanxi,13.618004,Power,2024-05
+Shandong,31.436353,Power,2024-05
+Shanghai,2.911537,Power,2024-05
+Shanxi,19.295896,Power,2024-05
+Sichuan,4.588014,Power,2024-05
+Tianjin,3.902156,Power,2024-05
+Tibet,0.040981,Power,2024-05
+Xinjiang,19.617678,Power,2024-05
+Yunnan,4.960342,Power,2024-05
+Zhejiang,14.960678,Power,2024-05
+Anhui,0.125363,Residential,2024-05
+Beijing,2.872930,Residential,2024-05
+Chongqing,0.000000,Residential,2024-05
+Fujian,0.000000,Residential,2024-05
+Gansu,1.179559,Residential,2024-05
+Guangdong,0.000000,Residential,2024-05
+Guangxi,0.000000,Residential,2024-05
+Guizhou,0.007825,Residential,2024-05
+Hainan,0.000000,Residential,2024-05
+Hebei,4.025743,Residential,2024-05
+Heilongjiang,3.650699,Residential,2024-05
+Henan,2.416321,Residential,2024-05
+Hubei,0.081357,Residential,2024-05
+Hunan,0.000000,Residential,2024-05
+"Inner Mongolia",2.864851,Residential,2024-05
+Jiangsu,0.005312,Residential,2024-05
+Jiangxi,0.000000,Residential,2024-05
+Jilin,2.920809,Residential,2024-05
+Liaoning,5.848306,Residential,2024-05
+Ningxia,0.636874,Residential,2024-05
+Qinghai,0.360552,Residential,2024-05
+Shaanxi,2.020936,Residential,2024-05
+Shandong,7.279537,Residential,2024-05
+Shanghai,0.000000,Residential,2024-05
+Shanxi,3.260499,Residential,2024-05
+Sichuan,0.000000,Residential,2024-05
+Tianjin,2.395915,Residential,2024-05
+Tibet,0.006461,Residential,2024-05
+Xinjiang,2.002326,Residential,2024-05
+Yunnan,0.007921,Residential,2024-05
+Zhejiang,0.000000,Residential,2024-05
+Anhui,32.567380,Total,2024-05
+Beijing,7.518356,Total,2024-05
+Chongqing,10.370317,Total,2024-05
+Fujian,22.439135,Total,2024-05
+Gansu,11.784654,Total,2024-05
+Guangdong,39.621010,Total,2024-05
+Guangxi,21.176813,Total,2024-05
+Guizhou,17.378585,Total,2024-05
+Hainan,4.865444,Total,2024-05
+Hebei,78.672649,Total,2024-05
+Heilongjiang,13.644466,Total,2024-05
+Henan,33.833301,Total,2024-05
+Hubei,35.937318,Total,2024-05
+Hunan,15.069943,Total,2024-05
+"Inner Mongolia",55.527994,Total,2024-05
+Jiangsu,67.297318,Total,2024-05
+Jiangxi,16.534989,Total,2024-05
+Jilin,12.431946,Total,2024-05
+Liaoning,33.378930,Total,2024-05
+Ningxia,14.121001,Total,2024-05
+Qinghai,6.310163,Total,2024-05
+Shaanxi,25.143122,Total,2024-05
+Shandong,74.349396,Total,2024-05
+Shanghai,10.008102,Total,2024-05
+Shanxi,40.140840,Total,2024-05
+Sichuan,22.764528,Total,2024-05
+Tianjin,14.798331,Total,2024-05
+Tibet,2.717671,Total,2024-05
+Xinjiang,29.998845,Total,2024-05
+Yunnan,20.584957,Total,2024-05
+Zhejiang,32.638027,Total,2024-05
+Anhui,0.295186,Aviation,2024-06
+Beijing,0.284304,Aviation,2024-06
+Chongqing,0.333904,Aviation,2024-06
+Fujian,0.319597,Aviation,2024-06
+Gansu,0.135164,Aviation,2024-06
+Guangdong,0.335827,Aviation,2024-06
+Guangxi,0.066999,Aviation,2024-06
+Guizhou,0.243070,Aviation,2024-06
+Hainan,0.018313,Aviation,2024-06
+Hebei,0.268559,Aviation,2024-06
+Heilongjiang,0.114739,Aviation,2024-06
+Henan,0.152277,Aviation,2024-06
+Hubei,0.140634,Aviation,2024-06
+Hunan,0.125353,Aviation,2024-06
+"Inner Mongolia",0.142624,Aviation,2024-06
+Jiangsu,0.772049,Aviation,2024-06
+Jiangxi,0.190689,Aviation,2024-06
+Jilin,0.108769,Aviation,2024-06
+Liaoning,0.255353,Aviation,2024-06
+Ningxia,0.056490,Aviation,2024-06
+Qinghai,0.040248,Aviation,2024-06
+Shaanxi,0.359755,Aviation,2024-06
+Shandong,0.573895,Aviation,2024-06
+Shanghai,0.300388,Aviation,2024-06
+Shanxi,0.136269,Aviation,2024-06
+Sichuan,0.668140,Aviation,2024-06
+Tianjin,0.101214,Aviation,2024-06
+Tibet,0.027715,Aviation,2024-06
+Xinjiang,0.207760,Aviation,2024-06
+Yunnan,0.326795,Aviation,2024-06
+Zhejiang,0.509961,Aviation,2024-06
+Anhui,2.334696,"Ground Transport",2024-06
+Beijing,2.575000,"Ground Transport",2024-06
+Chongqing,2.585406,"Ground Transport",2024-06
+Fujian,2.415617,"Ground Transport",2024-06
+Gansu,2.628479,"Ground Transport",2024-06
+Guangdong,2.465792,"Ground Transport",2024-06
+Guangxi,2.455467,"Ground Transport",2024-06
+Guizhou,2.468632,"Ground Transport",2024-06
+Hainan,2.453845,"Ground Transport",2024-06
+Hebei,2.474828,"Ground Transport",2024-06
+Heilongjiang,2.615302,"Ground Transport",2024-06
+Henan,2.397601,"Ground Transport",2024-06
+Hubei,2.485603,"Ground Transport",2024-06
+Hunan,2.523704,"Ground Transport",2024-06
+"Inner Mongolia",2.427835,"Ground Transport",2024-06
+Jiangsu,2.340721,"Ground Transport",2024-06
+Jiangxi,2.393866,"Ground Transport",2024-06
+Jilin,2.545206,"Ground Transport",2024-06
+Liaoning,2.512014,"Ground Transport",2024-06
+Ningxia,2.444395,"Ground Transport",2024-06
+Qinghai,2.548519,"Ground Transport",2024-06
+Shaanxi,2.484408,"Ground Transport",2024-06
+Shandong,2.425354,"Ground Transport",2024-06
+Shanghai,2.532586,"Ground Transport",2024-06
+Shanxi,2.465702,"Ground Transport",2024-06
+Sichuan,2.497230,"Ground Transport",2024-06
+Tianjin,2.456553,"Ground Transport",2024-06
+Tibet,2.318646,"Ground Transport",2024-06
+Xinjiang,2.318646,"Ground Transport",2024-06
+Yunnan,2.446541,"Ground Transport",2024-06
+Zhejiang,2.373158,"Ground Transport",2024-06
+Anhui,11.366554,Industry,2024-06
+Beijing,0.414032,Industry,2024-06
+Chongqing,3.978504,Industry,2024-06
+Fujian,10.691864,Industry,2024-06
+Gansu,3.568266,Industry,2024-06
+Guangdong,17.563337,Industry,2024-06
+Guangxi,12.541943,Industry,2024-06
+Guizhou,7.864741,Industry,2024-06
+Hainan,0.579924,Industry,2024-06
+Hebei,48.999095,Industry,2024-06
+Heilongjiang,3.042822,Industry,2024-06
+Henan,12.124423,Industry,2024-06
+Hubei,25.110010,Industry,2024-06
+Hunan,8.536444,Industry,2024-06
+"Inner Mongolia",9.869635,Industry,2024-06
+Jiangsu,33.183398,Industry,2024-06
+Jiangxi,8.152583,Industry,2024-06
+Jilin,3.623686,Industry,2024-06
+Liaoning,17.933742,Industry,2024-06
+Ningxia,2.137348,Industry,2024-06
+Qinghai,1.973252,Industry,2024-06
+Shaanxi,6.085805,Industry,2024-06
+Shandong,32.823694,Industry,2024-06
+Shanghai,3.909560,Industry,2024-06
+Shanxi,15.700536,Industry,2024-06
+Sichuan,14.601516,Industry,2024-06
+Tianjin,5.679993,Industry,2024-06
+Tibet,0.298646,Industry,2024-06
+Xinjiang,5.589769,Industry,2024-06
+Yunnan,11.931011,Industry,2024-06
+Zhejiang,13.674761,Industry,2024-06
+Anhui,20.645380,Power,2024-06
+Beijing,1.839197,Power,2024-06
+Chongqing,3.005451,Power,2024-06
+Fujian,8.539105,Power,2024-06
+Gansu,5.420305,Power,2024-06
+Guangdong,19.762870,Power,2024-06
+Guangxi,5.319932,Power,2024-06
+Guizhou,5.420496,Power,2024-06
+Hainan,1.749778,Power,2024-06
+Hebei,24.853971,Power,2024-06
+Heilongjiang,4.598741,Power,2024-06
+Henan,19.281237,Power,2024-06
+Hubei,9.130925,Power,2024-06
+Hunan,3.501857,Power,2024-06
+"Inner Mongolia",44.406527,Power,2024-06
+Jiangsu,29.995717,Power,2024-06
+Jiangxi,5.418743,Power,2024-06
+Jilin,3.047007,Power,2024-06
+Liaoning,8.080795,Power,2024-06
+Ningxia,9.434100,Power,2024-06
+Qinghai,0.797735,Power,2024-06
+Shaanxi,16.992243,Power,2024-06
+Shandong,35.664584,Power,2024-06
+Shanghai,2.617538,Power,2024-06
+Shanxi,22.580784,Power,2024-06
+Sichuan,3.191660,Power,2024-06
+Tianjin,4.972868,Power,2024-06
+Tibet,0.040980,Power,2024-06
+Xinjiang,20.592208,Power,2024-06
+Yunnan,3.728751,Power,2024-06
+Zhejiang,12.924022,Power,2024-06
+Anhui,0.118638,Residential,2024-06
+Beijing,2.718778,Residential,2024-06
+Chongqing,0.000000,Residential,2024-06
+Fujian,0.000000,Residential,2024-06
+Gansu,1.116266,Residential,2024-06
+Guangdong,0.000000,Residential,2024-06
+Guangxi,0.000000,Residential,2024-06
+Guizhou,0.007405,Residential,2024-06
+Hainan,0.000000,Residential,2024-06
+Hebei,3.809731,Residential,2024-06
+Heilongjiang,3.454810,Residential,2024-06
+Henan,2.286665,Residential,2024-06
+Hubei,0.076991,Residential,2024-06
+Hunan,0.000000,Residential,2024-06
+"Inner Mongolia",2.711129,Residential,2024-06
+Jiangsu,0.005030,Residential,2024-06
+Jiangxi,0.000000,Residential,2024-06
+Jilin,2.764089,Residential,2024-06
+Liaoning,5.534504,Residential,2024-06
+Ningxia,0.602702,Residential,2024-06
+Qinghai,0.341207,Residential,2024-06
+Shaanxi,1.912496,Residential,2024-06
+Shandong,6.888933,Residential,2024-06
+Shanghai,0.000000,Residential,2024-06
+Shanxi,3.085554,Residential,2024-06
+Sichuan,0.000000,Residential,2024-06
+Tianjin,2.267357,Residential,2024-06
+Tibet,0.006117,Residential,2024-06
+Xinjiang,1.894888,Residential,2024-06
+Yunnan,0.007496,Residential,2024-06
+Zhejiang,0.000000,Residential,2024-06
+Anhui,34.760460,Total,2024-06
+Beijing,7.831304,Total,2024-06
+Chongqing,9.903265,Total,2024-06
+Fujian,21.966178,Total,2024-06
+Gansu,12.868476,Total,2024-06
+Guangdong,40.127821,Total,2024-06
+Guangxi,20.384332,Total,2024-06
+Guizhou,16.004346,Total,2024-06
+Hainan,4.801851,Total,2024-06
+Hebei,80.406182,Total,2024-06
+Heilongjiang,13.826418,Total,2024-06
+Henan,36.242203,Total,2024-06
+Hubei,36.944167,Total,2024-06
+Hunan,14.687360,Total,2024-06
+"Inner Mongolia",59.557747,Total,2024-06
+Jiangsu,66.296920,Total,2024-06
+Jiangxi,16.155877,Total,2024-06
+Jilin,12.088759,Total,2024-06
+Liaoning,34.316408,Total,2024-06
+Ningxia,14.675036,Total,2024-06
+Qinghai,5.700962,Total,2024-06
+Shaanxi,27.834715,Total,2024-06
+Shandong,78.376464,Total,2024-06
+Shanghai,9.360066,Total,2024-06
+Shanxi,43.968841,Total,2024-06
+Sichuan,20.958550,Total,2024-06
+Tianjin,15.477987,Total,2024-06
+Tibet,2.692101,Total,2024-06
+Xinjiang,30.603274,Total,2024-06
+Yunnan,18.440595,Total,2024-06
+Zhejiang,29.481899,Total,2024-06
+Anhui,0.335253,Aviation,2024-07
+Beijing,0.318919,Aviation,2024-07
+Chongqing,0.399853,Aviation,2024-07
+Fujian,0.355732,Aviation,2024-07
+Gansu,0.162939,Aviation,2024-07
+Guangdong,0.396532,Aviation,2024-07
+Guangxi,0.079983,Aviation,2024-07
+Guizhou,0.285514,Aviation,2024-07
+Hainan,0.021820,Aviation,2024-07
+Hebei,0.301946,Aviation,2024-07
+Heilongjiang,0.143052,Aviation,2024-07
+Henan,0.181507,Aviation,2024-07
+Hubei,0.164801,Aviation,2024-07
+Hunan,0.149012,Aviation,2024-07
+"Inner Mongolia",0.159429,Aviation,2024-07
+Jiangsu,0.869615,Aviation,2024-07
+Jiangxi,0.215144,Aviation,2024-07
+Jilin,0.133352,Aviation,2024-07
+Liaoning,0.303733,Aviation,2024-07
+Ningxia,0.066896,Aviation,2024-07
+Qinghai,0.047646,Aviation,2024-07
+Shaanxi,0.427563,Aviation,2024-07
+Shandong,0.646566,Aviation,2024-07
+Shanghai,0.339273,Aviation,2024-07
+Shanxi,0.156018,Aviation,2024-07
+Sichuan,0.805026,Aviation,2024-07
+Tianjin,0.114411,Aviation,2024-07
+Tibet,0.032439,Aviation,2024-07
+Xinjiang,0.255817,Aviation,2024-07
+Yunnan,0.386595,Aviation,2024-07
+Zhejiang,0.570119,Aviation,2024-07
+Anhui,2.414949,"Ground Transport",2024-07
+Beijing,2.670278,"Ground Transport",2024-07
+Chongqing,2.611136,"Ground Transport",2024-07
+Fujian,2.475986,"Ground Transport",2024-07
+Gansu,2.650389,"Ground Transport",2024-07
+Guangdong,2.506848,"Ground Transport",2024-07
+Guangxi,2.466770,"Ground Transport",2024-07
+Guizhou,2.537125,"Ground Transport",2024-07
+Hainan,2.502634,"Ground Transport",2024-07
+Hebei,2.529418,"Ground Transport",2024-07
+Heilongjiang,2.681487,"Ground Transport",2024-07
+Henan,2.483087,"Ground Transport",2024-07
+Hubei,2.562796,"Ground Transport",2024-07
+Hunan,2.527193,"Ground Transport",2024-07
+"Inner Mongolia",2.482375,"Ground Transport",2024-07
+Jiangsu,2.415264,"Ground Transport",2024-07
+Jiangxi,2.433284,"Ground Transport",2024-07
+Jilin,2.644698,"Ground Transport",2024-07
+Liaoning,2.690001,"Ground Transport",2024-07
+Ningxia,2.512752,"Ground Transport",2024-07
+Qinghai,2.648439,"Ground Transport",2024-07
+Shaanxi,2.570063,"Ground Transport",2024-07
+Shandong,2.536085,"Ground Transport",2024-07
+Shanghai,2.556399,"Ground Transport",2024-07
+Shanxi,2.545752,"Ground Transport",2024-07
+Sichuan,2.563907,"Ground Transport",2024-07
+Tianjin,2.476578,"Ground Transport",2024-07
+Tibet,2.386808,"Ground Transport",2024-07
+Xinjiang,2.386808,"Ground Transport",2024-07
+Yunnan,2.553927,"Ground Transport",2024-07
+Zhejiang,2.422467,"Ground Transport",2024-07
+Anhui,11.049795,Industry,2024-07
+Beijing,0.440967,Industry,2024-07
+Chongqing,3.737425,Industry,2024-07
+Fujian,9.412228,Industry,2024-07
+Gansu,2.967015,Industry,2024-07
+Guangdong,16.528696,Industry,2024-07
+Guangxi,12.686688,Industry,2024-07
+Guizhou,7.450858,Industry,2024-07
+Hainan,0.534455,Industry,2024-07
+Hebei,41.050785,Industry,2024-07
+Heilongjiang,2.864217,Industry,2024-07
+Henan,11.567507,Industry,2024-07
+Hubei,23.605570,Industry,2024-07
+Hunan,7.826118,Industry,2024-07
+"Inner Mongolia",9.618170,Industry,2024-07
+Jiangsu,31.484397,Industry,2024-07
+Jiangxi,8.005989,Industry,2024-07
+Jilin,3.846898,Industry,2024-07
+Liaoning,16.696884,Industry,2024-07
+Ningxia,2.050266,Industry,2024-07
+Qinghai,1.855308,Industry,2024-07
+Shaanxi,5.990952,Industry,2024-07
+Shandong,29.057336,Industry,2024-07
+Shanghai,3.972149,Industry,2024-07
+Shanxi,12.660542,Industry,2024-07
+Sichuan,13.568758,Industry,2024-07
+Tianjin,4.949344,Industry,2024-07
+Tibet,0.219341,Industry,2024-07
+Xinjiang,5.892877,Industry,2024-07
+Yunnan,11.344522,Industry,2024-07
+Zhejiang,12.636776,Industry,2024-07
+Anhui,24.256542,Power,2024-07
+Beijing,2.334786,Power,2024-07
+Chongqing,3.729084,Power,2024-07
+Fujian,11.600515,Power,2024-07
+Gansu,7.009951,Power,2024-07
+Guangdong,24.614773,Power,2024-07
+Guangxi,5.685713,Power,2024-07
+Guizhou,5.668891,Power,2024-07
+Hainan,1.827840,Power,2024-07
+Hebei,26.199314,Power,2024-07
+Heilongjiang,5.838532,Power,2024-07
+Henan,19.956699,Power,2024-07
+Hubei,7.761622,Power,2024-07
+Hunan,6.593399,Power,2024-07
+"Inner Mongolia",53.147695,Power,2024-07
+Jiangsu,36.083848,Power,2024-07
+Jiangxi,7.003896,Power,2024-07
+Jilin,4.508990,Power,2024-07
+Liaoning,10.800803,Power,2024-07
+Ningxia,10.456912,Power,2024-07
+Qinghai,0.797736,Power,2024-07
+Shaanxi,18.414565,Power,2024-07
+Shandong,37.825309,Power,2024-07
+Shanghai,4.760884,Power,2024-07
+Shanxi,26.286620,Power,2024-07
+Sichuan,3.501197,Power,2024-07
+Tianjin,6.011857,Power,2024-07
+Tibet,0.040982,Power,2024-07
+Xinjiang,22.096369,Power,2024-07
+Yunnan,2.913350,Power,2024-07
+Zhejiang,20.151232,Power,2024-07
+Anhui,0.117108,Residential,2024-07
+Beijing,2.683760,Residential,2024-07
+Chongqing,0.000000,Residential,2024-07
+Fujian,0.000000,Residential,2024-07
+Gansu,1.101887,Residential,2024-07
+Guangdong,0.000000,Residential,2024-07
+Guangxi,0.000000,Residential,2024-07
+Guizhou,0.007312,Residential,2024-07
+Hainan,0.000000,Residential,2024-07
+Hebei,3.760663,Residential,2024-07
+Heilongjiang,3.410312,Residential,2024-07
+Henan,2.257212,Residential,2024-07
+Hubei,0.076001,Residential,2024-07
+Hunan,0.000000,Residential,2024-07
+"Inner Mongolia",2.676209,Residential,2024-07
+Jiangsu,0.004964,Residential,2024-07
+Jiangxi,0.000000,Residential,2024-07
+Jilin,2.728489,Residential,2024-07
+Liaoning,5.463222,Residential,2024-07
+Ningxia,0.594940,Residential,2024-07
+Qinghai,0.336815,Residential,2024-07
+Shaanxi,1.887864,Residential,2024-07
+Shandong,6.800208,Residential,2024-07
+Shanghai,0.000000,Residential,2024-07
+Shanxi,3.045810,Residential,2024-07
+Sichuan,0.000000,Residential,2024-07
+Tianjin,2.238153,Residential,2024-07
+Tibet,0.006037,Residential,2024-07
+Xinjiang,1.870481,Residential,2024-07
+Yunnan,0.007402,Residential,2024-07
+Zhejiang,0.000000,Residential,2024-07
+Anhui,38.173645,Total,2024-07
+Beijing,8.448705,Total,2024-07
+Chongqing,10.477497,Total,2024-07
+Fujian,23.844456,Total,2024-07
+Gansu,13.892180,Total,2024-07
+Guangdong,44.046846,Total,2024-07
+Guangxi,20.919155,Total,2024-07
+Guizhou,15.949703,Total,2024-07
+Hainan,4.886738,Total,2024-07
+Hebei,73.842121,Total,2024-07
+Heilongjiang,14.937598,Total,2024-07
+Henan,36.446012,Total,2024-07
+Hubei,34.170788,Total,2024-07
+Hunan,17.095726,Total,2024-07
+"Inner Mongolia",68.083875,Total,2024-07
+Jiangsu,70.858085,Total,2024-07
+Jiangxi,17.658317,Total,2024-07
+Jilin,13.862433,Total,2024-07
+Liaoning,35.954648,Total,2024-07
+Ningxia,15.681768,Total,2024-07
+Qinghai,5.685939,Total,2024-07
+Shaanxi,29.291012,Total,2024-07
+Shandong,76.865492,Total,2024-07
+Shanghai,11.628698,Total,2024-07
+Shanxi,44.694746,Total,2024-07
+Sichuan,20.438889,Total,2024-07
+Tianjin,15.790340,Total,2024-07
+Tibet,2.685607,Total,2024-07
+Xinjiang,32.502357,Total,2024-07
+Yunnan,17.205793,Total,2024-07
+Zhejiang,35.780599,Total,2024-07
+Anhui,0.340226,Aviation,2024-08
+Beijing,0.323650,Aviation,2024-08
+Chongqing,0.399667,Aviation,2024-08
+Fujian,0.361006,Aviation,2024-08
+Gansu,0.162865,Aviation,2024-08
+Guangdong,0.404367,Aviation,2024-08
+Guangxi,0.081564,Aviation,2024-08
+Guizhou,0.285379,Aviation,2024-08
+Hainan,0.022249,Aviation,2024-08
+Hebei,0.306420,Aviation,2024-08
+Heilongjiang,0.144275,Aviation,2024-08
+Henan,0.185095,Aviation,2024-08
+Hubei,0.168052,Aviation,2024-08
+Hunan,0.151959,Aviation,2024-08
+"Inner Mongolia",0.161791,Aviation,2024-08
+Jiangsu,0.882509,Aviation,2024-08
+Jiangxi,0.218336,Aviation,2024-08
+Jilin,0.134496,Aviation,2024-08
+Liaoning,0.306330,Aviation,2024-08
+Ningxia,0.066865,Aviation,2024-08
+Qinghai,0.047621,Aviation,2024-08
+Shaanxi,0.427366,Aviation,2024-08
+Shandong,0.656154,Aviation,2024-08
+Shanghai,0.344305,Aviation,2024-08
+Shanxi,0.158335,Aviation,2024-08
+Sichuan,0.804656,Aviation,2024-08
+Tianjin,0.116108,Aviation,2024-08
+Tibet,0.032422,Aviation,2024-08
+Xinjiang,0.255701,Aviation,2024-08
+Yunnan,0.386418,Aviation,2024-08
+Zhejiang,0.578579,Aviation,2024-08
+Anhui,2.380287,"Ground Transport",2024-08
+Beijing,2.630642,"Ground Transport",2024-08
+Chongqing,2.486571,"Ground Transport",2024-08
+Fujian,2.450773,"Ground Transport",2024-08
+Gansu,2.642360,"Ground Transport",2024-08
+Guangdong,2.484935,"Ground Transport",2024-08
+Guangxi,2.436097,"Ground Transport",2024-08
+Guizhou,2.490278,"Ground Transport",2024-08
+Hainan,2.448422,"Ground Transport",2024-08
+Hebei,2.510425,"Ground Transport",2024-08
+Heilongjiang,2.611497,"Ground Transport",2024-08
+Henan,2.442288,"Ground Transport",2024-08
+Hubei,2.490569,"Ground Transport",2024-08
+Hunan,2.454202,"Ground Transport",2024-08
+"Inner Mongolia",2.478317,"Ground Transport",2024-08
+Jiangsu,2.387158,"Ground Transport",2024-08
+Jiangxi,2.397628,"Ground Transport",2024-08
+Jilin,2.653424,"Ground Transport",2024-08
+Liaoning,2.641932,"Ground Transport",2024-08
+Ningxia,2.482169,"Ground Transport",2024-08
+Qinghai,2.574813,"Ground Transport",2024-08
+Shaanxi,2.489386,"Ground Transport",2024-08
+Shandong,2.504342,"Ground Transport",2024-08
+Shanghai,2.521223,"Ground Transport",2024-08
+Shanxi,2.521590,"Ground Transport",2024-08
+Sichuan,2.475064,"Ground Transport",2024-08
+Tianjin,2.478956,"Ground Transport",2024-08
+Tibet,2.386591,"Ground Transport",2024-08
+Xinjiang,2.386591,"Ground Transport",2024-08
+Yunnan,2.498895,"Ground Transport",2024-08
+Zhejiang,2.429482,"Ground Transport",2024-08
+Anhui,10.755931,Industry,2024-08
+Beijing,0.410293,Industry,2024-08
+Chongqing,3.550587,Industry,2024-08
+Fujian,9.962383,Industry,2024-08
+Gansu,3.493780,Industry,2024-08
+Guangdong,17.246030,Industry,2024-08
+Guangxi,12.823769,Industry,2024-08
+Guizhou,8.078514,Industry,2024-08
+Hainan,0.541926,Industry,2024-08
+Hebei,40.399177,Industry,2024-08
+Heilongjiang,2.876229,Industry,2024-08
+Henan,11.885893,Industry,2024-08
+Hubei,23.939918,Industry,2024-08
+Hunan,8.104966,Industry,2024-08
+"Inner Mongolia",9.369846,Industry,2024-08
+Jiangsu,31.679676,Industry,2024-08
+Jiangxi,7.447312,Industry,2024-08
+Jilin,3.672470,Industry,2024-08
+Liaoning,16.535299,Industry,2024-08
+Ningxia,1.952484,Industry,2024-08
+Qinghai,2.005050,Industry,2024-08
+Shaanxi,5.376920,Industry,2024-08
+Shandong,28.995816,Industry,2024-08
+Shanghai,4.118233,Industry,2024-08
+Shanxi,12.773659,Industry,2024-08
+Sichuan,13.070945,Industry,2024-08
+Tianjin,5.013171,Industry,2024-08
+Tibet,0.245197,Industry,2024-08
+Xinjiang,5.927057,Industry,2024-08
+Yunnan,11.511006,Industry,2024-08
+Zhejiang,12.421643,Industry,2024-08
+Anhui,26.450163,Power,2024-08
+Beijing,2.031926,Power,2024-08
+Chongqing,5.070712,Power,2024-08
+Fujian,11.928938,Power,2024-08
+Gansu,6.606721,Power,2024-08
+Guangdong,23.873790,Power,2024-08
+Guangxi,5.807639,Power,2024-08
+Guizhou,8.461935,Power,2024-08
+Hainan,1.944921,Power,2024-08
+Hebei,26.617866,Power,2024-08
+Heilongjiang,5.579043,Power,2024-08
+Henan,23.779170,Power,2024-08
+Hubei,11.295096,Power,2024-08
+Hunan,7.810203,Power,2024-08
+"Inner Mongolia",51.466029,Power,2024-08
+Jiangsu,40.481241,Power,2024-08
+Jiangxi,7.627842,Power,2024-08
+Jilin,4.566890,Power,2024-08
+Liaoning,11.619446,Power,2024-08
+Ningxia,10.140648,Power,2024-08
+Qinghai,0.521597,Power,2024-08
+Shaanxi,19.579664,Power,2024-08
+Shandong,43.671957,Power,2024-08
+Shanghai,5.505363,Power,2024-08
+Shanxi,24.978674,Power,2024-08
+Sichuan,5.963728,Power,2024-08
+Tianjin,6.091170,Power,2024-08
+Tibet,0.040982,Power,2024-08
+Xinjiang,22.569513,Power,2024-08
+Yunnan,2.344269,Power,2024-08
+Zhejiang,21.140466,Power,2024-08
+Anhui,0.116657,Residential,2024-08
+Beijing,2.673396,Residential,2024-08
+Chongqing,0.000000,Residential,2024-08
+Fujian,0.000000,Residential,2024-08
+Gansu,1.097635,Residential,2024-08
+Guangdong,0.000000,Residential,2024-08
+Guangxi,0.000000,Residential,2024-08
+Guizhou,0.007284,Residential,2024-08
+Hainan,0.000000,Residential,2024-08
+Hebei,3.746143,Residential,2024-08
+Heilongjiang,3.397146,Residential,2024-08
+Henan,2.248503,Residential,2024-08
+Hubei,0.075708,Residential,2024-08
+Hunan,0.000000,Residential,2024-08
+"Inner Mongolia",2.665879,Residential,2024-08
+Jiangsu,0.004947,Residential,2024-08
+Jiangxi,0.000000,Residential,2024-08
+Jilin,2.717957,Residential,2024-08
+Liaoning,5.442129,Residential,2024-08
+Ningxia,0.592641,Residential,2024-08
+Qinghai,0.335512,Residential,2024-08
+Shaanxi,1.880576,Residential,2024-08
+Shandong,6.773955,Residential,2024-08
+Shanghai,0.000000,Residential,2024-08
+Shanxi,3.034050,Residential,2024-08
+Sichuan,0.000000,Residential,2024-08
+Tianjin,2.229512,Residential,2024-08
+Tibet,0.006014,Residential,2024-08
+Xinjiang,1.863260,Residential,2024-08
+Yunnan,0.007369,Residential,2024-08
+Zhejiang,0.000000,Residential,2024-08
+Anhui,40.043257,Total,2024-08
+Beijing,8.069907,Total,2024-08
+Chongqing,11.507532,Total,2024-08
+Fujian,24.703102,Total,2024-08
+Gansu,14.003361,Total,2024-08
+Guangdong,44.009124,Total,2024-08
+Guangxi,21.149076,Total,2024-08
+Guizhou,19.323394,Total,2024-08
+Hainan,4.957520,Total,2024-08
+Hebei,73.580034,Total,2024-08
+Heilongjiang,14.608188,Total,2024-08
+Henan,40.540946,Total,2024-08
+Hubei,37.969347,Total,2024-08
+Hunan,18.521335,Total,2024-08
+"Inner Mongolia",66.141862,Total,2024-08
+Jiangsu,75.435532,Total,2024-08
+Jiangxi,17.691115,Total,2024-08
+Jilin,13.745236,Total,2024-08
+Liaoning,36.545138,Total,2024-08
+Ningxia,15.234805,Total,2024-08
+Qinghai,5.484589,Total,2024-08
+Shaanxi,29.753910,Total,2024-08
+Shandong,82.602221,Total,2024-08
+Shanghai,12.489126,Total,2024-08
+Shanxi,43.466308,Total,2024-08
+Sichuan,22.314394,Total,2024-08
+Tianjin,15.928918,Total,2024-08
+Tibet,2.711204,Total,2024-08
+Xinjiang,33.002117,Total,2024-08
+Yunnan,16.747958,Total,2024-08
+Zhejiang,36.570167,Total,2024-08
+Anhui,0.298082,Aviation,2024-09
+Beijing,0.283559,Aviation,2024-09
+Chongqing,0.341611,Aviation,2024-09
+Fujian,0.316290,Aviation,2024-09
+Gansu,0.139208,Aviation,2024-09
+Guangdong,0.344378,Aviation,2024-09
+Guangxi,0.069464,Aviation,2024-09
+Guizhou,0.243928,Aviation,2024-09
+Hainan,0.018946,Aviation,2024-09
+Hebei,0.268466,Aviation,2024-09
+Heilongjiang,0.123850,Aviation,2024-09
+Henan,0.157633,Aviation,2024-09
+Hubei,0.143124,Aviation,2024-09
+Hunan,0.129415,Aviation,2024-09
+"Inner Mongolia",0.141750,Aviation,2024-09
+Jiangsu,0.773197,Aviation,2024-09
+Jiangxi,0.191293,Aviation,2024-09
+Jilin,0.115453,Aviation,2024-09
+Liaoning,0.262963,Aviation,2024-09
+Ningxia,0.057152,Aviation,2024-09
+Qinghai,0.040706,Aviation,2024-09
+Shaanxi,0.365286,Aviation,2024-09
+Shandong,0.574878,Aviation,2024-09
+Shanghai,0.301659,Aviation,2024-09
+Shanxi,0.138723,Aviation,2024-09
+Sichuan,0.687772,Aviation,2024-09
+Tianjin,0.101729,Aviation,2024-09
+Tibet,0.027713,Aviation,2024-09
+Xinjiang,0.218555,Aviation,2024-09
+Yunnan,0.330285,Aviation,2024-09
+Zhejiang,0.506912,Aviation,2024-09
+Anhui,2.339153,"Ground Transport",2024-09
+Beijing,2.651425,"Ground Transport",2024-09
+Chongqing,2.544330,"Ground Transport",2024-09
+Fujian,2.431119,"Ground Transport",2024-09
+Gansu,2.684933,"Ground Transport",2024-09
+Guangdong,2.467807,"Ground Transport",2024-09
+Guangxi,2.384792,"Ground Transport",2024-09
+Guizhou,2.446190,"Ground Transport",2024-09
+Hainan,2.480293,"Ground Transport",2024-09
+Hebei,2.482861,"Ground Transport",2024-09
+Heilongjiang,2.625118,"Ground Transport",2024-09
+Henan,2.395836,"Ground Transport",2024-09
+Hubei,2.521683,"Ground Transport",2024-09
+Hunan,2.432867,"Ground Transport",2024-09
+"Inner Mongolia",2.497927,"Ground Transport",2024-09
+Jiangsu,2.350065,"Ground Transport",2024-09
+Jiangxi,2.369698,"Ground Transport",2024-09
+Jilin,2.623553,"Ground Transport",2024-09
+Liaoning,2.644361,"Ground Transport",2024-09
+Ningxia,2.467317,"Ground Transport",2024-09
+Qinghai,2.565897,"Ground Transport",2024-09
+Shaanxi,2.521902,"Ground Transport",2024-09
+Shandong,2.445342,"Ground Transport",2024-09
+Shanghai,2.601597,"Ground Transport",2024-09
+Shanxi,2.483330,"Ground Transport",2024-09
+Sichuan,2.504875,"Ground Transport",2024-09
+Tianjin,2.557945,"Ground Transport",2024-09
+Tibet,2.329393,"Ground Transport",2024-09
+Xinjiang,2.329393,"Ground Transport",2024-09
+Yunnan,2.421861,"Ground Transport",2024-09
+Zhejiang,2.383040,"Ground Transport",2024-09
+Anhui,11.058180,Industry,2024-09
+Beijing,0.350885,Industry,2024-09
+Chongqing,3.730591,Industry,2024-09
+Fujian,9.600643,Industry,2024-09
+Gansu,3.670366,Industry,2024-09
+Guangdong,16.917035,Industry,2024-09
+Guangxi,11.659413,Industry,2024-09
+Guizhou,7.943919,Industry,2024-09
+Hainan,0.452817,Industry,2024-09
+Hebei,41.320950,Industry,2024-09
+Heilongjiang,2.887217,Industry,2024-09
+Henan,12.032452,Industry,2024-09
+Hubei,24.452157,Industry,2024-09
+Hunan,10.576604,Industry,2024-09
+"Inner Mongolia",9.168292,Industry,2024-09
+Jiangsu,32.189289,Industry,2024-09
+Jiangxi,7.942477,Industry,2024-09
+Jilin,3.593779,Industry,2024-09
+Liaoning,16.872522,Industry,2024-09
+Ningxia,2.005661,Industry,2024-09
+Qinghai,1.982143,Industry,2024-09
+Shaanxi,5.551090,Industry,2024-09
+Shandong,29.054695,Industry,2024-09
+Shanghai,4.154012,Industry,2024-09
+Shanxi,13.579618,Industry,2024-09
+Sichuan,13.389037,Industry,2024-09
+Tianjin,5.890276,Industry,2024-09
+Tibet,0.235112,Industry,2024-09
+Xinjiang,6.023270,Industry,2024-09
+Yunnan,11.004372,Industry,2024-09
+Zhejiang,12.908900,Industry,2024-09
+Anhui,21.223483,Power,2024-09
+Beijing,1.310568,Power,2024-09
+Chongqing,5.477422,Power,2024-09
+Fujian,11.231033,Power,2024-09
+Gansu,6.032898,Power,2024-09
+Guangdong,24.442212,Power,2024-09
+Guangxi,6.545631,Power,2024-09
+Guizhou,8.732407,Power,2024-09
+Hainan,1.840845,Power,2024-09
+Hebei,22.472217,Power,2024-09
+Heilongjiang,4.274380,Power,2024-09
+Henan,17.669354,Power,2024-09
+Hubei,11.963048,Power,2024-09
+Hunan,8.036593,Power,2024-09
+"Inner Mongolia",43.154037,Power,2024-09
+Jiangsu,33.436514,Power,2024-09
+Jiangxi,7.498556,Power,2024-09
+Jilin,3.018060,Power,2024-09
+Liaoning,8.036784,Power,2024-09
+Ningxia,9.131298,Power,2024-09
+Qinghai,1.779557,Power,2024-09
+Shaanxi,17.484008,Power,2024-09
+Shandong,36.579713,Power,2024-09
+Shanghai,4.647076,Power,2024-09
+Shanxi,20.821829,Power,2024-09
+Sichuan,7.160602,Power,2024-09
+Tianjin,4.623896,Power,2024-09
+Tibet,0.040980,Power,2024-09
+Xinjiang,19.723609,Power,2024-09
+Yunnan,3.660801,Power,2024-09
+Zhejiang,19.127089,Power,2024-09
+Anhui,0.123651,Residential,2024-09
+Beijing,2.833688,Residential,2024-09
+Chongqing,0.000000,Residential,2024-09
+Fujian,0.000000,Residential,2024-09
+Gansu,1.163449,Residential,2024-09
+Guangdong,0.000000,Residential,2024-09
+Guangxi,0.000000,Residential,2024-09
+Guizhou,0.007718,Residential,2024-09
+Hainan,0.000000,Residential,2024-09
+Hebei,3.970757,Residential,2024-09
+Heilongjiang,3.600834,Residential,2024-09
+Henan,2.383317,Residential,2024-09
+Hubei,0.080246,Residential,2024-09
+Hunan,0.000000,Residential,2024-09
+"Inner Mongolia",2.825721,Residential,2024-09
+Jiangsu,0.005242,Residential,2024-09
+Jiangxi,0.000000,Residential,2024-09
+Jilin,2.880916,Residential,2024-09
+Liaoning,5.768431,Residential,2024-09
+Ningxia,0.628177,Residential,2024-09
+Qinghai,0.355629,Residential,2024-09
+Shaanxi,1.993333,Residential,2024-09
+Shandong,7.180107,Residential,2024-09
+Shanghai,0.000000,Residential,2024-09
+Shanxi,3.215969,Residential,2024-09
+Sichuan,0.000000,Residential,2024-09
+Tianjin,2.363188,Residential,2024-09
+Tibet,0.006374,Residential,2024-09
+Xinjiang,1.974980,Residential,2024-09
+Yunnan,0.007813,Residential,2024-09
+Zhejiang,0.000000,Residential,2024-09
+Anhui,35.042550,Total,2024-09
+Beijing,7.430120,Total,2024-09
+Chongqing,12.093958,Total,2024-09
+Fujian,23.579084,Total,2024-09
+Gansu,13.690849,Total,2024-09
+Guangdong,44.171436,Total,2024-09
+Guangxi,20.659302,Total,2024-09
+Guizhou,19.374167,Total,2024-09
+Hainan,4.792902,Total,2024-09
+Hebei,70.515247,Total,2024-09
+Heilongjiang,13.511395,Total,2024-09
+Henan,34.638589,Total,2024-09
+Hubei,39.160263,Total,2024-09
+Hunan,21.175481,Total,2024-09
+"Inner Mongolia",57.787734,Total,2024-09
+Jiangsu,68.754308,Total,2024-09
+Jiangxi,18.002019,Total,2024-09
+Jilin,12.231759,Total,2024-09
+Liaoning,33.585065,Total,2024-09
+Ningxia,14.289602,Total,2024-09
+Qinghai,6.723928,Total,2024-09
+Shaanxi,27.915610,Total,2024-09
+Shandong,75.834735,Total,2024-09
+Shanghai,11.704347,Total,2024-09
+Shanxi,40.239466,Total,2024-09
+Sichuan,23.742286,Total,2024-09
+Tianjin,15.537035,Total,2024-09
+Tibet,2.639574,Total,2024-09
+Xinjiang,30.269804,Total,2024-09
+Yunnan,17.425135,Total,2024-09
+Zhejiang,34.925943,Total,2024-09
+Anhui,0.305322,Aviation,2024-10
+Beijing,0.300602,Aviation,2024-10
+Chongqing,0.341042,Aviation,2024-10
+Fujian,0.348357,Aviation,2024-10
+Gansu,0.137748,Aviation,2024-10
+Guangdong,0.355436,Aviation,2024-10
+Guangxi,0.071897,Aviation,2024-10
+Guizhou,0.240131,Aviation,2024-10
+Hainan,0.019917,Aviation,2024-10
+Hebei,0.286639,Aviation,2024-10
+Heilongjiang,0.126087,Aviation,2024-10
+Henan,0.159581,Aviation,2024-10
+Hubei,0.150606,Aviation,2024-10
+Hunan,0.133583,Aviation,2024-10
+"Inner Mongolia",0.158706,Aviation,2024-10
+Jiangsu,0.826296,Aviation,2024-10
+Jiangxi,0.206274,Aviation,2024-10
+Jilin,0.109898,Aviation,2024-10
+Liaoning,0.249569,Aviation,2024-10
+Ningxia,0.058297,Aviation,2024-10
+Qinghai,0.041858,Aviation,2024-10
+Shaanxi,0.376487,Aviation,2024-10
+Shandong,0.594451,Aviation,2024-10
+Shanghai,0.325236,Aviation,2024-10
+Shanxi,0.153759,Aviation,2024-10
+Sichuan,0.685381,Aviation,2024-10
+Tianjin,0.108704,Aviation,2024-10
+Tibet,0.029291,Aviation,2024-10
+Xinjiang,0.217531,Aviation,2024-10
+Yunnan,0.334062,Aviation,2024-10
+Zhejiang,0.543582,Aviation,2024-10
+Anhui,2.429167,"Ground Transport",2024-10
+Beijing,2.684895,"Ground Transport",2024-10
+Chongqing,2.639605,"Ground Transport",2024-10
+Fujian,2.496464,"Ground Transport",2024-10
+Gansu,2.710702,"Ground Transport",2024-10
+Guangdong,2.522803,"Ground Transport",2024-10
+Guangxi,2.474170,"Ground Transport",2024-10
+Guizhou,2.506230,"Ground Transport",2024-10
+Hainan,2.535461,"Ground Transport",2024-10
+Hebei,2.578447,"Ground Transport",2024-10
+Heilongjiang,2.644328,"Ground Transport",2024-10
+Henan,2.498376,"Ground Transport",2024-10
+Hubei,2.592938,"Ground Transport",2024-10
+Hunan,2.527370,"Ground Transport",2024-10
+"Inner Mongolia",2.547251,"Ground Transport",2024-10
+Jiangsu,2.432844,"Ground Transport",2024-10
+Jiangxi,2.453002,"Ground Transport",2024-10
+Jilin,2.621703,"Ground Transport",2024-10
+Liaoning,2.681289,"Ground Transport",2024-10
+Ningxia,2.560389,"Ground Transport",2024-10
+Qinghai,2.677718,"Ground Transport",2024-10
+Shaanxi,2.605892,"Ground Transport",2024-10
+Shandong,2.531419,"Ground Transport",2024-10
+Shanghai,2.603413,"Ground Transport",2024-10
+Shanxi,2.598424,"Ground Transport",2024-10
+Sichuan,2.581446,"Ground Transport",2024-10
+Tianjin,2.586742,"Ground Transport",2024-10
+Tibet,2.412825,"Ground Transport",2024-10
+Xinjiang,2.412825,"Ground Transport",2024-10
+Yunnan,2.512557,"Ground Transport",2024-10
+Zhejiang,2.455585,"Ground Transport",2024-10
+Anhui,11.351389,Industry,2024-10
+Beijing,0.393548,Industry,2024-10
+Chongqing,3.822034,Industry,2024-10
+Fujian,10.482057,Industry,2024-10
+Gansu,3.688113,Industry,2024-10
+Guangdong,17.576557,Industry,2024-10
+Guangxi,12.190803,Industry,2024-10
+Guizhou,8.396382,Industry,2024-10
+Hainan,0.582025,Industry,2024-10
+Hebei,42.227078,Industry,2024-10
+Heilongjiang,2.879693,Industry,2024-10
+Henan,11.605441,Industry,2024-10
+Hubei,25.935225,Industry,2024-10
+Hunan,8.262319,Industry,2024-10
+"Inner Mongolia",10.453907,Industry,2024-10
+Jiangsu,32.009478,Industry,2024-10
+Jiangxi,8.177305,Industry,2024-10
+Jilin,3.634786,Industry,2024-10
+Liaoning,17.617788,Industry,2024-10
+Ningxia,2.118573,Industry,2024-10
+Qinghai,1.896400,Industry,2024-10
+Shaanxi,6.112313,Industry,2024-10
+Shandong,30.064093,Industry,2024-10
+Shanghai,4.302197,Industry,2024-10
+Shanxi,15.287872,Industry,2024-10
+Sichuan,14.129203,Industry,2024-10
+Tianjin,5.645362,Industry,2024-10
+Tibet,0.214715,Industry,2024-10
+Xinjiang,7.047298,Industry,2024-10
+Yunnan,12.145158,Industry,2024-10
+Zhejiang,13.295006,Industry,2024-10
+Anhui,17.525211,Power,2024-10
+Beijing,1.244483,Power,2024-10
+Chongqing,3.787186,Power,2024-10
+Fujian,8.908584,Power,2024-10
+Gansu,6.459389,Power,2024-10
+Guangdong,19.686740,Power,2024-10
+Guangxi,5.313514,Power,2024-10
+Guizhou,7.186850,Power,2024-10
+Hainan,1.684731,Power,2024-10
+Hebei,20.768112,Power,2024-10
+Heilongjiang,5.240263,Power,2024-10
+Henan,15.121033,Power,2024-10
+Hubei,8.970618,Power,2024-10
+Hunan,5.482710,Power,2024-10
+"Inner Mongolia",41.971613,Power,2024-10
+Jiangsu,28.015781,Power,2024-10
+Jiangxi,5.963991,Power,2024-10
+Jilin,3.676676,Power,2024-10
+Liaoning,8.036784,Power,2024-10
+Ningxia,8.142130,Power,2024-10
+Qinghai,1.810242,Power,2024-10
+Shaanxi,15.078156,Power,2024-10
+Shandong,32.512477,Power,2024-10
+Shanghai,3.072759,Power,2024-10
+Shanxi,20.220474,Power,2024-10
+Sichuan,4.849400,Power,2024-10
+Tianjin,3.973535,Power,2024-10
+Tibet,0.040980,Power,2024-10
+Xinjiang,20.945301,Power,2024-10
+Yunnan,4.595108,Power,2024-10
+Zhejiang,16.118658,Power,2024-10
+Anhui,0.155706,Residential,2024-10
+Beijing,3.568313,Residential,2024-10
+Chongqing,0.000000,Residential,2024-10
+Fujian,0.000000,Residential,2024-10
+Gansu,1.465067,Residential,2024-10
+Guangdong,0.000000,Residential,2024-10
+Guangxi,0.000000,Residential,2024-10
+Guizhou,0.009721,Residential,2024-10
+Hainan,0.000000,Residential,2024-10
+Hebei,5.000157,Residential,2024-10
+Heilongjiang,4.534337,Residential,2024-10
+Henan,3.001182,Residential,2024-10
+Hubei,0.101046,Residential,2024-10
+Hunan,0.000000,Residential,2024-10
+"Inner Mongolia",3.558280,Residential,2024-10
+Jiangsu,0.006602,Residential,2024-10
+Jiangxi,0.000000,Residential,2024-10
+Jilin,3.627783,Residential,2024-10
+Liaoning,7.263870,Residential,2024-10
+Ningxia,0.791030,Residential,2024-10
+Qinghai,0.447825,Residential,2024-10
+Shaanxi,2.510100,Residential,2024-10
+Shandong,9.041521,Residential,2024-10
+Shanghai,0.000000,Residential,2024-10
+Shanxi,4.049698,Residential,2024-10
+Sichuan,0.000000,Residential,2024-10
+Tianjin,2.975838,Residential,2024-10
+Tibet,0.008027,Residential,2024-10
+Xinjiang,2.486987,Residential,2024-10
+Yunnan,0.009842,Residential,2024-10
+Zhejiang,0.000000,Residential,2024-10
+Anhui,31.766795,Total,2024-10
+Beijing,8.191847,Total,2024-10
+Chongqing,10.589870,Total,2024-10
+Fujian,22.235463,Total,2024-10
+Gansu,14.461023,Total,2024-10
+Guangdong,40.141531,Total,2024-10
+Guangxi,20.050378,Total,2024-10
+Guizhou,18.339304,Total,2024-10
+Hainan,4.822132,Total,2024-10
+Hebei,70.860436,Total,2024-10
+Heilongjiang,15.424708,Total,2024-10
+Henan,32.385617,Total,2024-10
+Hubei,37.750431,Total,2024-10
+Hunan,16.405980,Total,2024-10
+"Inner Mongolia",58.689757,Total,2024-10
+Jiangsu,63.290999,Total,2024-10
+Jiangxi,16.800571,Total,2024-10
+Jilin,13.670849,Total,2024-10
+Liaoning,35.849303,Total,2024-10
+Ningxia,13.670421,Total,2024-10
+Qinghai,6.874037,Total,2024-10
+Shaanxi,26.682947,Total,2024-10
+Shandong,74.743965,Total,2024-10
+Shanghai,10.303603,Total,2024-10
+Shanxi,42.310227,Total,2024-10
+Sichuan,22.245426,Total,2024-10
+Tianjin,15.290182,Total,2024-10
+Tibet,2.705839,Total,2024-10
+Xinjiang,33.109938,Total,2024-10
+Yunnan,19.596728,Total,2024-10
+Zhejiang,32.412830,Total,2024-10
+Anhui,0.288183,Aviation,2024-11
+Beijing,0.283732,Aviation,2024-11
+Chongqing,0.301037,Aviation,2024-11
+Fujian,0.328804,Aviation,2024-11
+Gansu,0.121593,Aviation,2024-11
+Guangdong,0.320336,Aviation,2024-11
+Guangxi,0.064799,Aviation,2024-11
+Guizhou,0.211958,Aviation,2024-11
+Hainan,0.017948,Aviation,2024-11
+Hebei,0.270547,Aviation,2024-11
+Heilongjiang,0.110964,Aviation,2024-11
+Henan,0.143826,Aviation,2024-11
+Hubei,0.135730,Aviation,2024-11
+Hunan,0.120396,Aviation,2024-11
+"Inner Mongolia",0.149798,Aviation,2024-11
+Jiangsu,0.779918,Aviation,2024-11
+Jiangxi,0.194694,Aviation,2024-11
+Jilin,0.096714,Aviation,2024-11
+Liaoning,0.219634,Aviation,2024-11
+Ningxia,0.051461,Aviation,2024-11
+Qinghai,0.036946,Aviation,2024-11
+Shaanxi,0.332325,Aviation,2024-11
+Shandong,0.561086,Aviation,2024-11
+Shanghai,0.306976,Aviation,2024-11
+Shanxi,0.145130,Aviation,2024-11
+Sichuan,0.604975,Aviation,2024-11
+Tianjin,0.102601,Aviation,2024-11
+Tibet,0.025858,Aviation,2024-11
+Xinjiang,0.192011,Aviation,2024-11
+Yunnan,0.294874,Aviation,2024-11
+Zhejiang,0.513067,Aviation,2024-11
+Anhui,2.339618,"Ground Transport",2024-11
+Beijing,2.623574,"Ground Transport",2024-11
+Chongqing,2.591602,"Ground Transport",2024-11
+Fujian,2.419682,"Ground Transport",2024-11
+Gansu,2.648826,"Ground Transport",2024-11
+Guangdong,2.460717,"Ground Transport",2024-11
+Guangxi,2.372474,"Ground Transport",2024-11
+Guizhou,2.436050,"Ground Transport",2024-11
+Hainan,2.485126,"Ground Transport",2024-11
+Hebei,2.483410,"Ground Transport",2024-11
+Heilongjiang,2.544342,"Ground Transport",2024-11
+Henan,2.430868,"Ground Transport",2024-11
+Hubei,2.511428,"Ground Transport",2024-11
+Hunan,2.429936,"Ground Transport",2024-11
+"Inner Mongolia",2.445999,"Ground Transport",2024-11
+Jiangsu,2.344466,"Ground Transport",2024-11
+Jiangxi,2.379886,"Ground Transport",2024-11
+Jilin,2.537050,"Ground Transport",2024-11
+Liaoning,2.535948,"Ground Transport",2024-11
+Ningxia,2.497521,"Ground Transport",2024-11
+Qinghai,2.619672,"Ground Transport",2024-11
+Shaanxi,2.558509,"Ground Transport",2024-11
+Shandong,2.436543,"Ground Transport",2024-11
+Shanghai,2.529312,"Ground Transport",2024-11
+Shanxi,2.505188,"Ground Transport",2024-11
+Sichuan,2.510208,"Ground Transport",2024-11
+Tianjin,2.514546,"Ground Transport",2024-11
+Tibet,2.317602,"Ground Transport",2024-11
+Xinjiang,2.317602,"Ground Transport",2024-11
+Yunnan,2.468086,"Ground Transport",2024-11
+Zhejiang,2.370677,"Ground Transport",2024-11
+Anhui,11.024901,Industry,2024-11
+Beijing,0.326599,Industry,2024-11
+Chongqing,3.734552,Industry,2024-11
+Fujian,10.599157,Industry,2024-11
+Gansu,3.713720,Industry,2024-11
+Guangdong,17.330048,Industry,2024-11
+Guangxi,13.200196,Industry,2024-11
+Guizhou,7.756822,Industry,2024-11
+Hainan,0.579579,Industry,2024-11
+Hebei,39.401535,Industry,2024-11
+Heilongjiang,2.272700,Industry,2024-11
+Henan,11.254617,Industry,2024-11
+Hubei,24.310582,Industry,2024-11
+Hunan,9.057568,Industry,2024-11
+"Inner Mongolia",10.024832,Industry,2024-11
+Jiangsu,33.248062,Industry,2024-11
+Jiangxi,8.150962,Industry,2024-11
+Jilin,3.688370,Industry,2024-11
+Liaoning,17.580553,Industry,2024-11
+Ningxia,2.014119,Industry,2024-11
+Qinghai,1.714572,Industry,2024-11
+Shaanxi,5.844908,Industry,2024-11
+Shandong,28.873044,Industry,2024-11
+Shanghai,4.081684,Industry,2024-11
+Shanxi,12.825511,Industry,2024-11
+Sichuan,14.173173,Industry,2024-11
+Tianjin,4.896404,Industry,2024-11
+Tibet,0.176244,Industry,2024-11
+Xinjiang,5.685124,Industry,2024-11
+Yunnan,13.119141,Industry,2024-11
+Zhejiang,13.072866,Industry,2024-11
+Anhui,19.655477,Power,2024-11
+Beijing,2.131042,Power,2024-11
+Chongqing,3.903391,Power,2024-11
+Fujian,8.580157,Power,2024-11
+Gansu,7.769880,Power,2024-11
+Guangdong,19.930352,Power,2024-11
+Guangxi,5.826896,Power,2024-11
+Guizhou,7.507001,Power,2024-11
+Hainan,1.489591,Power,2024-11
+Hebei,22.621694,Power,2024-11
+Heilongjiang,6.191726,Power,2024-11
+Henan,15.289902,Power,2024-11
+Hubei,9.611857,Power,2024-11
+Hunan,6.791486,Power,2024-11
+"Inner Mongolia",44.126252,Power,2024-11
+Jiangsu,29.016872,Power,2024-11
+Jiangxi,6.627284,Power,2024-11
+Jilin,4.588603,Power,2024-11
+Liaoning,9.559636,Power,2024-11
+Ningxia,10.880844,Power,2024-11
+Qinghai,2.132403,Power,2024-11
+Shaanxi,17.204078,Power,2024-11
+Shandong,34.164790,Power,2024-11
+Shanghai,3.281406,Power,2024-11
+Shanxi,23.512880,Power,2024-11
+Sichuan,5.097027,Power,2024-11
+Tianjin,4.544585,Power,2024-11
+Tibet,0.040981,Power,2024-11
+Xinjiang,23.883009,Power,2024-11
+Yunnan,4.654565,Power,2024-11
+Zhejiang,16.002278,Power,2024-11
+Anhui,0.211601,Residential,2024-11
+Beijing,4.849249,Residential,2024-11
+Chongqing,0.000000,Residential,2024-11
+Fujian,0.000000,Residential,2024-11
+Gansu,1.990991,Residential,2024-11
+Guangdong,0.000000,Residential,2024-11
+Guangxi,0.000000,Residential,2024-11
+Guizhou,0.013210,Residential,2024-11
+Hainan,0.000000,Residential,2024-11
+Hebei,6.795090,Residential,2024-11
+Heilongjiang,6.162051,Residential,2024-11
+Henan,4.078531,Residential,2024-11
+Hubei,0.137323,Residential,2024-11
+Hunan,0.000000,Residential,2024-11
+"Inner Mongolia",4.835612,Residential,2024-11
+Jiangsu,0.008972,Residential,2024-11
+Jiangxi,0.000000,Residential,2024-11
+Jilin,4.930068,Residential,2024-11
+Liaoning,9.871421,Residential,2024-11
+Ningxia,1.074990,Residential,2024-11
+Qinghai,0.608580,Residential,2024-11
+Shaanxi,3.411161,Residential,2024-11
+Shandong,12.287203,Residential,2024-11
+Shanghai,0.000000,Residential,2024-11
+Shanxi,5.503439,Residential,2024-11
+Sichuan,0.000000,Residential,2024-11
+Tianjin,4.044086,Residential,2024-11
+Tibet,0.010907,Residential,2024-11
+Xinjiang,3.379752,Residential,2024-11
+Yunnan,0.013372,Residential,2024-11
+Zhejiang,0.000000,Residential,2024-11
+Anhui,33.519786,Total,2024-11
+Beijing,10.214193,Total,2024-11
+Chongqing,10.530577,Total,2024-11
+Fujian,21.927797,Total,2024-11
+Gansu,16.245003,Total,2024-11
+Guangdong,40.041457,Total,2024-11
+Guangxi,21.464355,Total,2024-11
+Guizhou,17.925040,Total,2024-11
+Hainan,4.572245,Total,2024-11
+Hebei,71.572278,Total,2024-11
+Heilongjiang,17.281780,Total,2024-11
+Henan,33.197742,Total,2024-11
+Hubei,36.706916,Total,2024-11
+Hunan,18.399381,Total,2024-11
+"Inner Mongolia",61.582494,Total,2024-11
+Jiangsu,65.398292,Total,2024-11
+Jiangxi,17.352821,Total,2024-11
+Jilin,15.840802,Total,2024-11
+Liaoning,39.767186,Total,2024-11
+Ningxia,16.518929,Total,2024-11
+Qinghai,7.112170,Total,2024-11
+Shaanxi,29.350979,Total,2024-11
+Shandong,78.322671,Total,2024-11
+Shanghai,10.199380,Total,2024-11
+Shanxi,44.492144,Total,2024-11
+Sichuan,22.385384,Total,2024-11
+Tianjin,16.102224,Total,2024-11
+Tibet,2.571592,Total,2024-11
+Xinjiang,35.457495,Total,2024-11
+Yunnan,20.550037,Total,2024-11
+Zhejiang,31.958892,Total,2024-11
+Anhui,0.294693,Aviation,2024-12
+Beijing,0.290139,Aviation,2024-12
+Chongqing,0.294534,Aviation,2024-12
+Fujian,0.336230,Aviation,2024-12
+Gansu,0.118965,Aviation,2024-12
+Guangdong,0.315901,Aviation,2024-12
+Guangxi,0.063901,Aviation,2024-12
+Guizhou,0.207381,Aviation,2024-12
+Hainan,0.017702,Aviation,2024-12
+Hebei,0.276657,Aviation,2024-12
+Heilongjiang,0.125877,Aviation,2024-12
+Henan,0.141832,Aviation,2024-12
+Hubei,0.133851,Aviation,2024-12
+Hunan,0.118726,Aviation,2024-12
+"Inner Mongolia",0.153183,Aviation,2024-12
+Jiangsu,0.797534,Aviation,2024-12
+Jiangxi,0.199092,Aviation,2024-12
+Jilin,0.109709,Aviation,2024-12
+Liaoning,0.249149,Aviation,2024-12
+Ningxia,0.050347,Aviation,2024-12
+Qinghai,0.036146,Aviation,2024-12
+Shaanxi,0.325148,Aviation,2024-12
+Shandong,0.573762,Aviation,2024-12
+Shanghai,0.313913,Aviation,2024-12
+Shanxi,0.148408,Aviation,2024-12
+Sichuan,0.591920,Aviation,2024-12
+Tianjin,0.104919,Aviation,2024-12
+Tibet,0.025295,Aviation,2024-12
+Xinjiang,0.187865,Aviation,2024-12
+Yunnan,0.288505,Aviation,2024-12
+Zhejiang,0.524662,Aviation,2024-12
+Anhui,2.341985,"Ground Transport",2024-12
+Beijing,2.576692,"Ground Transport",2024-12
+Chongqing,2.537206,"Ground Transport",2024-12
+Fujian,2.398691,"Ground Transport",2024-12
+Gansu,2.581507,"Ground Transport",2024-12
+Guangdong,2.436367,"Ground Transport",2024-12
+Guangxi,2.389432,"Ground Transport",2024-12
+Guizhou,2.461321,"Ground Transport",2024-12
+Hainan,2.488894,"Ground Transport",2024-12
+Hebei,2.452117,"Ground Transport",2024-12
+Heilongjiang,2.576947,"Ground Transport",2024-12
+Henan,2.421808,"Ground Transport",2024-12
+Hubei,2.469806,"Ground Transport",2024-12
+Hunan,2.424562,"Ground Transport",2024-12
+"Inner Mongolia",2.450882,"Ground Transport",2024-12
+Jiangsu,2.336771,"Ground Transport",2024-12
+Jiangxi,2.374732,"Ground Transport",2024-12
+Jilin,2.455837,"Ground Transport",2024-12
+Liaoning,2.472550,"Ground Transport",2024-12
+Ningxia,2.498366,"Ground Transport",2024-12
+Qinghai,2.567494,"Ground Transport",2024-12
+Shaanxi,2.493911,"Ground Transport",2024-12
+Shandong,2.411047,"Ground Transport",2024-12
+Shanghai,2.486035,"Ground Transport",2024-12
+Shanxi,2.472223,"Ground Transport",2024-12
+Sichuan,2.502375,"Ground Transport",2024-12
+Tianjin,2.462734,"Ground Transport",2024-12
+Tibet,2.427839,"Ground Transport",2024-12
+Xinjiang,2.427839,"Ground Transport",2024-12
+Yunnan,2.431076,"Ground Transport",2024-12
+Zhejiang,2.351887,"Ground Transport",2024-12
+Anhui,11.303474,Industry,2024-12
+Beijing,0.373295,Industry,2024-12
+Chongqing,3.993279,Industry,2024-12
+Fujian,11.089590,Industry,2024-12
+Gansu,3.176700,Industry,2024-12
+Guangdong,17.864888,Industry,2024-12
+Guangxi,12.950501,Industry,2024-12
+Guizhou,6.564915,Industry,2024-12
+Hainan,0.673772,Industry,2024-12
+Hebei,38.452925,Industry,2024-12
+Heilongjiang,2.362535,Industry,2024-12
+Henan,10.328400,Industry,2024-12
+Hubei,25.721884,Industry,2024-12
+Hunan,9.524818,Industry,2024-12
+"Inner Mongolia",9.569936,Industry,2024-12
+Jiangsu,31.828087,Industry,2024-12
+Jiangxi,9.004770,Industry,2024-12
+Jilin,4.344275,Industry,2024-12
+Liaoning,17.659550,Industry,2024-12
+Ningxia,1.807706,Industry,2024-12
+Qinghai,1.711971,Industry,2024-12
+Shaanxi,5.830770,Industry,2024-12
+Shandong,27.952451,Industry,2024-12
+Shanghai,4.334492,Industry,2024-12
+Shanxi,11.240927,Industry,2024-12
+Sichuan,14.683047,Industry,2024-12
+Tianjin,5.006988,Industry,2024-12
+Tibet,0.125486,Industry,2024-12
+Xinjiang,4.187951,Industry,2024-12
+Yunnan,14.242199,Industry,2024-12
+Zhejiang,13.316677,Industry,2024-12
+Anhui,22.751892,Power,2024-12
+Beijing,2.681699,Power,2024-12
+Chongqing,4.621738,Power,2024-12
+Fujian,9.776566,Power,2024-12
+Gansu,9.530121,Power,2024-12
+Guangdong,20.762684,Power,2024-12
+Guangxi,6.783067,Power,2024-12
+Guizhou,9.725979,Power,2024-12
+Hainan,1.600171,Power,2024-12
+Hebei,26.089693,Power,2024-12
+Heilongjiang,6.905323,Power,2024-12
+Henan,19.879941,Power,2024-12
+Hubei,11.662471,Power,2024-12
+Hunan,8.199300,Power,2024-12
+"Inner Mongolia",47.734828,Power,2024-12
+Jiangsu,32.984167,Power,2024-12
+Jiangxi,7.976348,Power,2024-12
+Jilin,5.073520,Power,2024-12
+Liaoning,10.712776,Power,2024-12
+Ningxia,11.607581,Power,2024-12
+Qinghai,2.730701,Power,2024-12
+Shaanxi,21.652628,Power,2024-12
+Shandong,37.401630,Power,2024-12
+Shanghai,4.367305,Power,2024-12
+Shanxi,26.677495,Power,2024-12
+Sichuan,6.534647,Power,2024-12
+Tianjin,5.853233,Power,2024-12
+Tibet,0.030735,Power,2024-12
+Xinjiang,28.254259,Power,2024-12
+Yunnan,4.849921,Power,2024-12
+Zhejiang,18.871052,Power,2024-12
+Anhui,0.316883,Residential,2024-12
+Beijing,7.262001,Residential,2024-12
+Chongqing,0.000000,Residential,2024-12
+Fujian,0.000000,Residential,2024-12
+Gansu,2.981607,Residential,2024-12
+Guangdong,0.000000,Residential,2024-12
+Guangxi,0.000000,Residential,2024-12
+Guizhou,0.019785,Residential,2024-12
+Hainan,0.000000,Residential,2024-12
+Hebei,10.176004,Residential,2024-12
+Heilongjiang,9.227987,Residential,2024-12
+Henan,6.107813,Residential,2024-12
+Hubei,0.205646,Residential,2024-12
+Hunan,0.000000,Residential,2024-12
+"Inner Mongolia",7.241579,Residential,2024-12
+Jiangsu,0.013434,Residential,2024-12
+Jiangxi,0.000000,Residential,2024-12
+Jilin,7.383033,Residential,2024-12
+Liaoning,14.782964,Residential,2024-12
+Ningxia,1.609852,Residential,2024-12
+Qinghai,0.911380,Residential,2024-12
+Shaanxi,5.108387,Residential,2024-12
+Shandong,18.400723,Residential,2024-12
+Shanghai,0.000000,Residential,2024-12
+Shanxi,8.241678,Residential,2024-12
+Sichuan,0.000000,Residential,2024-12
+Tianjin,6.056231,Residential,2024-12
+Tibet,0.016332,Residential,2024-12
+Xinjiang,5.061350,Residential,2024-12
+Yunnan,0.020025,Residential,2024-12
+Zhejiang,0.000000,Residential,2024-12
+Anhui,37.008931,Total,2024-12
+Beijing,13.183830,Total,2024-12
+Chongqing,11.446764,Total,2024-12
+Fujian,23.601078,Total,2024-12
+Gansu,18.388899,Total,2024-12
+Guangdong,41.379846,Total,2024-12
+Guangxi,22.186898,Total,2024-12
+Guizhou,18.979378,Total,2024-12
+Hainan,4.780539,Total,2024-12
+Hebei,77.447394,Total,2024-12
+Heilongjiang,21.198668,Total,2024-12
+Henan,38.879794,Total,2024-12
+Hubei,40.193662,Total,2024-12
+Hunan,20.267412,Total,2024-12
+"Inner Mongolia",67.150404,Total,2024-12
+Jiangsu,67.960003,Total,2024-12
+Jiangxi,19.554940,Total,2024-12
+Jilin,19.366375,Total,2024-12
+Liaoning,45.876988,Total,2024-12
+Ningxia,17.573852,Total,2024-12
+Qinghai,7.957697,Total,2024-12
+Shaanxi,35.410848,Total,2024-12
+Shandong,86.739618,Total,2024-12
+Shanghai,11.501744,Total,2024-12
+Shanxi,48.780731,Total,2024-12
+Sichuan,24.311993,Total,2024-12
+Tianjin,19.484112,Total,2024-12
+Tibet,2.625687,Total,2024-12
+Xinjiang,40.119270,Total,2024-12
+Yunnan,21.831733,Total,2024-12
+Zhejiang,35.064282,Total,2024-12

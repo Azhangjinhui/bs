@@ -1,0 +1,3301 @@
+Area,"CO2 (Kt)",Sector,Date
+Amsterdam,105.505119,Aviation,2024-01
+Bangkok,34.360401,Aviation,2024-01
+Barcelona,18.112647,Aviation,2024-01
+Beijing,278.630735,Aviation,2024-01
+Berlin,36.143341,Aviation,2024-01
+Bogota,30.779546,Aviation,2024-01
+"Cape Town",41.005242,Aviation,2024-01
+Chengdu,57.746205,Aviation,2024-01
+Chicago,358.203836,Aviation,2024-01
+Chongqing,180.499086,Aviation,2024-01
+Copenhagen,5.739120,Aviation,2024-01
+Hangzhou,106.795052,Aviation,2024-01
+Helsinki,7.528414,Aviation,2024-01
+Houston,154.505737,Aviation,2024-01
+Istanbul,72.756839,Aviation,2024-01
+Jinan,47.088042,Aviation,2024-01
+London,233.039783,Aviation,2024-01
+"Los Angeles",439.298252,Aviation,2024-01
+Lyon,0.868396,Aviation,2024-01
+Madrid,113.343434,Aviation,2024-01
+Marseille,1.660567,Aviation,2024-01
+Melbourne,48.495182,Aviation,2024-01
+"Mexico City",29.164925,Aviation,2024-01
+Miami,206.085806,Aviation,2024-01
+Milan,14.624385,Aviation,2024-01
+Moscow,45.712970,Aviation,2024-01
+Munich,3.443946,Aviation,2024-01
+Nanjing,51.260412,Aviation,2024-01
+"New Delhi",85.682113,Aviation,2024-01
+"New York",389.408847,Aviation,2024-01
+Nice,1.825870,Aviation,2024-01
+Osaka,58.020915,Aviation,2024-01
+Oslo,2.888078,Aviation,2024-01
+Paris,70.810700,Aviation,2024-01
+Qingdao,61.880609,Aviation,2024-01
+Rome,31.835221,Aviation,2024-01
+"San Francisco",132.038574,Aviation,2024-01
+Santiago,52.246932,Aviation,2024-01
+Seattle,133.555966,Aviation,2024-01
+Seoul,54.267926,Aviation,2024-01
+Shanghai,209.585392,Aviation,2024-01
+Stockholm,8.329084,Aviation,2024-01
+Sydney,71.712406,Aviation,2024-01
+Tokyo,169.260088,Aviation,2024-01
+Total,4475.729320,Aviation,2024-01
+Washington,219.983176,Aviation,2024-01
+Amsterdam,175.814449,"Ground Transport",2024-01
+Bangkok,549.492060,"Ground Transport",2024-01
+Barcelona,97.241589,"Ground Transport",2024-01
+Beijing,1590.075630,"Ground Transport",2024-01
+Berlin,145.065276,"Ground Transport",2024-01
+Bogota,196.601460,"Ground Transport",2024-01
+"Cape Town",172.182924,"Ground Transport",2024-01
+Chengdu,501.099987,"Ground Transport",2024-01
+Chicago,903.101495,"Ground Transport",2024-01
+Chongqing,1143.891311,"Ground Transport",2024-01
+Copenhagen,62.477601,"Ground Transport",2024-01
+Hangzhou,696.552779,"Ground Transport",2024-01
+Helsinki,83.406735,"Ground Transport",2024-01
+Houston,644.372378,"Ground Transport",2024-01
+Istanbul,455.564420,"Ground Transport",2024-01
+Jinan,287.137882,"Ground Transport",2024-01
+London,591.519476,"Ground Transport",2024-01
+"Los Angeles",1970.577082,"Ground Transport",2024-01
+Lyon,25.200058,"Ground Transport",2024-01
+Madrid,274.364699,"Ground Transport",2024-01
+Marseille,23.605742,"Ground Transport",2024-01
+Melbourne,452.213643,"Ground Transport",2024-01
+"Mexico City",599.805175,"Ground Transport",2024-01
+Miami,548.836313,"Ground Transport",2024-01
+Milan,46.143345,"Ground Transport",2024-01
+Moscow,164.118587,"Ground Transport",2024-01
+Munich,52.749197,"Ground Transport",2024-01
+Nanjing,596.366527,"Ground Transport",2024-01
+"New Delhi",151.686947,"Ground Transport",2024-01
+"New York",1233.182229,"Ground Transport",2024-01
+Nice,14.153930,"Ground Transport",2024-01
+Osaka,578.463029,"Ground Transport",2024-01
+Oslo,12.656818,"Ground Transport",2024-01
+Paris,302.433051,"Ground Transport",2024-01
+Qingdao,435.409414,"Ground Transport",2024-01
+Rome,150.118645,"Ground Transport",2024-01
+"San Francisco",567.169650,"Ground Transport",2024-01
+Santiago,287.299399,"Ground Transport",2024-01
+Seattle,543.850086,"Ground Transport",2024-01
+Seoul,906.184808,"Ground Transport",2024-01
+Shanghai,1336.667823,"Ground Transport",2024-01
+Stockholm,45.602480,"Ground Transport",2024-01
+Sydney,325.805436,"Ground Transport",2024-01
+Tokyo,941.923377,"Ground Transport",2024-01
+Total,21639.009364,"Ground Transport",2024-01
+Washington,756.824411,"Ground Transport",2024-01
+Amsterdam,496.171059,Industry,2024-01
+Bangkok,793.885570,Industry,2024-01
+Barcelona,222.227075,Industry,2024-01
+Beijing,6471.518808,Industry,2024-01
+Berlin,206.198363,Industry,2024-01
+Bogota,191.959770,Industry,2024-01
+"Cape Town",711.659663,Industry,2024-01
+Chengdu,4025.525726,Industry,2024-01
+Chicago,3546.806774,Industry,2024-01
+Chongqing,4601.401564,Industry,2024-01
+Copenhagen,71.515945,Industry,2024-01
+Hangzhou,2967.719706,Industry,2024-01
+Helsinki,94.404696,Industry,2024-01
+Houston,1941.717809,Industry,2024-01
+Istanbul,738.029213,Industry,2024-01
+Jinan,1683.251218,Industry,2024-01
+London,604.756488,Industry,2024-01
+"Los Angeles",3949.711050,Industry,2024-01
+Lyon,46.060855,Industry,2024-01
+Madrid,337.691831,Industry,2024-01
+Marseille,47.353032,Industry,2024-01
+Melbourne,746.435169,Industry,2024-01
+"Mexico City",1054.357902,Industry,2024-01
+Miami,1012.854657,Industry,2024-01
+Milan,56.759174,Industry,2024-01
+Moscow,649.317779,Industry,2024-01
+Munich,74.579182,Industry,2024-01
+Nanjing,4254.171737,Industry,2024-01
+"New Delhi",430.920573,Industry,2024-01
+"New York",2951.930568,Industry,2024-01
+Nice,28.153329,Industry,2024-01
+Osaka,1954.394571,Industry,2024-01
+Oslo,236.871251,Industry,2024-01
+Paris,522.105970,Industry,2024-01
+Qingdao,1188.255582,Industry,2024-01
+Rome,147.040400,Industry,2024-01
+"San Francisco",1413.344076,Industry,2024-01
+Santiago,288.715950,Industry,2024-01
+Seattle,651.135467,Industry,2024-01
+Seoul,2363.605533,Industry,2024-01
+Shanghai,27404.399610,Industry,2024-01
+Stockholm,55.459964,Industry,2024-01
+Sydney,762.120807,Industry,2024-01
+Tokyo,3875.845785,Industry,2024-01
+Total,87042.847767,Industry,2024-01
+Washington,1170.506521,Industry,2024-01
+Amsterdam,21.547542,Power,2024-01
+Bangkok,7.913882,Power,2024-01
+Barcelona,81.910407,Power,2024-01
+Beijing,2439.381352,Power,2024-01
+Berlin,323.641731,Power,2024-01
+Bogota,0.800188,Power,2024-01
+"Cape Town",0.071420,Power,2024-01
+Chengdu,890.521560,Power,2024-01
+Chicago,1982.488001,Power,2024-01
+Chongqing,5517.201470,Power,2024-01
+Copenhagen,26.931093,Power,2024-01
+Hangzhou,647.149977,Power,2024-01
+Helsinki,301.404751,Power,2024-01
+Houston,2509.140098,Power,2024-01
+Istanbul,42.087304,Power,2024-01
+Jinan,3662.677394,Power,2024-01
+London,139.665938,Power,2024-01
+"Los Angeles",1397.183790,Power,2024-01
+Lyon,11.524687,Power,2024-01
+Madrid,6.556224,Power,2024-01
+Marseille,0.000000,Power,2024-01
+Melbourne,57.332036,Power,2024-01
+"Mexico City",452.285200,Power,2024-01
+Miami,486.733616,Power,2024-01
+Milan,79.595290,Power,2024-01
+Moscow,4996.907773,Power,2024-01
+Munich,223.792689,Power,2024-01
+Nanjing,3058.235687,Power,2024-01
+"New Delhi",370.955150,Power,2024-01
+"New York",2428.940696,Power,2024-01
+Nice,0.000000,Power,2024-01
+Osaka,2636.640088,Power,2024-01
+Oslo,0.425584,Power,2024-01
+Paris,80.774670,Power,2024-01
+Qingdao,230.799959,Power,2024-01
+Rome,12.089773,Power,2024-01
+"San Francisco",794.105820,Power,2024-01
+Santiago,79.999847,Power,2024-01
+Seattle,56.989298,Power,2024-01
+Seoul,2063.018977,Power,2024-01
+Shanghai,3428.955270,Power,2024-01
+Stockholm,9.190419,Power,2024-01
+Sydney,43.342695,Power,2024-01
+Tokyo,8958.561515,Power,2024-01
+Total,50715.230794,Power,2024-01
+Washington,155.759942,Power,2024-01
+Amsterdam,416.971709,Residential,2024-01
+Bangkok,27.436559,Residential,2024-01
+Barcelona,284.732721,Residential,2024-01
+Beijing,1742.163248,Residential,2024-01
+Berlin,1014.449124,Residential,2024-01
+Bogota,78.418861,Residential,2024-01
+"Cape Town",73.330700,Residential,2024-01
+Chengdu,1127.284253,Residential,2024-01
+Chicago,2289.332638,Residential,2024-01
+Chongqing,2363.391743,Residential,2024-01
+Copenhagen,77.013915,Residential,2024-01
+Hangzhou,732.781364,Residential,2024-01
+Helsinki,68.695356,Residential,2024-01
+Houston,1346.579826,Residential,2024-01
+Istanbul,1573.023992,Residential,2024-01
+Jinan,551.071311,Residential,2024-01
+London,1731.707872,Residential,2024-01
+"Los Angeles",4502.769618,Residential,2024-01
+Lyon,161.670915,Residential,2024-01
+Madrid,480.058505,Residential,2024-01
+Marseille,132.499223,Residential,2024-01
+Melbourne,116.416705,Residential,2024-01
+"Mexico City",757.167175,Residential,2024-01
+Miami,1408.674698,Residential,2024-01
+Milan,242.463785,Residential,2024-01
+Moscow,2458.646054,Residential,2024-01
+Munich,370.675833,Residential,2024-01
+Nanjing,678.278067,Residential,2024-01
+"New Delhi",629.776321,Residential,2024-01
+"New York",3834.553346,Residential,2024-01
+Nice,36.949370,Residential,2024-01
+Osaka,2252.737632,Residential,2024-01
+Oslo,13.439490,Residential,2024-01
+Paris,1787.365265,Residential,2024-01
+Qingdao,534.862176,Residential,2024-01
+Rome,516.456558,Residential,2024-01
+"San Francisco",1443.382620,Residential,2024-01
+Santiago,119.938570,Residential,2024-01
+Seattle,842.081257,Residential,2024-01
+Seoul,4022.477982,Residential,2024-01
+Shanghai,1911.689202,Residential,2024-01
+Stockholm,14.862003,Residential,2024-01
+Sydney,117.403681,Residential,2024-01
+Tokyo,4821.950554,Residential,2024-01
+Total,51348.340310,Residential,2024-01
+Washington,1640.708537,Residential,2024-01
+Amsterdam,1216.009876,Total,2024-01
+Bangkok,1413.088470,Total,2024-01
+Barcelona,704.224443,Total,2024-01
+Beijing,12521.769773,Total,2024-01
+Berlin,1725.497832,Total,2024-01
+Bogota,498.559823,Total,2024-01
+"Cape Town",998.249950,Total,2024-01
+Chengdu,6602.177733,Total,2024-01
+Chicago,9079.932744,Total,2024-01
+Chongqing,13806.385171,Total,2024-01
+Copenhagen,243.677667,Total,2024-01
+Hangzhou,5150.998883,Total,2024-01
+Helsinki,555.439950,Total,2024-01
+Houston,6596.315846,Total,2024-01
+Istanbul,2881.461767,Total,2024-01
+Jinan,6231.225842,Total,2024-01
+London,3300.689551,Total,2024-01
+"Los Angeles",12259.539792,Total,2024-01
+Lyon,245.324916,Total,2024-01
+Madrid,1212.014692,Total,2024-01
+Marseille,205.118570,Total,2024-01
+Melbourne,1420.892740,Total,2024-01
+"Mexico City",2892.780384,Total,2024-01
+Miami,3663.185085,Total,2024-01
+Milan,439.585981,Total,2024-01
+Moscow,8314.703166,Total,2024-01
+Munich,725.240847,Total,2024-01
+Nanjing,8638.312432,Total,2024-01
+"New Delhi",1669.021099,Total,2024-01
+"New York",10838.015687,Total,2024-01
+Nice,81.082500,Total,2024-01
+Osaka,7480.256238,Total,2024-01
+Oslo,266.281224,Total,2024-01
+Paris,2763.489658,Total,2024-01
+Qingdao,2451.207741,Total,2024-01
+Rome,857.540600,Total,2024-01
+"San Francisco",4350.040737,Total,2024-01
+Santiago,828.200698,Total,2024-01
+Seattle,2227.612068,Total,2024-01
+Seoul,9409.555227,Total,2024-01
+Shanghai,34291.297294,Total,2024-01
+Stockholm,133.443955,Total,2024-01
+Sydney,1320.385030,Total,2024-01
+Tokyo,18767.541317,Total,2024-01
+Washington,3943.782589,Total,2024-01
+Amsterdam,100.741888,Aviation,2024-02
+Bangkok,32.779105,Aviation,2024-02
+Barcelona,17.734415,Aviation,2024-02
+Beijing,263.344031,Aviation,2024-02
+Berlin,36.281342,Aviation,2024-02
+Bogota,27.984865,Aviation,2024-02
+"Cape Town",37.698416,Aviation,2024-02
+Chengdu,54.164599,Aviation,2024-02
+Chicago,335.195425,Aviation,2024-02
+Chongqing,189.744876,Aviation,2024-02
+Copenhagen,5.613590,Aviation,2024-02
+Hangzhou,107.442935,Aviation,2024-02
+Helsinki,7.275524,Aviation,2024-02
+Houston,147.011273,Aviation,2024-02
+Istanbul,67.581538,Aviation,2024-02
+Jinan,48.647876,Aviation,2024-02
+London,220.609066,Aviation,2024-02
+"Los Angeles",399.037790,Aviation,2024-02
+Lyon,0.880092,Aviation,2024-02
+Madrid,105.104936,Aviation,2024-02
+Marseille,1.573397,Aviation,2024-02
+Melbourne,44.220083,Aviation,2024-02
+"Mexico City",26.518393,Aviation,2024-02
+Miami,192.328670,Aviation,2024-02
+Milan,14.210662,Aviation,2024-02
+Moscow,40.293999,Aviation,2024-02
+Munich,3.223671,Aviation,2024-02
+Nanjing,53.735606,Aviation,2024-02
+"New Delhi",81.287163,Aviation,2024-02
+"New York",358.439738,Aviation,2024-02
+Nice,1.896904,Aviation,2024-02
+Osaka,54.261625,Aviation,2024-02
+Oslo,2.973654,Aviation,2024-02
+Paris,66.917180,Aviation,2024-02
+Qingdao,63.338367,Aviation,2024-02
+Rome,29.109422,Aviation,2024-02
+"San Francisco",123.243115,Aviation,2024-02
+Santiago,48.321232,Aviation,2024-02
+Seattle,130.070078,Aviation,2024-02
+Seoul,50.254871,Aviation,2024-02
+Shanghai,200.559485,Aviation,2024-02
+Stockholm,8.131565,Aviation,2024-02
+Sydney,64.127024,Aviation,2024-02
+Tokyo,159.155650,Aviation,2024-02
+Total,4230.760106,Aviation,2024-02
+Washington,207.694966,Aviation,2024-02
+Amsterdam,166.104003,"Ground Transport",2024-02
+Bangkok,531.406262,"Ground Transport",2024-02
+Barcelona,97.152128,"Ground Transport",2024-02
+Beijing,1174.506598,"Ground Transport",2024-02
+Berlin,139.800914,"Ground Transport",2024-02
+Bogota,202.112682,"Ground Transport",2024-02
+"Cape Town",168.729167,"Ground Transport",2024-02
+Chengdu,452.822820,"Ground Transport",2024-02
+Chicago,874.548150,"Ground Transport",2024-02
+Chongqing,1057.062176,"Ground Transport",2024-02
+Copenhagen,57.993446,"Ground Transport",2024-02
+Hangzhou,600.238394,"Ground Transport",2024-02
+Helsinki,73.439840,"Ground Transport",2024-02
+Houston,644.879025,"Ground Transport",2024-02
+Istanbul,433.240827,"Ground Transport",2024-02
+Jinan,241.841329,"Ground Transport",2024-02
+London,564.364361,"Ground Transport",2024-02
+"Los Angeles",1907.897579,"Ground Transport",2024-02
+Lyon,24.326556,"Ground Transport",2024-02
+Madrid,275.320443,"Ground Transport",2024-02
+Marseille,23.095253,"Ground Transport",2024-02
+Melbourne,424.710089,"Ground Transport",2024-02
+"Mexico City",581.365387,"Ground Transport",2024-02
+Miami,529.883540,"Ground Transport",2024-02
+Milan,47.094894,"Ground Transport",2024-02
+Moscow,175.716921,"Ground Transport",2024-02
+Munich,51.156617,"Ground Transport",2024-02
+Nanjing,546.870070,"Ground Transport",2024-02
+"New Delhi",145.664660,"Ground Transport",2024-02
+"New York",1185.517315,"Ground Transport",2024-02
+Nice,13.857367,"Ground Transport",2024-02
+Osaka,557.117506,"Ground Transport",2024-02
+Oslo,11.339807,"Ground Transport",2024-02
+Paris,287.733975,"Ground Transport",2024-02
+Qingdao,367.156226,"Ground Transport",2024-02
+Rome,146.684929,"Ground Transport",2024-02
+"San Francisco",545.166267,"Ground Transport",2024-02
+Santiago,257.655505,"Ground Transport",2024-02
+Seattle,525.533638,"Ground Transport",2024-02
+Seoul,871.934819,"Ground Transport",2024-02
+Shanghai,1031.688009,"Ground Transport",2024-02
+Stockholm,41.573454,"Ground Transport",2024-02
+Sydney,305.958342,"Ground Transport",2024-02
+Tokyo,907.414101,"Ground Transport",2024-02
+Total,20002.710569,"Ground Transport",2024-02
+Washington,733.035174,"Ground Transport",2024-02
+Amsterdam,490.132431,Industry,2024-02
+Bangkok,743.889344,Industry,2024-02
+Barcelona,233.080847,Industry,2024-02
+Beijing,5612.545903,Industry,2024-02
+Berlin,221.755700,Industry,2024-02
+Bogota,184.338933,Industry,2024-02
+"Cape Town",676.670034,Industry,2024-02
+Chengdu,3497.093784,Industry,2024-02
+Chicago,3642.388264,Industry,2024-02
+Chongqing,4004.457198,Industry,2024-02
+Copenhagen,67.926794,Industry,2024-02
+Hangzhou,2576.794865,Industry,2024-02
+Helsinki,95.860059,Industry,2024-02
+Houston,2018.795519,Industry,2024-02
+Istanbul,746.953102,Industry,2024-02
+Jinan,1465.889001,Industry,2024-02
+London,636.588268,Industry,2024-02
+"Los Angeles",4068.688441,Industry,2024-02
+Lyon,47.010148,Industry,2024-02
+Madrid,354.297986,Industry,2024-02
+Marseille,48.415066,Industry,2024-02
+Melbourne,699.678154,Industry,2024-02
+"Mexico City",987.273335,Industry,2024-02
+Miami,1039.367516,Industry,2024-02
+Milan,62.821321,Industry,2024-02
+Moscow,698.216354,Industry,2024-02
+Munich,80.183236,Industry,2024-02
+Nanjing,3698.078499,Industry,2024-02
+"New Delhi",410.428904,Industry,2024-02
+"New York",3032.801980,Industry,2024-02
+Nice,28.861640,Industry,2024-02
+Osaka,2053.225498,Industry,2024-02
+Oslo,219.455054,Industry,2024-02
+Paris,532.809799,Industry,2024-02
+Qingdao,1036.042458,Industry,2024-02
+Rome,162.127323,Industry,2024-02
+"San Francisco",1460.035180,Industry,2024-02
+Santiago,272.916895,Industry,2024-02
+Seattle,669.089799,Industry,2024-02
+Seoul,2359.195487,Industry,2024-02
+Shanghai,23715.943864,Industry,2024-02
+Stockholm,56.152053,Industry,2024-02
+Sydney,713.654365,Industry,2024-02
+Tokyo,4034.941027,Industry,2024-02
+Total,80657.808820,Industry,2024-02
+Washington,1200.937411,Industry,2024-02
+Amsterdam,15.364499,Power,2024-02
+Bangkok,7.174237,Power,2024-02
+Barcelona,54.132924,Power,2024-02
+Beijing,2423.511307,Power,2024-02
+Berlin,253.044839,Power,2024-02
+Bogota,0.836776,Power,2024-02
+"Cape Town",0.078742,Power,2024-02
+Chengdu,874.694087,Power,2024-02
+Chicago,1409.252297,Power,2024-02
+Chongqing,5235.561860,Power,2024-02
+Copenhagen,20.157300,Power,2024-02
+Hangzhou,627.612444,Power,2024-02
+Helsinki,253.093759,Power,2024-02
+Houston,1795.819674,Power,2024-02
+Istanbul,50.914874,Power,2024-02
+Jinan,3597.514948,Power,2024-02
+London,89.862227,Power,2024-02
+"Los Angeles",1043.233454,Power,2024-02
+Lyon,8.263890,Power,2024-02
+Madrid,4.153938,Power,2024-02
+Marseille,0.000000,Power,2024-02
+Melbourne,68.059239,Power,2024-02
+"Mexico City",494.102515,Power,2024-02
+Miami,358.909651,Power,2024-02
+Milan,71.091414,Power,2024-02
+Moscow,4608.691071,Power,2024-02
+Munich,180.056782,Power,2024-02
+Nanjing,2991.182082,Power,2024-02
+"New Delhi",360.621434,Power,2024-02
+"New York",1800.948879,Power,2024-02
+Nice,0.000000,Power,2024-02
+Osaka,2388.708235,Power,2024-02
+Oslo,0.461247,Power,2024-02
+Paris,53.698060,Power,2024-02
+Qingdao,226.621928,Power,2024-02
+Rome,10.819973,Power,2024-02
+"San Francisco",592.239476,Power,2024-02
+Santiago,89.088411,Power,2024-02
+Seattle,43.371160,Power,2024-02
+Seoul,2167.404466,Power,2024-02
+Shanghai,3341.924806,Power,2024-02
+Stockholm,7.705850,Power,2024-02
+Sydney,50.723388,Power,2024-02
+Tokyo,8184.908064,Power,2024-02
+Total,45963.101428,Power,2024-02
+Washington,107.485242,Power,2024-02
+Amsterdam,296.769533,Residential,2024-02
+Bangkok,30.769537,Residential,2024-02
+Barcelona,252.686809,Residential,2024-02
+Beijing,1578.753639,Residential,2024-02
+Berlin,687.903182,Residential,2024-02
+Bogota,87.945123,Residential,2024-02
+"Cape Town",82.238858,Residential,2024-02
+Chengdu,1021.549028,Residential,2024-02
+Chicago,1868.122440,Residential,2024-02
+Chongqing,2141.712668,Residential,2024-02
+Copenhagen,68.527350,Residential,2024-02
+Hangzhou,664.048967,Residential,2024-02
+Helsinki,65.076800,Residential,2024-02
+Houston,1098.825204,Residential,2024-02
+Istanbul,1363.415047,Residential,2024-02
+Jinan,499.382380,Residential,2024-02
+London,1420.319652,Residential,2024-02
+"Los Angeles",3674.313953,Residential,2024-02
+Lyon,121.751419,Residential,2024-02
+Madrid,426.029627,Residential,2024-02
+Marseille,99.782591,Residential,2024-02
+Melbourne,130.558924,Residential,2024-02
+"Mexico City",194.055427,Residential,2024-02
+Miami,1149.495172,Residential,2024-02
+Milan,188.125590,Residential,2024-02
+Moscow,2063.711891,Residential,2024-02
+Munich,251.356956,Residential,2024-02
+Nanjing,614.657737,Residential,2024-02
+"New Delhi",230.393535,Residential,2024-02
+"New York",3129.041367,Residential,2024-02
+Nice,27.825890,Residential,2024-02
+Osaka,1976.076824,Residential,2024-02
+Oslo,13.382088,Residential,2024-02
+Paris,1346.031863,Residential,2024-02
+Qingdao,484.693968,Residential,2024-02
+Rome,400.714331,Residential,2024-02
+"San Francisco",1177.817834,Residential,2024-02
+Santiago,134.508620,Residential,2024-02
+Seattle,687.148186,Residential,2024-02
+Seoul,3697.666462,Residential,2024-02
+Shanghai,1732.379969,Residential,2024-02
+Stockholm,13.623076,Residential,2024-02
+Sydney,131.665794,Residential,2024-02
+Tokyo,4229.760666,Residential,2024-02
+Total,42893.453811,Residential,2024-02
+Washington,1338.837849,Residential,2024-02
+Amsterdam,1069.112350,Total,2024-02
+Bangkok,1346.018486,Total,2024-02
+Barcelona,654.787116,Total,2024-02
+Beijing,11052.661469,Total,2024-02
+Berlin,1338.785985,Total,2024-02
+Bogota,503.218378,Total,2024-02
+"Cape Town",965.415220,Total,2024-02
+Chengdu,5900.324314,Total,2024-02
+Chicago,8129.506574,Total,2024-02
+Chongqing,12628.538776,Total,2024-02
+Copenhagen,220.218476,Total,2024-02
+Hangzhou,4576.137610,Total,2024-02
+Helsinki,494.745981,Total,2024-02
+Houston,5705.330695,Total,2024-02
+Istanbul,2662.105387,Total,2024-02
+Jinan,5853.275537,Total,2024-02
+London,2931.743574,Total,2024-02
+"Los Angeles",11093.171215,Total,2024-02
+Lyon,202.232104,Total,2024-02
+Madrid,1164.906930,Total,2024-02
+Marseille,172.866310,Total,2024-02
+Melbourne,1367.226488,Total,2024-02
+"Mexico City",2283.315056,Total,2024-02
+Miami,3269.984556,Total,2024-02
+Milan,383.343882,Total,2024-02
+Moscow,7586.630232,Total,2024-02
+Munich,565.977264,Total,2024-02
+Nanjing,7904.523994,Total,2024-02
+"New Delhi",1228.395692,Total,2024-02
+"New York",9506.749271,Total,2024-02
+Nice,72.441803,Total,2024-02
+Osaka,7029.389683,Total,2024-02
+Oslo,247.611849,Total,2024-02
+Paris,2287.190879,Total,2024-02
+Qingdao,2177.852944,Total,2024-02
+Rome,749.455982,Total,2024-02
+"San Francisco",3898.501876,Total,2024-02
+Santiago,802.490669,Total,2024-02
+Seattle,2055.212861,Total,2024-02
+Seoul,9146.456110,Total,2024-02
+Shanghai,30022.496133,Total,2024-02
+Stockholm,127.185996,Total,2024-02
+Sydney,1266.128918,Total,2024-02
+Tokyo,17516.179500,Total,2024-02
+Washington,3587.990647,Total,2024-02
+Amsterdam,108.764410,Aviation,2024-03
+Bangkok,34.068748,Aviation,2024-03
+Barcelona,20.517609,Aviation,2024-03
+Beijing,274.513843,Aviation,2024-03
+Berlin,43.446169,Aviation,2024-03
+Bogota,29.420792,Aviation,2024-03
+"Cape Town",39.965754,Aviation,2024-03
+Chengdu,58.393793,Aviation,2024-03
+Chicago,400.910493,Aviation,2024-03
+Chongqing,183.472349,Aviation,2024-03
+Copenhagen,6.446253,Aviation,2024-03
+Hangzhou,104.524075,Aviation,2024-03
+Helsinki,8.807082,Aviation,2024-03
+Houston,165.200824,Aviation,2024-03
+Istanbul,73.415131,Aviation,2024-03
+Jinan,47.440005,Aviation,2024-03
+London,245.185470,Aviation,2024-03
+"Los Angeles",452.128689,Aviation,2024-03
+Lyon,0.948261,Aviation,2024-03
+Madrid,116.070606,Aviation,2024-03
+Marseille,1.721325,Aviation,2024-03
+Melbourne,45.916868,Aviation,2024-03
+"Mexico City",28.707552,Aviation,2024-03
+Miami,200.361362,Aviation,2024-03
+Milan,16.268886,Aviation,2024-03
+Moscow,44.142389,Aviation,2024-03
+Munich,3.645903,Aviation,2024-03
+Nanjing,49.277896,Aviation,2024-03
+"New Delhi",87.048383,Aviation,2024-03
+"New York",401.016739,Aviation,2024-03
+Nice,2.452902,Aviation,2024-03
+Osaka,60.558566,Aviation,2024-03
+Oslo,3.410817,Aviation,2024-03
+Paris,75.148843,Aviation,2024-03
+Qingdao,58.951612,Aviation,2024-03
+Rome,35.252559,Aviation,2024-03
+"San Francisco",139.128488,Aviation,2024-03
+Santiago,49.433514,Aviation,2024-03
+Seattle,148.133335,Aviation,2024-03
+Seoul,53.392506,Aviation,2024-03
+Shanghai,209.926848,Aviation,2024-03
+Stockholm,9.589999,Aviation,2024-03
+Sydney,65.286408,Aviation,2024-03
+Tokyo,176.283145,Aviation,2024-03
+Total,4618.920138,Aviation,2024-03
+Washington,240.222945,Aviation,2024-03
+Amsterdam,183.392921,"Ground Transport",2024-03
+Bangkok,569.809353,"Ground Transport",2024-03
+Barcelona,101.203500,"Ground Transport",2024-03
+Beijing,1599.182306,"Ground Transport",2024-03
+Berlin,149.662965,"Ground Transport",2024-03
+Bogota,211.508131,"Ground Transport",2024-03
+"Cape Town",176.702242,"Ground Transport",2024-03
+Chengdu,504.091037,"Ground Transport",2024-03
+Chicago,958.585121,"Ground Transport",2024-03
+Chongqing,1146.129459,"Ground Transport",2024-03
+Copenhagen,58.373906,"Ground Transport",2024-03
+Hangzhou,755.594149,"Ground Transport",2024-03
+Helsinki,72.549360,"Ground Transport",2024-03
+Houston,692.214452,"Ground Transport",2024-03
+Istanbul,462.096184,"Ground Transport",2024-03
+Jinan,293.232857,"Ground Transport",2024-03
+London,598.673087,"Ground Transport",2024-03
+"Los Angeles",2047.365659,"Ground Transport",2024-03
+Lyon,26.901362,"Ground Transport",2024-03
+Madrid,271.801172,"Ground Transport",2024-03
+Marseille,24.556352,"Ground Transport",2024-03
+Melbourne,445.999330,"Ground Transport",2024-03
+"Mexico City",601.140337,"Ground Transport",2024-03
+Miami,566.093546,"Ground Transport",2024-03
+Milan,50.473727,"Ground Transport",2024-03
+Moscow,186.502858,"Ground Transport",2024-03
+Munich,54.357761,"Ground Transport",2024-03
+Nanjing,602.210506,"Ground Transport",2024-03
+"New Delhi",152.098924,"Ground Transport",2024-03
+"New York",1292.859488,"Ground Transport",2024-03
+Nice,14.741384,"Ground Transport",2024-03
+Osaka,599.483741,"Ground Transport",2024-03
+Oslo,10.295295,"Ground Transport",2024-03
+Paris,312.072691,"Ground Transport",2024-03
+Qingdao,445.984425,"Ground Transport",2024-03
+Rome,157.835219,"Ground Transport",2024-03
+"San Francisco",588.287325,"Ground Transport",2024-03
+Santiago,326.839076,"Ground Transport",2024-03
+Seattle,576.143416,"Ground Transport",2024-03
+Seoul,940.441092,"Ground Transport",2024-03
+Shanghai,1446.920979,"Ground Transport",2024-03
+Stockholm,43.029903,"Ground Transport",2024-03
+Sydney,321.242393,"Ground Transport",2024-03
+Tokyo,975.052161,"Ground Transport",2024-03
+Total,22414.285839,"Ground Transport",2024-03
+Washington,800.554678,"Ground Transport",2024-03
+Amsterdam,597.287750,Industry,2024-03
+Bangkok,790.727127,Industry,2024-03
+Barcelona,219.969035,Industry,2024-03
+Beijing,7609.354824,Industry,2024-03
+Berlin,224.427224,Industry,2024-03
+Bogota,191.342220,Industry,2024-03
+"Cape Town",708.417189,Industry,2024-03
+Chengdu,4767.949747,Industry,2024-03
+Chicago,3621.107845,Industry,2024-03
+Chongqing,5472.100776,Industry,2024-03
+Copenhagen,85.947438,Industry,2024-03
+Hangzhou,3505.036923,Industry,2024-03
+Helsinki,118.585211,Industry,2024-03
+Houston,1996.972387,Industry,2024-03
+Istanbul,772.756488,Industry,2024-03
+Jinan,1999.261759,Industry,2024-03
+London,647.852472,Industry,2024-03
+"Los Angeles",4060.463576,Industry,2024-03
+Lyon,48.660648,Industry,2024-03
+Madrid,334.500850,Industry,2024-03
+Marseille,50.051573,Industry,2024-03
+Melbourne,740.528482,Industry,2024-03
+"Mexico City",1047.256150,Industry,2024-03
+Miami,1043.105299,Industry,2024-03
+Milan,62.382588,Industry,2024-03
+Moscow,772.454491,Industry,2024-03
+Munich,81.003737,Industry,2024-03
+Nanjing,4998.490208,Industry,2024-03
+"New Delhi",435.228232,Industry,2024-03
+"New York",3033.243004,Industry,2024-03
+Nice,29.761098,Industry,2024-03
+Osaka,2271.958543,Industry,2024-03
+Oslo,211.242318,Industry,2024-03
+Paris,551.459711,Industry,2024-03
+Qingdao,1411.681610,Industry,2024-03
+Rome,161.037924,Industry,2024-03
+"San Francisco",1452.369902,Industry,2024-03
+Santiago,294.109902,Industry,2024-03
+Seattle,671.866612,Industry,2024-03
+Seoul,2450.424484,Industry,2024-03
+Shanghai,32165.720603,Industry,2024-03
+Stockholm,70.453445,Industry,2024-03
+Sydney,754.585984,Industry,2024-03
+Tokyo,4382.499109,Industry,2024-03
+Total,98119.576267,Industry,2024-03
+Washington,1203.939775,Industry,2024-03
+Amsterdam,17.731660,Power,2024-03
+Bangkok,8.605804,Power,2024-03
+Barcelona,54.801180,Power,2024-03
+Beijing,2388.677934,Power,2024-03
+Berlin,261.381573,Power,2024-03
+Bogota,1.043937,Power,2024-03
+"Cape Town",0.084684,Power,2024-03
+Chengdu,847.039331,Power,2024-03
+Chicago,1292.953154,Power,2024-03
+Chongqing,5011.010601,Power,2024-03
+Copenhagen,21.741954,Power,2024-03
+Hangzhou,606.751974,Power,2024-03
+Helsinki,230.156304,Power,2024-03
+Houston,1742.778922,Power,2024-03
+Istanbul,59.507918,Power,2024-03
+Jinan,3483.788971,Power,2024-03
+London,105.930740,Power,2024-03
+"Los Angeles",1115.292159,Power,2024-03
+Lyon,8.037883,Power,2024-03
+Madrid,4.210782,Power,2024-03
+Marseille,0.000000,Power,2024-03
+Melbourne,77.990247,Power,2024-03
+"Mexico City",674.079432,Power,2024-03
+Miami,377.939209,Power,2024-03
+Milan,62.498302,Power,2024-03
+Moscow,4301.135588,Power,2024-03
+Munich,183.201833,Power,2024-03
+Nanjing,2900.418823,Power,2024-03
+"New Delhi",400.998809,Power,2024-03
+"New York",1923.244028,Power,2024-03
+Nice,0.000000,Power,2024-03
+Osaka,2366.933335,Power,2024-03
+Oslo,0.535807,Power,2024-03
+Paris,43.616106,Power,2024-03
+Qingdao,219.470678,Power,2024-03
+Rome,9.118338,Power,2024-03
+"San Francisco",629.943241,Power,2024-03
+Santiago,122.048542,Power,2024-03
+Seattle,47.220744,Power,2024-03
+Seoul,2584.948304,Power,2024-03
+Shanghai,3295.937355,Power,2024-03
+Stockholm,5.317164,Power,2024-03
+Sydney,60.871736,Power,2024-03
+Tokyo,8414.876156,Power,2024-03
+Total,46060.487869,Power,2024-03
+Washington,96.616651,Power,2024-03
+Amsterdam,305.230876,Residential,2024-03
+Bangkok,38.687266,Residential,2024-03
+Barcelona,247.809634,Residential,2024-03
+Beijing,1172.854448,Residential,2024-03
+Berlin,685.189309,Residential,2024-03
+Bogota,110.575490,Residential,2024-03
+"Cape Town",103.400868,Residential,2024-03
+Chengdu,758.906814,Residential,2024-03
+Chicago,1651.666983,Residential,2024-03
+Chongqing,1591.076370,Residential,2024-03
+Copenhagen,80.442057,Residential,2024-03
+Hangzhou,493.321407,Residential,2024-03
+Helsinki,76.067878,Residential,2024-03
+Houston,971.506726,Residential,2024-03
+Istanbul,1277.581724,Residential,2024-03
+Jinan,370.990773,Residential,2024-03
+London,1470.458019,Residential,2024-03
+"Los Angeles",3248.578944,Residential,2024-03
+Lyon,121.362911,Residential,2024-03
+Madrid,417.806373,Residential,2024-03
+Marseille,99.464356,Residential,2024-03
+Melbourne,164.154832,Residential,2024-03
+"Mexico City",167.695709,Residential,2024-03
+Miami,1016.305523,Residential,2024-03
+Milan,174.284980,Residential,2024-03
+Moscow,1694.979449,Residential,2024-03
+Munich,250.365204,Residential,2024-03
+Nanjing,456.628091,Residential,2024-03
+"New Delhi",134.837579,Residential,2024-03
+"New York",2766.486031,Residential,2024-03
+Nice,27.737096,Residential,2024-03
+Osaka,1891.617107,Residential,2024-03
+Oslo,19.094573,Residential,2024-03
+Paris,1341.737088,Residential,2024-03
+Qingdao,360.078596,Residential,2024-03
+Rome,371.232977,Residential,2024-03
+"San Francisco",1041.346627,Residential,2024-03
+Santiago,169.120876,Residential,2024-03
+Seattle,607.529657,Residential,2024-03
+Seoul,3688.797958,Residential,2024-03
+Shanghai,1286.983350,Residential,2024-03
+Stockholm,16.883181,Residential,2024-03
+Sydney,165.546526,Residential,2024-03
+Tokyo,4048.977242,Residential,2024-03
+Total,38339.109001,Residential,2024-03
+Washington,1183.709524,Residential,2024-03
+Amsterdam,1212.407618,Total,2024-03
+Bangkok,1441.898296,Total,2024-03
+Barcelona,644.300960,Total,2024-03
+Beijing,13044.583354,Total,2024-03
+Berlin,1364.107230,Total,2024-03
+Bogota,543.890567,Total,2024-03
+"Cape Town",1028.570741,Total,2024-03
+Chengdu,6936.380721,Total,2024-03
+Chicago,7925.223595,Total,2024-03
+Chongqing,13403.789552,Total,2024-03
+Copenhagen,252.951607,Total,2024-03
+Hangzhou,5465.228527,Total,2024-03
+Helsinki,506.165832,Total,2024-03
+Houston,5568.673313,Total,2024-03
+Istanbul,2645.357443,Total,2024-03
+Jinan,6194.714366,Total,2024-03
+London,3068.099789,Total,2024-03
+"Los Angeles",10923.829032,Total,2024-03
+Lyon,205.911062,Total,2024-03
+Madrid,1144.389788,Total,2024-03
+Marseille,175.793609,Total,2024-03
+Melbourne,1474.589752,Total,2024-03
+"Mexico City",2518.879180,Total,2024-03
+Miami,3203.804947,Total,2024-03
+Milan,365.908482,Total,2024-03
+Moscow,6999.214772,Total,2024-03
+Munich,572.574438,Total,2024-03
+Nanjing,9007.025527,Total,2024-03
+"New Delhi",1210.211925,Total,2024-03
+"New York",9416.849293,Total,2024-03
+Nice,74.692480,Total,2024-03
+Osaka,7190.551294,Total,2024-03
+Oslo,244.578807,Total,2024-03
+Paris,2324.034445,Total,2024-03
+Qingdao,2496.166916,Total,2024-03
+Rome,734.477018,Total,2024-03
+"San Francisco",3851.075592,Total,2024-03
+Santiago,961.551917,Total,2024-03
+Seattle,2050.893765,Total,2024-03
+Seoul,9718.004342,Total,2024-03
+Shanghai,38405.489138,Total,2024-03
+Stockholm,145.273690,Total,2024-03
+Sydney,1367.533049,Total,2024-03
+Tokyo,17997.687812,Total,2024-03
+Washington,3525.043570,Total,2024-03
+Amsterdam,109.814526,Aviation,2024-04
+Bangkok,32.589080,Aviation,2024-04
+Barcelona,22.678350,Aviation,2024-04
+Beijing,267.312094,Aviation,2024-04
+Berlin,46.955181,Aviation,2024-04
+Bogota,28.937705,Aviation,2024-04
+"Cape Town",29.965141,Aviation,2024-04
+Chengdu,57.167172,Aviation,2024-04
+Chicago,416.164139,Aviation,2024-04
+Chongqing,174.053433,Aviation,2024-04
+Copenhagen,6.895886,Aviation,2024-04
+Hangzhou,101.268147,Aviation,2024-04
+Helsinki,11.657624,Aviation,2024-04
+Houston,155.638987,Aviation,2024-04
+Istanbul,73.395917,Aviation,2024-04
+Jinan,46.582951,Aviation,2024-04
+London,249.521427,Aviation,2024-04
+"Los Angeles",449.293775,Aviation,2024-04
+Lyon,0.987322,Aviation,2024-04
+Madrid,119.341117,Aviation,2024-04
+Marseille,2.006763,Aviation,2024-04
+Melbourne,42.482607,Aviation,2024-04
+"Mexico City",28.508627,Aviation,2024-04
+Miami,181.047509,Aviation,2024-04
+Milan,16.794258,Aviation,2024-04
+Moscow,44.295825,Aviation,2024-04
+Munich,4.203783,Aviation,2024-04
+Nanjing,51.518186,Aviation,2024-04
+"New Delhi",81.847698,Aviation,2024-04
+"New York",416.820614,Aviation,2024-04
+Nice,3.454858,Aviation,2024-04
+Osaka,59.715961,Aviation,2024-04
+Oslo,3.696211,Aviation,2024-04
+Paris,77.711132,Aviation,2024-04
+Qingdao,63.946002,Aviation,2024-04
+Rome,42.402272,Aviation,2024-04
+"San Francisco",140.440249,Aviation,2024-04
+Santiago,41.752562,Aviation,2024-04
+Seattle,148.043283,Aviation,2024-04
+Seoul,53.418337,Aviation,2024-04
+Shanghai,204.977840,Aviation,2024-04
+Stockholm,9.747586,Aviation,2024-04
+Sydney,61.350823,Aviation,2024-04
+Tokyo,171.926079,Aviation,2024-04
+Total,4608.717745,Aviation,2024-04
+Washington,256.388710,Aviation,2024-04
+Amsterdam,174.491868,"Ground Transport",2024-04
+Bangkok,521.033699,"Ground Transport",2024-04
+Barcelona,99.086338,"Ground Transport",2024-04
+Beijing,1567.176942,"Ground Transport",2024-04
+Berlin,144.463031,"Ground Transport",2024-04
+Bogota,208.887806,"Ground Transport",2024-04
+"Cape Town",169.950219,"Ground Transport",2024-04
+Chengdu,488.730158,"Ground Transport",2024-04
+Chicago,945.783366,"Ground Transport",2024-04
+Chongqing,1121.209489,"Ground Transport",2024-04
+Copenhagen,59.949162,"Ground Transport",2024-04
+Hangzhou,722.329078,"Ground Transport",2024-04
+Helsinki,69.763955,"Ground Transport",2024-04
+Houston,654.828039,"Ground Transport",2024-04
+Istanbul,433.851705,"Ground Transport",2024-04
+Jinan,284.702193,"Ground Transport",2024-04
+London,579.955800,"Ground Transport",2024-04
+"Los Angeles",1968.287614,"Ground Transport",2024-04
+Lyon,25.279155,"Ground Transport",2024-04
+Madrid,291.414043,"Ground Transport",2024-04
+Marseille,23.891688,"Ground Transport",2024-04
+Melbourne,428.296565,"Ground Transport",2024-04
+"Mexico City",602.559510,"Ground Transport",2024-04
+Miami,543.494024,"Ground Transport",2024-04
+Milan,46.354513,"Ground Transport",2024-04
+Moscow,182.304520,"Ground Transport",2024-04
+Munich,52.015641,"Ground Transport",2024-04
+Nanjing,579.631739,"Ground Transport",2024-04
+"New Delhi",146.519488,"Ground Transport",2024-04
+"New York",1245.423708,"Ground Transport",2024-04
+Nice,14.252370,"Ground Transport",2024-04
+Osaka,578.688868,"Ground Transport",2024-04
+Oslo,11.168050,"Ground Transport",2024-04
+Paris,295.654404,"Ground Transport",2024-04
+Qingdao,434.213381,"Ground Transport",2024-04
+Rome,149.594931,"Ground Transport",2024-04
+"San Francisco",560.954109,"Ground Transport",2024-04
+Santiago,323.438380,"Ground Transport",2024-04
+Seattle,549.805066,"Ground Transport",2024-04
+Seoul,901.856305,"Ground Transport",2024-04
+Shanghai,1401.106540,"Ground Transport",2024-04
+Stockholm,41.472371,"Ground Transport",2024-04
+Sydney,308.404045,"Ground Transport",2024-04
+Tokyo,938.329663,"Ground Transport",2024-04
+Total,21667.875157,"Ground Transport",2024-04
+Washington,777.271625,"Ground Transport",2024-04
+Amsterdam,512.568513,Industry,2024-04
+Bangkok,807.208044,Industry,2024-04
+Barcelona,233.517239,Industry,2024-04
+Beijing,7041.783710,Industry,2024-04
+Berlin,224.833393,Industry,2024-04
+Bogota,184.944987,Industry,2024-04
+"Cape Town",712.561952,Industry,2024-04
+Chengdu,4399.128962,Industry,2024-04
+Chicago,3591.181649,Industry,2024-04
+Chongqing,5048.363274,Industry,2024-04
+Copenhagen,80.662274,Industry,2024-04
+Hangzhou,3236.937328,Industry,2024-04
+Helsinki,100.056757,Industry,2024-04
+Houston,1954.873399,Industry,2024-04
+Istanbul,703.917315,Industry,2024-04
+Jinan,1838.868762,Industry,2024-04
+London,603.323308,Industry,2024-04
+"Los Angeles",4014.723808,Industry,2024-04
+Lyon,46.384595,Industry,2024-04
+Madrid,355.201831,Industry,2024-04
+Marseille,47.486586,Industry,2024-04
+Melbourne,756.873961,Industry,2024-04
+"Mexico City",1074.289616,Industry,2024-04
+Miami,1037.254203,Industry,2024-04
+Milan,57.535364,Industry,2024-04
+Moscow,753.198686,Industry,2024-04
+Munich,81.082915,Industry,2024-04
+Nanjing,4615.423760,Industry,2024-04
+"New Delhi",398.202769,Industry,2024-04
+"New York",3007.490543,Industry,2024-04
+Nice,28.024105,Industry,2024-04
+Osaka,2044.438888,Industry,2024-04
+Oslo,199.236282,Industry,2024-04
+Paris,525.715419,Industry,2024-04
+Qingdao,1297.425145,Industry,2024-04
+Rome,149.900542,Industry,2024-04
+"San Francisco",1431.560550,Industry,2024-04
+Santiago,296.453398,Industry,2024-04
+Seattle,667.393279,Industry,2024-04
+Seoul,2266.621344,Industry,2024-04
+Shanghai,29834.953234,Industry,2024-04
+Stockholm,61.441629,Industry,2024-04
+Sydney,772.103282,Industry,2024-04
+Tokyo,3930.279882,Industry,2024-04
+Total,92221.870856,Industry,2024-04
+Washington,1196.444400,Industry,2024-04
+Amsterdam,13.902212,Power,2024-04
+Bangkok,7.791636,Power,2024-04
+Barcelona,51.216048,Power,2024-04
+Beijing,2103.879330,Power,2024-04
+Berlin,188.564939,Power,2024-04
+Bogota,1.090658,Power,2024-04
+"Cape Town",0.084967,Power,2024-04
+Chengdu,729.715995,Power,2024-04
+Chicago,1176.378773,Power,2024-04
+Chongqing,4338.781830,Power,2024-04
+Copenhagen,12.713722,Power,2024-04
+Hangzhou,524.972323,Power,2024-04
+Helsinki,139.678145,Power,2024-04
+Houston,1664.816489,Power,2024-04
+Istanbul,63.305357,Power,2024-04
+Jinan,3001.279556,Power,2024-04
+London,76.283730,Power,2024-04
+"Los Angeles",1138.799514,Power,2024-04
+Lyon,2.254502,Power,2024-04
+Madrid,4.047924,Power,2024-04
+Marseille,0.000000,Power,2024-04
+Melbourne,89.622562,Power,2024-04
+"Mexico City",789.073768,Power,2024-04
+Miami,384.810088,Power,2024-04
+Milan,49.927300,Power,2024-04
+Moscow,3394.392009,Power,2024-04
+Munich,129.756542,Power,2024-04
+Nanjing,2507.439840,Power,2024-04
+"New Delhi",428.574519,Power,2024-04
+"New York",1962.246105,Power,2024-04
+Nice,0.000000,Power,2024-04
+Osaka,1595.407918,Power,2024-04
+Oslo,0.687886,Power,2024-04
+Paris,12.572758,Power,2024-04
+Qingdao,189.112442,Power,2024-04
+Rome,7.246275,Power,2024-04
+"San Francisco",642.198517,Power,2024-04
+Santiago,142.432187,Power,2024-04
+Seattle,48.556993,Power,2024-04
+Seoul,2406.352599,Power,2024-04
+Shanghai,2943.177686,Power,2024-04
+Stockholm,1.961474,Power,2024-04
+Sydney,70.122481,Power,2024-04
+Tokyo,5692.977328,Power,2024-04
+Total,38815.626171,Power,2024-04
+Washington,87.419229,Power,2024-04
+Amsterdam,255.261622,Residential,2024-04
+Bangkok,40.450329,Residential,2024-04
+Barcelona,195.732716,Residential,2024-04
+Beijing,769.956003,Residential,2024-04
+Berlin,528.672151,Residential,2024-04
+Bogota,115.614650,Residential,2024-04
+"Cape Town",108.113063,Residential,2024-04
+Chengdu,498.207930,Residential,2024-04
+Chicago,1316.276773,Residential,2024-04
+Chongqing,1044.510636,Residential,2024-04
+Copenhagen,58.098660,Residential,2024-04
+Hangzhou,323.855782,Residential,2024-04
+Helsinki,56.416559,Residential,2024-04
+Houston,774.230598,Residential,2024-04
+Istanbul,877.153844,Residential,2024-04
+Jinan,243.548253,Residential,2024-04
+London,1307.986219,Residential,2024-04
+"Los Angeles",2588.916361,Residential,2024-04
+Lyon,100.084068,Residential,2024-04
+Madrid,330.004705,Residential,2024-04
+Marseille,82.025044,Residential,2024-04
+Melbourne,171.635717,Residential,2024-04
+"Mexico City",175.337960,Residential,2024-04
+Miami,809.932480,Residential,2024-04
+Milan,129.270746,Residential,2024-04
+Moscow,893.097712,Residential,2024-04
+Munich,193.174703,Residential,2024-04
+Nanjing,299.767617,Residential,2024-04
+"New Delhi",108.631147,Residential,2024-04
+"New York",2204.718452,Residential,2024-04
+Nice,22.873925,Residential,2024-04
+Osaka,835.607383,Residential,2024-04
+Oslo,17.360950,Residential,2024-04
+Paris,1106.487213,Residential,2024-04
+Qingdao,236.384559,Residential,2024-04
+Rome,275.350986,Residential,2024-04
+"San Francisco",829.888766,Residential,2024-04
+Santiago,213.243225,Residential,2024-04
+Seattle,484.163888,Residential,2024-04
+Seoul,1379.043236,Residential,2024-04
+Shanghai,844.879377,Residential,2024-04
+Stockholm,12.075452,Residential,2024-04
+Sydney,173.090833,Residential,2024-04
+Tokyo,1788.604869,Residential,2024-04
+Total,25763.080341,Residential,2024-04
+Washington,943.343195,Residential,2024-04
+Amsterdam,1066.038736,Total,2024-04
+Bangkok,1409.072791,Total,2024-04
+Barcelona,602.230693,Total,2024-04
+Beijing,11750.108072,Total,2024-04
+Berlin,1133.488699,Total,2024-04
+Bogota,539.475809,Total,2024-04
+"Cape Town",1020.675345,Total,2024-04
+Chengdu,6172.950216,Total,2024-04
+Chicago,7445.784701,Total,2024-04
+Chongqing,11726.918663,Total,2024-04
+Copenhagen,218.319704,Total,2024-04
+Hangzhou,4909.362659,Total,2024-04
+Helsinki,377.573039,Total,2024-04
+Houston,5204.387520,Total,2024-04
+Istanbul,2151.624141,Total,2024-04
+Jinan,5414.981704,Total,2024-04
+London,2817.070473,Total,2024-04
+"Los Angeles",10160.021071,Total,2024-04
+Lyon,174.989646,Total,2024-04
+Madrid,1100.009622,Total,2024-04
+Marseille,155.410081,Total,2024-04
+Melbourne,1488.911418,Total,2024-04
+"Mexico City",2669.769479,Total,2024-04
+Miami,2956.538311,Total,2024-04
+Milan,299.882178,Total,2024-04
+Moscow,5267.288751,Total,2024-04
+Munich,460.233583,Total,2024-04
+Nanjing,8053.781138,Total,2024-04
+"New Delhi",1163.775617,Total,2024-04
+"New York",8836.699412,Total,2024-04
+Nice,68.605264,Total,2024-04
+Osaka,5113.859023,Total,2024-04
+Oslo,232.149378,Total,2024-04
+Paris,2018.140931,Total,2024-04
+Qingdao,2221.081531,Total,2024-04
+Rome,624.495007,Total,2024-04
+"San Francisco",3605.042185,Total,2024-04
+Santiago,1017.319753,Total,2024-04
+Seattle,1897.962503,Total,2024-04
+Seoul,7007.291826,Total,2024-04
+Shanghai,35229.094679,Total,2024-04
+Stockholm,126.698515,Total,2024-04
+Sydney,1385.071464,Total,2024-04
+Tokyo,12522.117814,Total,2024-04
+Washington,3260.867157,Total,2024-04
+Amsterdam,117.109032,Aviation,2024-05
+Bangkok,32.512513,Aviation,2024-05
+Barcelona,25.136664,Aviation,2024-05
+Beijing,281.261268,Aviation,2024-05
+Berlin,51.448809,Aviation,2024-05
+Bogota,29.069571,Aviation,2024-05
+"Cape Town",27.892780,Aviation,2024-05
+Chengdu,62.156180,Aviation,2024-05
+Chicago,446.538679,Aviation,2024-05
+Chongqing,184.005476,Aviation,2024-05
+Copenhagen,7.458897,Aviation,2024-05
+Hangzhou,106.190033,Aviation,2024-05
+Helsinki,9.162292,Aviation,2024-05
+Houston,163.448141,Aviation,2024-05
+Istanbul,76.088088,Aviation,2024-05
+Jinan,49.242038,Aviation,2024-05
+London,266.249800,Aviation,2024-05
+"Los Angeles",476.914191,Aviation,2024-05
+Lyon,1.091010,Aviation,2024-05
+Madrid,127.785727,Aviation,2024-05
+Marseille,2.304574,Aviation,2024-05
+Melbourne,42.335769,Aviation,2024-05
+"Mexico City",29.562037,Aviation,2024-05
+Miami,180.657637,Aviation,2024-05
+Milan,17.558265,Aviation,2024-05
+Moscow,47.541925,Aviation,2024-05
+Munich,4.546525,Aviation,2024-05
+Nanjing,52.917584,Aviation,2024-05
+"New Delhi",84.828821,Aviation,2024-05
+"New York",440.176029,Aviation,2024-05
+Nice,4.560083,Aviation,2024-05
+Osaka,62.626178,Aviation,2024-05
+Oslo,4.006718,Aviation,2024-05
+Paris,81.020823,Aviation,2024-05
+Qingdao,66.910075,Aviation,2024-05
+Rome,48.037804,Aviation,2024-05
+"San Francisco",149.902655,Aviation,2024-05
+Santiago,43.613546,Aviation,2024-05
+Seattle,164.783385,Aviation,2024-05
+Seoul,56.189063,Aviation,2024-05
+Shanghai,215.720120,Aviation,2024-05
+Stockholm,10.470217,Aviation,2024-05
+Sydney,62.062507,Aviation,2024-05
+Tokyo,177.356900,Aviation,2024-05
+Total,4873.456592,Aviation,2024-05
+Washington,283.006145,Aviation,2024-05
+Amsterdam,177.583542,"Ground Transport",2024-05
+Bangkok,568.338224,"Ground Transport",2024-05
+Barcelona,105.659073,"Ground Transport",2024-05
+Beijing,1612.801263,"Ground Transport",2024-05
+Berlin,149.865374,"Ground Transport",2024-05
+Bogota,216.085085,"Ground Transport",2024-05
+"Cape Town",176.639520,"Ground Transport",2024-05
+Chengdu,504.618786,"Ground Transport",2024-05
+Chicago,999.048000,"Ground Transport",2024-05
+Chongqing,1154.707165,"Ground Transport",2024-05
+Copenhagen,63.455637,"Ground Transport",2024-05
+Hangzhou,736.459969,"Ground Transport",2024-05
+Helsinki,76.995624,"Ground Transport",2024-05
+Houston,682.893370,"Ground Transport",2024-05
+Istanbul,464.556015,"Ground Transport",2024-05
+Jinan,292.636382,"Ground Transport",2024-05
+London,604.875937,"Ground Transport",2024-05
+"Los Angeles",2034.306569,"Ground Transport",2024-05
+Lyon,26.562075,"Ground Transport",2024-05
+Madrid,280.105137,"Ground Transport",2024-05
+Marseille,24.528045,"Ground Transport",2024-05
+Melbourne,443.775600,"Ground Transport",2024-05
+"Mexico City",623.190336,"Ground Transport",2024-05
+Miami,559.361219,"Ground Transport",2024-05
+Milan,50.078302,"Ground Transport",2024-05
+Moscow,172.515226,"Ground Transport",2024-05
+Munich,53.214842,"Ground Transport",2024-05
+Nanjing,596.903777,"Ground Transport",2024-05
+"New Delhi",152.716528,"Ground Transport",2024-05
+"New York",1302.094312,"Ground Transport",2024-05
+Nice,14.821112,"Ground Transport",2024-05
+Osaka,595.541092,"Ground Transport",2024-05
+Oslo,11.606850,"Ground Transport",2024-05
+Paris,304.755527,"Ground Transport",2024-05
+Qingdao,446.061944,"Ground Transport",2024-05
+Rome,158.801580,"Ground Transport",2024-05
+"San Francisco",588.637029,"Ground Transport",2024-05
+Santiago,333.373332,"Ground Transport",2024-05
+Seattle,570.831009,"Ground Transport",2024-05
+Seoul,961.492048,"Ground Transport",2024-05
+Shanghai,1438.706260,"Ground Transport",2024-05
+Stockholm,45.527929,"Ground Transport",2024-05
+Sydney,319.575696,"Ground Transport",2024-05
+Tokyo,965.840741,"Ground Transport",2024-05
+Total,22470.062117,"Ground Transport",2024-05
+Washington,807.919047,"Ground Transport",2024-05
+Amsterdam,504.996501,Industry,2024-05
+Bangkok,892.675314,Industry,2024-05
+Barcelona,244.434975,Industry,2024-05
+Beijing,7362.286956,Industry,2024-05
+Berlin,205.222643,Industry,2024-05
+Bogota,196.494065,Industry,2024-05
+"Cape Town",791.368704,Industry,2024-05
+Chengdu,4602.276205,Industry,2024-05
+Chicago,3613.778235,Industry,2024-05
+Chongqing,5266.506433,Industry,2024-05
+Copenhagen,84.731444,Industry,2024-05
+Hangzhou,3383.197210,Industry,2024-05
+Helsinki,98.955167,Industry,2024-05
+Houston,1975.721375,Industry,2024-05
+Istanbul,734.391990,Industry,2024-05
+Jinan,1922.452492,Industry,2024-05
+London,637.728402,Industry,2024-05
+"Los Angeles",4036.260228,Industry,2024-05
+Lyon,43.372867,Industry,2024-05
+Madrid,371.595242,Industry,2024-05
+Marseille,44.266705,Industry,2024-05
+Melbourne,836.584872,Industry,2024-05
+"Mexico City",1184.423043,Industry,2024-05
+Miami,1038.816533,Industry,2024-05
+Milan,64.231684,Industry,2024-05
+Moscow,756.665069,Industry,2024-05
+Munich,74.094469,Industry,2024-05
+Nanjing,4831.248834,Industry,2024-05
+"New Delhi",420.844456,Industry,2024-05
+"New York",3019.415071,Industry,2024-05
+Nice,26.009947,Industry,2024-05
+Osaka,2030.678357,Industry,2024-05
+Oslo,193.172482,Industry,2024-05
+Paris,491.682537,Industry,2024-05
+Qingdao,1356.421596,Industry,2024-05
+Rome,169.219529,Industry,2024-05
+"San Francisco",1441.753428,Industry,2024-05
+Santiago,328.333895,Industry,2024-05
+Seattle,668.563959,Industry,2024-05
+Seoul,2375.936090,Industry,2024-05
+Shanghai,31200.629947,Industry,2024-05
+Stockholm,62.494180,Industry,2024-05
+Sydney,853.437336,Industry,2024-05
+Tokyo,3913.337549,Industry,2024-05
+Total,95549.906533,Industry,2024-05
+Washington,1199.198526,Industry,2024-05
+Amsterdam,14.854643,Power,2024-05
+Bangkok,7.948477,Power,2024-05
+Barcelona,52.925154,Power,2024-05
+Beijing,2056.907120,Power,2024-05
+Berlin,181.505441,Power,2024-05
+Bogota,1.287145,Power,2024-05
+"Cape Town",0.102310,Power,2024-05
+Chengdu,720.084592,Power,2024-05
+Chicago,1424.181609,Power,2024-05
+Chongqing,4252.680760,Power,2024-05
+Copenhagen,10.273668,Power,2024-05
+Hangzhou,517.556309,Power,2024-05
+Helsinki,89.571781,Power,2024-05
+Houston,2025.443129,Power,2024-05
+Istanbul,70.632544,Power,2024-05
+Jinan,2961.674142,Power,2024-05
+London,98.662573,Power,2024-05
+"Los Angeles",1385.421264,Power,2024-05
+Lyon,1.493768,Power,2024-05
+Madrid,4.376524,Power,2024-05
+Marseille,0.000000,Power,2024-05
+Melbourne,94.408794,Power,2024-05
+"Mexico City",950.750005,Power,2024-05
+Miami,463.271555,Power,2024-05
+Milan,47.697695,Power,2024-05
+Moscow,3056.007509,Power,2024-05
+Munich,123.262408,Power,2024-05
+Nanjing,2475.048531,Power,2024-05
+"New Delhi",431.577783,Power,2024-05
+"New York",2398.480328,Power,2024-05
+Nice,0.000000,Power,2024-05
+Osaka,1549.846851,Power,2024-05
+Oslo,0.796102,Power,2024-05
+Paris,8.062169,Power,2024-05
+Qingdao,186.623399,Power,2024-05
+Rome,6.945729,Power,2024-05
+"San Francisco",777.937376,Power,2024-05
+Santiago,173.823759,Power,2024-05
+Seattle,59.202320,Power,2024-05
+Seoul,2556.149571,Power,2024-05
+Shanghai,2853.940862,Power,2024-05
+Stockholm,1.305979,Power,2024-05
+Sydney,74.113648,Power,2024-05
+Tokyo,5579.658167,Power,2024-05
+Total,39852.018998,Power,2024-05
+Washington,105.525523,Power,2024-05
+Amsterdam,132.561741,Residential,2024-05
+Bangkok,42.763532,Residential,2024-05
+Barcelona,164.130683,Residential,2024-05
+Beijing,667.286417,Residential,2024-05
+Berlin,275.221003,Residential,2024-05
+Bogota,122.226218,Residential,2024-05
+"Cape Town",232.065944,Residential,2024-05
+Chengdu,431.774462,Residential,2024-05
+Chicago,1010.593259,Residential,2024-05
+Chongqing,905.230518,Residential,2024-05
+Copenhagen,43.782496,Residential,2024-05
+Hangzhou,280.671371,Residential,2024-05
+Helsinki,53.577867,Residential,2024-05
+Houston,594.428757,Residential,2024-05
+Istanbul,387.189292,Residential,2024-05
+Jinan,211.072365,Residential,2024-05
+London,962.704275,Residential,2024-05
+"Los Angeles",1987.683648,Residential,2024-05
+Lyon,75.019294,Residential,2024-05
+Madrid,276.723910,Residential,2024-05
+Marseille,61.482896,Residential,2024-05
+Melbourne,181.450924,Residential,2024-05
+"Mexico City",185.364882,Residential,2024-05
+Miami,621.839353,Residential,2024-05
+Milan,85.280492,Residential,2024-05
+Moscow,759.654530,Residential,2024-05
+Munich,100.564495,Residential,2024-05
+Nanjing,259.795126,Residential,2024-05
+"New Delhi",97.623356,Residential,2024-05
+"New York",1692.708002,Residential,2024-05
+Nice,17.145450,Residential,2024-05
+Osaka,617.790574,Residential,2024-05
+Oslo,14.559850,Residential,2024-05
+Paris,829.382473,Residential,2024-05
+Qingdao,204.863872,Residential,2024-05
+Rome,181.650220,Residential,2024-05
+"San Francisco",637.161031,Residential,2024-05
+Santiago,317.444553,Residential,2024-05
+Seattle,371.724809,Residential,2024-05
+Seoul,1045.361595,Residential,2024-05
+Shanghai,732.218819,Residential,2024-05
+Stockholm,10.624071,Residential,2024-05
+Sydney,182.989250,Residential,2024-05
+Tokyo,1322.371087,Residential,2024-05
+Total,20112.026399,Residential,2024-05
+Washington,724.267624,Residential,2024-05
+Amsterdam,947.105457,Total,2024-05
+Bangkok,1544.238062,Total,2024-05
+Barcelona,592.286553,Total,2024-05
+Beijing,11980.543026,Total,2024-05
+Berlin,863.263273,Total,2024-05
+Bogota,565.162088,Total,2024-05
+"Cape Town",1228.069258,Total,2024-05
+Chengdu,6320.910217,Total,2024-05
+Chicago,7494.139777,Total,2024-05
+Chongqing,11763.130353,Total,2024-05
+Copenhagen,209.702143,Total,2024-05
+Hangzhou,5024.074893,Total,2024-05
+Helsinki,328.262733,Total,2024-05
+Houston,5441.934769,Total,2024-05
+Istanbul,1732.857930,Total,2024-05
+Jinan,5437.077424,Total,2024-05
+London,2570.220983,Total,2024-05
+"Los Angeles",9920.585902,Total,2024-05
+Lyon,147.539011,Total,2024-05
+Madrid,1060.586537,Total,2024-05
+Marseille,132.582218,Total,2024-05
+Melbourne,1598.555962,Total,2024-05
+"Mexico City",2973.290301,Total,2024-05
+Miami,2863.946292,Total,2024-05
+Milan,264.846444,Total,2024-05
+Moscow,4792.384262,Total,2024-05
+Munich,355.682738,Total,2024-05
+Nanjing,8215.913852,Total,2024-05
+"New Delhi",1187.590939,Total,2024-05
+"New York",8852.873742,Total,2024-05
+Nice,62.536590,Total,2024-05
+Osaka,4856.483064,Total,2024-05
+Oslo,224.141999,Total,2024-05
+Paris,1714.903529,Total,2024-05
+Qingdao,2260.880882,Total,2024-05
+Rome,564.654859,Total,2024-05
+"San Francisco",3595.391518,Total,2024-05
+Santiago,1196.589082,Total,2024-05
+Seattle,1835.105485,Total,2024-05
+Seoul,6995.128370,Total,2024-05
+Shanghai,36441.216007,Total,2024-05
+Stockholm,130.422381,Total,2024-05
+Sydney,1492.178444,Total,2024-05
+Tokyo,11958.564442,Total,2024-05
+Washington,3119.916860,Total,2024-05
+Amsterdam,113.794168,Aviation,2024-06
+Bangkok,31.008683,Aviation,2024-06
+Barcelona,25.817429,Aviation,2024-06
+Beijing,279.103183,Aviation,2024-06
+Berlin,50.673411,Aviation,2024-06
+Bogota,28.363668,Aviation,2024-06
+"Cape Town",26.655520,Aviation,2024-06
+Chengdu,60.012887,Aviation,2024-06
+Chicago,458.850693,Aviation,2024-06
+Chongqing,179.198414,Aviation,2024-06
+Copenhagen,7.784683,Aviation,2024-06
+Hangzhou,105.862340,Aviation,2024-06
+Helsinki,7.330724,Aviation,2024-06
+Houston,168.469380,Aviation,2024-06
+Istanbul,77.257464,Aviation,2024-06
+Jinan,47.492853,Aviation,2024-06
+London,264.104913,Aviation,2024-06
+"Los Angeles",478.859798,Aviation,2024-06
+Lyon,1.099859,Aviation,2024-06
+Madrid,130.478598,Aviation,2024-06
+Marseille,2.337850,Aviation,2024-06
+Melbourne,42.224336,Aviation,2024-06
+"Mexico City",28.852449,Aviation,2024-06
+Miami,170.671993,Aviation,2024-06
+Milan,17.520255,Aviation,2024-06
+Moscow,50.940694,Aviation,2024-06
+Munich,4.465127,Aviation,2024-06
+Nanjing,51.678401,Aviation,2024-06
+"New Delhi",82.855946,Aviation,2024-06
+"New York",444.626875,Aviation,2024-06
+Nice,4.940846,Aviation,2024-06
+Osaka,62.584884,Aviation,2024-06
+Oslo,4.397875,Aviation,2024-06
+Paris,83.520238,Aviation,2024-06
+Qingdao,68.143305,Aviation,2024-06
+Rome,50.359848,Aviation,2024-06
+"San Francisco",149.130320,Aviation,2024-06
+Santiago,42.834996,Aviation,2024-06
+Seattle,177.119364,Aviation,2024-06
+Seoul,54.502680,Aviation,2024-06
+Shanghai,208.802913,Aviation,2024-06
+Stockholm,11.299406,Aviation,2024-06
+Sydney,60.711381,Aviation,2024-06
+Tokyo,171.116471,Aviation,2024-06
+Total,4868.876816,Aviation,2024-06
+Washington,281.019700,Aviation,2024-06
+Amsterdam,179.195512,"Ground Transport",2024-06
+Bangkok,553.809790,"Ground Transport",2024-06
+Barcelona,101.526340,"Ground Transport",2024-06
+Beijing,1557.436266,"Ground Transport",2024-06
+Berlin,147.715396,"Ground Transport",2024-06
+Bogota,207.323986,"Ground Transport",2024-06
+"Cape Town",169.088949,"Ground Transport",2024-06
+Chengdu,488.146276,"Ground Transport",2024-06
+Chicago,972.732105,"Ground Transport",2024-06
+Chongqing,1119.783783,"Ground Transport",2024-06
+Copenhagen,61.819563,"Ground Transport",2024-06
+Hangzhou,733.537429,"Ground Transport",2024-06
+Helsinki,71.447614,"Ground Transport",2024-06
+Houston,652.534112,"Ground Transport",2024-06
+Istanbul,407.623485,"Ground Transport",2024-06
+Jinan,282.000663,"Ground Transport",2024-06
+London,582.513336,"Ground Transport",2024-06
+"Los Angeles",1973.229372,"Ground Transport",2024-06
+Lyon,26.579393,"Ground Transport",2024-06
+Madrid,285.233245,"Ground Transport",2024-06
+Marseille,24.219323,"Ground Transport",2024-06
+Melbourne,407.663245,"Ground Transport",2024-06
+"Mexico City",616.046129,"Ground Transport",2024-06
+Miami,531.867688,"Ground Transport",2024-06
+Milan,48.101123,"Ground Transport",2024-06
+Moscow,178.573894,"Ground Transport",2024-06
+Munich,55.019195,"Ground Transport",2024-06
+Nanjing,578.673833,"Ground Transport",2024-06
+"New Delhi",145.768587,"Ground Transport",2024-06
+"New York",1264.655477,"Ground Transport",2024-06
+Nice,14.667363,"Ground Transport",2024-06
+Osaka,579.135781,"Ground Transport",2024-06
+Oslo,11.835561,"Ground Transport",2024-06
+Paris,302.299917,"Ground Transport",2024-06
+Qingdao,428.826678,"Ground Transport",2024-06
+Rome,151.093668,"Ground Transport",2024-06
+"San Francisco",567.203568,"Ground Transport",2024-06
+Santiago,334.756238,"Ground Transport",2024-06
+Seattle,563.634667,"Ground Transport",2024-06
+Seoul,919.309393,"Ground Transport",2024-06
+Shanghai,1395.443091,"Ground Transport",2024-06
+Stockholm,41.530800,"Ground Transport",2024-06
+Sydney,293.652173,"Ground Transport",2024-06
+Tokyo,939.665037,"Ground Transport",2024-06
+Total,21744.132901,"Ground Transport",2024-06
+Washington,777.213869,"Ground Transport",2024-06
+Amsterdam,546.326460,Industry,2024-06
+Bangkok,894.778311,Industry,2024-06
+Barcelona,230.566221,Industry,2024-06
+Beijing,7190.498704,Industry,2024-06
+Berlin,220.260116,Industry,2024-06
+Bogota,191.600824,Industry,2024-06
+"Cape Town",791.222198,Industry,2024-06
+Chengdu,4500.116106,Industry,2024-06
+Chicago,3682.932453,Industry,2024-06
+Chongqing,5136.825360,Industry,2024-06
+Copenhagen,95.701036,Industry,2024-06
+Hangzhou,3305.408170,Industry,2024-06
+Helsinki,107.955577,Industry,2024-06
+Houston,2012.718526,Industry,2024-06
+Istanbul,711.609938,Industry,2024-06
+Jinan,1878.843405,Industry,2024-06
+London,616.226301,Industry,2024-06
+"Los Angeles",4113.837017,Industry,2024-06
+Lyon,48.652358,Industry,2024-06
+Madrid,350.380125,Industry,2024-06
+Marseille,49.544759,Industry,2024-06
+Melbourne,837.740026,Industry,2024-06
+"Mexico City",1183.378487,Industry,2024-06
+Miami,1057.426379,Industry,2024-06
+Milan,59.547545,Industry,2024-06
+Moscow,753.614122,Industry,2024-06
+Munich,79.566430,Industry,2024-06
+Nanjing,4717.286035,Industry,2024-06
+"New Delhi",417.598221,Industry,2024-06
+"New York",3078.151655,Industry,2024-06
+Nice,29.006481,Industry,2024-06
+Osaka,2110.804255,Industry,2024-06
+Oslo,171.972234,Industry,2024-06
+Paris,551.525790,Industry,2024-06
+Qingdao,1324.995439,Industry,2024-06
+Rome,157.536893,Industry,2024-06
+"San Francisco",1469.403724,Industry,2024-06
+Santiago,329.608987,Industry,2024-06
+Seattle,680.223379,Industry,2024-06
+Seoul,2313.993718,Industry,2024-06
+Shanghai,30486.641045,Industry,2024-06
+Stockholm,69.905793,Industry,2024-06
+Sydney,854.767108,Industry,2024-06
+Tokyo,4064.739976,Industry,2024-06
+Total,94697.080377,Industry,2024-06
+Washington,1221.642688,Industry,2024-06
+Amsterdam,13.460862,Power,2024-06
+Bangkok,6.287320,Power,2024-06
+Barcelona,56.815390,Power,2024-06
+Beijing,2227.818437,Power,2024-06
+Berlin,187.661888,Power,2024-06
+Bogota,1.310388,Power,2024-06
+"Cape Town",0.099747,Power,2024-06
+Chengdu,772.774234,Power,2024-06
+Chicago,1708.719903,Power,2024-06
+Chongqing,4660.800661,Power,2024-06
+Copenhagen,9.388717,Power,2024-06
+Hangzhou,558.811001,Power,2024-06
+Helsinki,61.305883,Power,2024-06
+Houston,2544.169163,Power,2024-06
+Istanbul,69.552485,Power,2024-06
+Jinan,3178.398266,Power,2024-06
+London,75.529451,Power,2024-06
+"Los Angeles",1845.279777,Power,2024-06
+Lyon,1.578269,Power,2024-06
+Madrid,4.574789,Power,2024-06
+Marseille,0.000000,Power,2024-06
+Melbourne,96.193293,Power,2024-06
+"Mexico City",905.053236,Power,2024-06
+Miami,617.316876,Power,2024-06
+Milan,59.039213,Power,2024-06
+Moscow,2997.186885,Power,2024-06
+Munich,126.867587,Power,2024-06
+Nanjing,2660.131085,Power,2024-06
+"New Delhi",401.926923,Power,2024-06
+"New York",3187.323720,Power,2024-06
+Nice,0.000000,Power,2024-06
+Osaka,1780.354829,Power,2024-06
+Oslo,0.771337,Power,2024-06
+Paris,7.947480,Power,2024-06
+Qingdao,200.298033,Power,2024-06
+Rome,8.591557,Power,2024-06
+"San Francisco",1036.127537,Power,2024-06
+Santiago,145.599435,Power,2024-06
+Seattle,79.291822,Power,2024-06
+Seoul,2802.911696,Power,2024-06
+Shanghai,3145.626588,Power,2024-06
+Stockholm,1.265826,Power,2024-06
+Sydney,75.506233,Power,2024-06
+Tokyo,6483.831773,Power,2024-06
+Total,44929.275125,Power,2024-06
+Washington,125.775558,Power,2024-06
+Amsterdam,128.908070,Residential,2024-06
+Bangkok,31.213008,Residential,2024-06
+Barcelona,130.560730,Residential,2024-06
+Beijing,631.516809,Residential,2024-06
+Berlin,179.015950,Residential,2024-06
+Bogota,89.212653,Residential,2024-06
+"Cape Town",327.178006,Residential,2024-06
+Chengdu,408.629375,Residential,2024-06
+Chicago,890.198219,Residential,2024-06
+Chongqing,856.706023,Residential,2024-06
+Copenhagen,49.851976,Residential,2024-06
+Hangzhou,265.626100,Residential,2024-06
+Helsinki,30.041894,Residential,2024-06
+Houston,523.612659,Residential,2024-06
+Istanbul,141.637723,Residential,2024-06
+Jinan,199.757923,Residential,2024-06
+London,854.369861,Residential,2024-06
+"Los Angeles",1750.884866,Residential,2024-06
+Lyon,54.701543,Residential,2024-06
+Madrid,220.125053,Residential,2024-06
+Marseille,44.831240,Residential,2024-06
+Melbourne,827.311229,Residential,2024-06
+"Mexico City",135.297421,Residential,2024-06
+Miami,547.757745,Residential,2024-06
+Milan,57.085175,Residential,2024-06
+Moscow,322.606450,Residential,2024-06
+Munich,65.411489,Residential,2024-06
+Nanjing,245.868917,Residential,2024-06
+"New Delhi",90.876334,Residential,2024-06
+"New York",1491.050566,Residential,2024-06
+Nice,12.501888,Residential,2024-06
+Osaka,456.353215,Residential,2024-06
+Oslo,6.701256,Residential,2024-06
+Paris,604.757886,Residential,2024-06
+Qingdao,193.882230,Residential,2024-06
+Rome,121.593280,Residential,2024-06
+"San Francisco",561.254106,Residential,2024-06
+Santiago,273.611150,Residential,2024-06
+Seattle,327.440105,Residential,2024-06
+Seoul,763.007144,Residential,2024-06
+Shanghai,692.968541,Residential,2024-06
+Stockholm,6.190700,Residential,2024-06
+Sydney,834.324884,Residential,2024-06
+Tokyo,976.816927,Residential,2024-06
+Total,18061.231749,Residential,2024-06
+Washington,637.983425,Residential,2024-06
+Amsterdam,981.685068,Total,2024-06
+Bangkok,1517.097111,Total,2024-06
+Barcelona,545.286106,Total,2024-06
+Beijing,11886.373402,Total,2024-06
+Berlin,785.326761,Total,2024-06
+Bogota,517.811519,Total,2024-06
+"Cape Town",1314.244419,Total,2024-06
+Chengdu,6229.678876,Total,2024-06
+Chicago,7713.433374,Total,2024-06
+Chongqing,11953.314239,Total,2024-06
+Copenhagen,224.545972,Total,2024-06
+Hangzhou,4969.245036,Total,2024-06
+Helsinki,278.081688,Total,2024-06
+Houston,5901.503836,Total,2024-06
+Istanbul,1407.681109,Total,2024-06
+Jinan,5586.493110,Total,2024-06
+London,2392.743863,Total,2024-06
+"Los Angeles",10162.090832,Total,2024-06
+Lyon,132.611422,Total,2024-06
+Madrid,990.791811,Total,2024-06
+Marseille,120.933175,Total,2024-06
+Melbourne,2211.132127,Total,2024-06
+"Mexico City",2868.627719,Total,2024-06
+Miami,2925.040679,Total,2024-06
+Milan,241.293311,Total,2024-06
+Moscow,4302.922047,Total,2024-06
+Munich,331.329837,Total,2024-06
+Nanjing,8253.638268,Total,2024-06
+"New Delhi",1139.026010,Total,2024-06
+"New York",9465.808290,Total,2024-06
+Nice,61.116580,Total,2024-06
+Osaka,4989.232961,Total,2024-06
+Oslo,195.678267,Total,2024-06
+Paris,1550.051308,Total,2024-06
+Qingdao,2216.145684,Total,2024-06
+Rome,489.175246,Total,2024-06
+"San Francisco",3783.119257,Total,2024-06
+Santiago,1126.410800,Total,2024-06
+Seattle,1827.709339,Total,2024-06
+Seoul,6853.724631,Total,2024-06
+Shanghai,35929.482176,Total,2024-06
+Stockholm,130.192527,Total,2024-06
+Sydney,2118.961779,Total,2024-06
+Tokyo,12636.170180,Total,2024-06
+Washington,3043.635245,Total,2024-06
+Amsterdam,120.893256,Aviation,2024-07
+Bangkok,33.787701,Aviation,2024-07
+Barcelona,27.312131,Aviation,2024-07
+Beijing,308.178694,Aviation,2024-07
+Berlin,52.182333,Aviation,2024-07
+Bogota,30.897008,Aviation,2024-07
+"Cape Town",27.773901,Aviation,2024-07
+Chengdu,67.272761,Aviation,2024-07
+Chicago,474.075263,Aviation,2024-07
+Chongqing,194.882813,Aviation,2024-07
+Copenhagen,8.692733,Aviation,2024-07
+Hangzhou,122.547151,Aviation,2024-07
+Helsinki,16.351951,Aviation,2024-07
+Houston,164.160286,Aviation,2024-07
+Istanbul,80.581705,Aviation,2024-07
+Jinan,56.964997,Aviation,2024-07
+London,276.003662,Aviation,2024-07
+"Los Angeles",497.369047,Aviation,2024-07
+Lyon,1.162385,Aviation,2024-07
+Madrid,139.093442,Aviation,2024-07
+Marseille,2.704698,Aviation,2024-07
+Melbourne,45.737130,Aviation,2024-07
+"Mexico City",30.307832,Aviation,2024-07
+Miami,176.102088,Aviation,2024-07
+Milan,18.712999,Aviation,2024-07
+Moscow,55.666463,Aviation,2024-07
+Munich,4.688879,Aviation,2024-07
+Nanjing,61.932129,Aviation,2024-07
+"New Delhi",85.263571,Aviation,2024-07
+"New York",467.530645,Aviation,2024-07
+Nice,5.524025,Aviation,2024-07
+Osaka,67.062523,Aviation,2024-07
+Oslo,5.018032,Aviation,2024-07
+Paris,92.786324,Aviation,2024-07
+Qingdao,77.111839,Aviation,2024-07
+Rome,53.497350,Aviation,2024-07
+"San Francisco",156.375983,Aviation,2024-07
+Santiago,47.324558,Aviation,2024-07
+Seattle,188.336971,Aviation,2024-07
+Seoul,57.638153,Aviation,2024-07
+Shanghai,231.710101,Aviation,2024-07
+Stockholm,12.050068,Aviation,2024-07
+Sydney,64.081250,Aviation,2024-07
+Tokyo,180.072424,Aviation,2024-07
+Total,5176.728071,Aviation,2024-07
+Washington,289.308808,Aviation,2024-07
+Amsterdam,183.535516,"Ground Transport",2024-07
+Bangkok,569.149728,"Ground Transport",2024-07
+Barcelona,107.301736,"Ground Transport",2024-07
+Beijing,1603.004883,"Ground Transport",2024-07
+Berlin,150.635579,"Ground Transport",2024-07
+Bogota,213.615878,"Ground Transport",2024-07
+"Cape Town",178.442287,"Ground Transport",2024-07
+Chengdu,504.680560,"Ground Transport",2024-07
+Chicago,985.351103,"Ground Transport",2024-07
+Chongqing,1151.358283,"Ground Transport",2024-07
+Copenhagen,49.651111,"Ground Transport",2024-07
+Hangzhou,743.585806,"Ground Transport",2024-07
+Helsinki,66.874350,"Ground Transport",2024-07
+Houston,660.351837,"Ground Transport",2024-07
+Istanbul,448.524489,"Ground Transport",2024-07
+Jinan,289.509946,"Ground Transport",2024-07
+London,601.585159,"Ground Transport",2024-07
+"Los Angeles",2014.570908,"Ground Transport",2024-07
+Lyon,26.682259,"Ground Transport",2024-07
+Madrid,262.217870,"Ground Transport",2024-07
+Marseille,24.706767,"Ground Transport",2024-07
+Melbourne,418.077740,"Ground Transport",2024-07
+"Mexico City",633.102043,"Ground Transport",2024-07
+Miami,541.777569,"Ground Transport",2024-07
+Milan,46.693019,"Ground Transport",2024-07
+Moscow,176.611575,"Ground Transport",2024-07
+Munich,57.817846,"Ground Transport",2024-07
+Nanjing,602.150376,"Ground Transport",2024-07
+"New Delhi",154.396281,"Ground Transport",2024-07
+"New York",1268.965056,"Ground Transport",2024-07
+Nice,15.207596,"Ground Transport",2024-07
+Osaka,599.446536,"Ground Transport",2024-07
+Oslo,7.299218,"Ground Transport",2024-07
+Paris,300.979646,"Ground Transport",2024-07
+Qingdao,439.508488,"Ground Transport",2024-07
+Rome,149.264768,"Ground Transport",2024-07
+"San Francisco",576.584740,"Ground Transport",2024-07
+Santiago,336.341229,"Ground Transport",2024-07
+Seattle,576.321567,"Ground Transport",2024-07
+Seoul,962.277728,"Ground Transport",2024-07
+Shanghai,1421.826074,"Ground Transport",2024-07
+Stockholm,35.291556,"Ground Transport",2024-07
+Sydney,301.211616,"Ground Transport",2024-07
+Tokyo,972.619516,"Ground Transport",2024-07
+Total,22208.010881,"Ground Transport",2024-07
+Washington,778.903062,"Ground Transport",2024-07
+Amsterdam,487.279126,Industry,2024-07
+Bangkok,948.649112,Industry,2024-07
+Barcelona,238.949550,Industry,2024-07
+Beijing,6642.905201,Industry,2024-07
+Berlin,217.681742,Industry,2024-07
+Bogota,197.286458,Industry,2024-07
+"Cape Town",851.005549,Industry,2024-07
+Chengdu,4136.025718,Industry,2024-07
+Chicago,3585.392442,Industry,2024-07
+Chongqing,4714.888192,Industry,2024-07
+Copenhagen,90.325222,Industry,2024-07
+Hangzhou,3042.629414,Industry,2024-07
+Helsinki,95.198803,Industry,2024-07
+Houston,1971.469752,Industry,2024-07
+Istanbul,707.696498,Industry,2024-07
+Jinan,1724.278376,Industry,2024-07
+London,620.293944,Industry,2024-07
+"Los Angeles",3993.449538,Industry,2024-07
+Lyon,48.617284,Industry,2024-07
+Madrid,363.220433,Industry,2024-07
+Marseille,49.311869,Industry,2024-07
+Melbourne,892.590245,Industry,2024-07
+"Mexico City",1260.805518,Industry,2024-07
+Miami,1022.423043,Industry,2024-07
+Milan,63.997830,Industry,2024-07
+Moscow,768.051252,Industry,2024-07
+Munich,78.659191,Industry,2024-07
+Nanjing,4371.862182,Industry,2024-07
+"New Delhi",425.274261,Industry,2024-07
+"New York",2981.509577,Industry,2024-07
+Nice,28.708404,Industry,2024-07
+Osaka,2302.264756,Industry,2024-07
+Oslo,176.525885,Industry,2024-07
+Paris,551.314311,Industry,2024-07
+Qingdao,1217.466429,Industry,2024-07
+Rome,171.767163,Industry,2024-07
+"San Francisco",1430.911892,Industry,2024-07
+Santiago,345.247724,Industry,2024-07
+Seattle,657.773011,Industry,2024-07
+Seoul,2315.454711,Industry,2024-07
+Shanghai,28165.932173,Industry,2024-07
+Stockholm,63.338480,Industry,2024-07
+Sydney,911.347197,Industry,2024-07
+Tokyo,4457.699227,Industry,2024-07
+Total,90568.957819,Industry,2024-07
+Washington,1181.479141,Industry,2024-07
+Amsterdam,17.269606,Power,2024-07
+Bangkok,9.620576,Power,2024-07
+Barcelona,77.202188,Power,2024-07
+Beijing,2655.372265,Power,2024-07
+Berlin,187.514842,Power,2024-07
+Bogota,1.423916,Power,2024-07
+"Cape Town",0.100599,Power,2024-07
+Chengdu,928.865995,Power,2024-07
+Chicago,2036.221008,Power,2024-07
+Chongqing,5558.413178,Power,2024-07
+Copenhagen,10.663179,Power,2024-07
+Hangzhou,668.856820,Power,2024-07
+Helsinki,66.970218,Power,2024-07
+Houston,3045.178915,Power,2024-07
+Istanbul,99.401939,Power,2024-07
+Jinan,3820.367006,Power,2024-07
+London,92.690515,Power,2024-07
+"Los Angeles",2247.606187,Power,2024-07
+Lyon,2.094282,Power,2024-07
+Madrid,6.052487,Power,2024-07
+Marseille,0.000000,Power,2024-07
+Melbourne,90.217506,Power,2024-07
+"Mexico City",940.701496,Power,2024-07
+Miami,748.054180,Power,2024-07
+Milan,90.719449,Power,2024-07
+Moscow,3273.660372,Power,2024-07
+Munich,130.074631,Power,2024-07
+Nanjing,3189.530955,Power,2024-07
+"New Delhi",376.344417,Power,2024-07
+"New York",3871.944720,Power,2024-07
+Nice,0.000000,Power,2024-07
+Osaka,2575.687367,Power,2024-07
+Oslo,0.805491,Power,2024-07
+Paris,12.324172,Power,2024-07
+Qingdao,240.715743,Power,2024-07
+Rome,13.280865,Power,2024-07
+"San Francisco",1261.467748,Power,2024-07
+Santiago,151.230817,Power,2024-07
+Seattle,97.243626,Power,2024-07
+Seoul,3327.422131,Power,2024-07
+Shanghai,3715.427079,Power,2024-07
+Stockholm,1.507582,Power,2024-07
+Sydney,70.956400,Power,2024-07
+Tokyo,9182.213186,Power,2024-07
+Total,55040.304851,Power,2024-07
+Washington,146.889177,Power,2024-07
+Amsterdam,108.053932,Residential,2024-07
+Bangkok,32.036004,Residential,2024-07
+Barcelona,122.398781,Residential,2024-07
+Beijing,623.388193,Residential,2024-07
+Berlin,133.494333,Residential,2024-07
+Bogota,91.564927,Residential,2024-07
+"Cape Town",367.041363,Residential,2024-07
+Chengdu,403.369670,Residential,2024-07
+Chicago,865.849662,Residential,2024-07
+Chongqing,845.678861,Residential,2024-07
+Copenhagen,41.787158,Residential,2024-07
+Hangzhou,262.207072,Residential,2024-07
+Helsinki,12.915053,Residential,2024-07
+Houston,509.290888,Residential,2024-07
+Istanbul,145.372296,Residential,2024-07
+Jinan,197.186722,Residential,2024-07
+London,692.765175,Residential,2024-07
+"Los Angeles",1702.994947,Residential,2024-07
+Lyon,44.361599,Residential,2024-07
+Madrid,206.364025,Residential,2024-07
+Marseille,36.357030,Residential,2024-07
+Melbourne,746.354747,Residential,2024-07
+"Mexico City",138.864819,Residential,2024-07
+Miami,532.775561,Residential,2024-07
+Milan,54.721678,Residential,2024-07
+Moscow,277.291197,Residential,2024-07
+Munich,48.778130,Residential,2024-07
+Nanjing,242.704197,Residential,2024-07
+"New Delhi",87.252882,Residential,2024-07
+"New York",1450.267585,Residential,2024-07
+Nice,10.138723,Residential,2024-07
+Osaka,434.380725,Residential,2024-07
+Oslo,5.591082,Residential,2024-07
+Paris,490.443700,Residential,2024-07
+Qingdao,191.386658,Residential,2024-07
+Rome,116.558953,Residential,2024-07
+"San Francisco",545.902777,Residential,2024-07
+Santiago,264.423909,Residential,2024-07
+Seattle,318.484014,Residential,2024-07
+Seoul,783.125391,Residential,2024-07
+Shanghai,684.048935,Residential,2024-07
+Stockholm,3.818369,Residential,2024-07
+Sydney,752.681927,Residential,2024-07
+Tokyo,929.785169,Residential,2024-07
+Total,17174.792201,Residential,2024-07
+Washington,620.533403,Residential,2024-07
+Amsterdam,917.031427,Total,2024-07
+Bangkok,1593.243118,Total,2024-07
+Barcelona,573.164383,Total,2024-07
+Beijing,11832.849239,Total,2024-07
+Berlin,741.508830,Total,2024-07
+Bogota,534.788191,Total,2024-07
+"Cape Town",1424.363700,Total,2024-07
+Chengdu,6040.214704,Total,2024-07
+Chicago,7946.889478,Total,2024-07
+Chongqing,12465.221324,Total,2024-07
+Copenhagen,201.119407,Total,2024-07
+Hangzhou,4839.826264,Total,2024-07
+Helsinki,258.310369,Total,2024-07
+Houston,6350.451678,Total,2024-07
+Istanbul,1481.576923,Total,2024-07
+Jinan,6088.307048,Total,2024-07
+London,2283.338453,Total,2024-07
+"Los Angeles",10455.990622,Total,2024-07
+Lyon,122.917806,Total,2024-07
+Madrid,976.948260,Total,2024-07
+Marseille,113.080357,Total,2024-07
+Melbourne,2192.977369,Total,2024-07
+"Mexico City",3003.781706,Total,2024-07
+Miami,3021.132439,Total,2024-07
+Milan,274.844977,Total,2024-07
+Moscow,4551.280867,Total,2024-07
+Munich,320.018678,Total,2024-07
+Nanjing,8468.179832,Total,2024-07
+"New Delhi",1128.531412,Total,2024-07
+"New York",10040.217587,Total,2024-07
+Nice,59.578747,Total,2024-07
+Osaka,5978.841912,Total,2024-07
+Oslo,195.239711,Total,2024-07
+Paris,1447.848158,Total,2024-07
+Qingdao,2166.189159,Total,2024-07
+Rome,504.369097,Total,2024-07
+"San Francisco",3971.243146,Total,2024-07
+Santiago,1144.568231,Total,2024-07
+Seattle,1838.159187,Total,2024-07
+Seoul,7445.918119,Total,2024-07
+Shanghai,34218.944367,Total,2024-07
+Stockholm,116.006045,Total,2024-07
+Sydney,2100.278393,Total,2024-07
+Tokyo,15722.389524,Total,2024-07
+Washington,3017.113591,Total,2024-07
+Amsterdam,122.329161,Aviation,2024-08
+Bangkok,33.457631,Aviation,2024-08
+Barcelona,26.933640,Aviation,2024-08
+Beijing,310.837010,Aviation,2024-08
+Berlin,51.551442,Aviation,2024-08
+Bogota,31.102560,Aviation,2024-08
+"Cape Town",27.334951,Aviation,2024-08
+Chengdu,67.047131,Aviation,2024-08
+Chicago,468.323185,Aviation,2024-08
+Chongqing,196.029359,Aviation,2024-08
+Copenhagen,8.329560,Aviation,2024-08
+Hangzhou,123.562757,Aviation,2024-08
+Helsinki,6.332265,Aviation,2024-08
+Houston,164.042757,Aviation,2024-08
+Istanbul,81.196131,Aviation,2024-08
+Jinan,58.151370,Aviation,2024-08
+London,275.631331,Aviation,2024-08
+"Los Angeles",482.024247,Aviation,2024-08
+Lyon,1.148925,Aviation,2024-08
+Madrid,138.613021,Aviation,2024-08
+Marseille,2.711306,Aviation,2024-08
+Melbourne,43.547382,Aviation,2024-08
+"Mexico City",30.239371,Aviation,2024-08
+Miami,171.354346,Aviation,2024-08
+Milan,18.532966,Aviation,2024-08
+Moscow,56.064746,Aviation,2024-08
+Munich,4.738092,Aviation,2024-08
+Nanjing,62.427266,Aviation,2024-08
+"New Delhi",86.428366,Aviation,2024-08
+"New York",456.835612,Aviation,2024-08
+Nice,5.401434,Aviation,2024-08
+Osaka,68.654730,Aviation,2024-08
+Oslo,4.714564,Aviation,2024-08
+Paris,93.070127,Aviation,2024-08
+Qingdao,79.539218,Aviation,2024-08
+Rome,52.909211,Aviation,2024-08
+"San Francisco",154.475638,Aviation,2024-08
+Santiago,45.902083,Aviation,2024-08
+Seattle,185.534991,Aviation,2024-08
+Seoul,57.681913,Aviation,2024-08
+Shanghai,233.320694,Aviation,2024-08
+Stockholm,11.929940,Aviation,2024-08
+Sydney,61.298562,Aviation,2024-08
+Tokyo,177.464950,Aviation,2024-08
+Total,5121.812306,Aviation,2024-08
+Washington,283.056360,Aviation,2024-08
+Amsterdam,175.392243,"Ground Transport",2024-08
+Bangkok,576.111580,"Ground Transport",2024-08
+Barcelona,93.579581,"Ground Transport",2024-08
+Beijing,1599.685265,"Ground Transport",2024-08
+Berlin,149.491791,"Ground Transport",2024-08
+Bogota,215.344260,"Ground Transport",2024-08
+"Cape Town",179.328595,"Ground Transport",2024-08
+Chengdu,497.342151,"Ground Transport",2024-08
+Chicago,992.676837,"Ground Transport",2024-08
+Chongqing,1140.998898,"Ground Transport",2024-08
+Copenhagen,63.075035,"Ground Transport",2024-08
+Hangzhou,728.080780,"Ground Transport",2024-08
+Helsinki,78.194569,"Ground Transport",2024-08
+Houston,695.378132,"Ground Transport",2024-08
+Istanbul,449.359372,"Ground Transport",2024-08
+Jinan,285.150259,"Ground Transport",2024-08
+London,596.552674,"Ground Transport",2024-08
+"Los Angeles",2045.766593,"Ground Transport",2024-08
+Lyon,24.403383,"Ground Transport",2024-08
+Madrid,148.301001,"Ground Transport",2024-08
+Marseille,24.091669,"Ground Transport",2024-08
+Melbourne,426.841362,"Ground Transport",2024-08
+"Mexico City",643.326270,"Ground Transport",2024-08
+Miami,556.809047,"Ground Transport",2024-08
+Milan,28.602163,"Ground Transport",2024-08
+Moscow,182.509283,"Ground Transport",2024-08
+Munich,55.176318,"Ground Transport",2024-08
+Nanjing,596.868676,"Ground Transport",2024-08
+"New Delhi",156.407858,"Ground Transport",2024-08
+"New York",1283.307341,"Ground Transport",2024-08
+Nice,14.895326,"Ground Transport",2024-08
+Osaka,596.577438,"Ground Transport",2024-08
+Oslo,11.842004,"Ground Transport",2024-08
+Paris,259.374386,"Ground Transport",2024-08
+Qingdao,433.256644,"Ground Transport",2024-08
+Rome,110.131208,"Ground Transport",2024-08
+"San Francisco",589.972796,"Ground Transport",2024-08
+Santiago,348.348370,"Ground Transport",2024-08
+Seattle,578.910108,"Ground Transport",2024-08
+Seoul,965.185305,"Ground Transport",2024-08
+Shanghai,1403.886391,"Ground Transport",2024-08
+Stockholm,43.732406,"Ground Transport",2024-08
+Sydney,307.493697,"Ground Transport",2024-08
+Tokyo,966.167730,"Ground Transport",2024-08
+Total,22113.875006,"Ground Transport",2024-08
+Washington,795.948217,"Ground Transport",2024-08
+Amsterdam,441.093856,Industry,2024-08
+Bangkok,982.879916,Industry,2024-08
+Barcelona,160.262158,Industry,2024-08
+Beijing,6647.009713,Industry,2024-08
+Berlin,196.167743,Industry,2024-08
+Bogota,200.560518,Industry,2024-08
+"Cape Town",895.099825,Industry,2024-08
+Chengdu,4144.448805,Industry,2024-08
+Chicago,3671.538380,Industry,2024-08
+Chongqing,4722.262984,Industry,2024-08
+Copenhagen,86.154935,Industry,2024-08
+Hangzhou,3043.842896,Industry,2024-08
+Helsinki,84.620881,Industry,2024-08
+Houston,2045.200218,Industry,2024-08
+Istanbul,672.360820,Industry,2024-08
+Jinan,1727.819729,Industry,2024-08
+London,628.309612,Industry,2024-08
+"Los Angeles",4094.609182,Industry,2024-08
+Lyon,35.580099,Industry,2024-08
+Madrid,243.703168,Industry,2024-08
+Marseille,35.903639,Industry,2024-08
+Melbourne,925.534991,Industry,2024-08
+"Mexico City",1305.966194,Industry,2024-08
+Miami,1043.301571,Industry,2024-08
+Milan,34.943332,Industry,2024-08
+Moscow,779.498285,Industry,2024-08
+Munich,70.853823,Industry,2024-08
+Nanjing,4387.956135,Industry,2024-08
+"New Delhi",415.091172,Industry,2024-08
+"New York",3047.149995,Industry,2024-08
+Nice,20.746469,Industry,2024-08
+Osaka,1928.233651,Industry,2024-08
+Oslo,180.802042,Industry,2024-08
+Paris,403.680794,Industry,2024-08
+Qingdao,1221.357286,Industry,2024-08
+Rome,95.506301,Industry,2024-08
+"San Francisco",1472.532670,Industry,2024-08
+Santiago,361.014756,Industry,2024-08
+Seattle,672.344542,Industry,2024-08
+Seoul,2252.126138,Industry,2024-08
+Shanghai,28158.788313,Industry,2024-08
+Stockholm,57.808867,Industry,2024-08
+Sydney,944.022740,Industry,2024-08
+Tokyo,3741.068087,Industry,2024-08
+Total,89485.107974,Industry,2024-08
+Washington,1205.350744,Industry,2024-08
+Amsterdam,12.719148,Power,2024-08
+Bangkok,8.855384,Power,2024-08
+Barcelona,83.583560,Power,2024-08
+Beijing,2894.094720,Power,2024-08
+Berlin,203.957055,Power,2024-08
+Bogota,1.327746,Power,2024-08
+"Cape Town",0.092055,Power,2024-08
+Chengdu,1005.938888,Power,2024-08
+Chicago,2005.904081,Power,2024-08
+Chongqing,6015.560049,Power,2024-08
+Copenhagen,10.924660,Power,2024-08
+Hangzhou,724.521515,Power,2024-08
+Helsinki,70.961909,Power,2024-08
+Houston,3001.178925,Power,2024-08
+Istanbul,89.941555,Power,2024-08
+Jinan,4137.372112,Power,2024-08
+London,65.911634,Power,2024-08
+"Los Angeles",2213.686786,Power,2024-08
+Lyon,2.311722,Power,2024-08
+Madrid,6.528295,Power,2024-08
+Marseille,0.000000,Power,2024-08
+Melbourne,81.068198,Power,2024-08
+"Mexico City",917.704782,Power,2024-08
+Miami,739.081731,Power,2024-08
+Milan,90.099277,Power,2024-08
+Moscow,3151.764848,Power,2024-08
+Munich,135.011460,Power,2024-08
+Nanjing,3455.960360,Power,2024-08
+"New Delhi",349.880876,Power,2024-08
+"New York",3811.650724,Power,2024-08
+Nice,0.000000,Power,2024-08
+Osaka,2748.500536,Power,2024-08
+Oslo,0.662905,Power,2024-08
+Paris,10.930432,Power,2024-08
+Qingdao,260.696278,Power,2024-08
+Rome,13.195037,Power,2024-08
+"San Francisco",1243.587699,Power,2024-08
+Santiago,140.809876,Power,2024-08
+Seattle,95.626952,Power,2024-08
+Seoul,2730.123076,Power,2024-08
+Shanghai,4059.279335,Power,2024-08
+Stockholm,1.446297,Power,2024-08
+Sydney,63.770405,Power,2024-08
+Tokyo,10044.332306,Power,2024-08
+Total,56845.906526,Power,2024-08
+Washington,145.351344,Power,2024-08
+Amsterdam,108.226855,Residential,2024-08
+Bangkok,35.049276,Residential,2024-08
+Barcelona,119.630360,Residential,2024-08
+Beijing,620.979199,Residential,2024-08
+Berlin,127.233488,Residential,2024-08
+Bogota,100.177427,Residential,2024-08
+"Cape Town",328.800673,Residential,2024-08
+Chengdu,401.810902,Residential,2024-08
+Chicago,877.300450,Residential,2024-08
+Chongqing,842.410859,Residential,2024-08
+Copenhagen,41.854033,Residential,2024-08
+Hangzhou,261.193811,Residential,2024-08
+Helsinki,18.449114,Residential,2024-08
+Houston,516.026216,Residential,2024-08
+Istanbul,159.045857,Residential,2024-08
+Jinan,196.424721,Residential,2024-08
+London,697.282640,Residential,2024-08
+"Los Angeles",1725.516908,Residential,2024-08
+Lyon,42.306338,Residential,2024-08
+Madrid,201.696471,Residential,2024-08
+Marseille,34.672618,Residential,2024-08
+Melbourne,473.386333,Residential,2024-08
+"Mexico City",151.926291,Residential,2024-08
+Miami,539.821471,Residential,2024-08
+Milan,54.161599,Residential,2024-08
+Moscow,324.025087,Residential,2024-08
+Munich,46.490449,Residential,2024-08
+Nanjing,241.766298,Residential,2024-08
+"New Delhi",87.718168,Residential,2024-08
+"New York",1469.447253,Residential,2024-08
+Nice,9.668997,Residential,2024-08
+Osaka,432.612874,Residential,2024-08
+Oslo,6.871839,Residential,2024-08
+Paris,467.721578,Residential,2024-08
+Qingdao,190.647074,Residential,2024-08
+Rome,115.365970,Residential,2024-08
+"San Francisco",553.122287,Residential,2024-08
+Santiago,288.123948,Residential,2024-08
+Seattle,322.695940,Residential,2024-08
+Seoul,856.785323,Residential,2024-08
+Shanghai,681.405528,Residential,2024-08
+Stockholm,4.855723,Residential,2024-08
+Sydney,477.399262,Residential,2024-08
+Tokyo,926.001107,Residential,2024-08
+Total,16806.848529,Residential,2024-08
+Washington,628.739907,Residential,2024-08
+Amsterdam,859.761269,Total,2024-08
+Bangkok,1636.353781,Total,2024-08
+Barcelona,483.989292,Total,2024-08
+Beijing,12072.605904,Total,2024-08
+Berlin,728.401516,Total,2024-08
+Bogota,548.512504,Total,2024-08
+"Cape Town",1430.656104,Total,2024-08
+Chengdu,6116.587881,Total,2024-08
+Chicago,8015.742937,Total,2024-08
+Chongqing,12917.262142,Total,2024-08
+Copenhagen,210.338218,Total,2024-08
+Hangzhou,4881.201760,Total,2024-08
+Helsinki,258.558740,Total,2024-08
+Houston,6421.826253,Total,2024-08
+Istanbul,1451.903727,Total,2024-08
+Jinan,6404.918196,Total,2024-08
+London,2263.687890,Total,2024-08
+"Los Angeles",10561.603718,Total,2024-08
+Lyon,105.750469,Total,2024-08
+Madrid,738.841960,Total,2024-08
+Marseille,97.379232,Total,2024-08
+Melbourne,1950.378264,Total,2024-08
+"Mexico City",3049.162917,Total,2024-08
+Miami,3050.368171,Total,2024-08
+Milan,226.339336,Total,2024-08
+Moscow,4493.862252,Total,2024-08
+Munich,312.270147,Total,2024-08
+Nanjing,8744.978732,Total,2024-08
+"New Delhi",1095.526436,Total,2024-08
+"New York",10068.390924,Total,2024-08
+Nice,50.712223,Total,2024-08
+Osaka,5774.579228,Total,2024-08
+Oslo,204.893361,Total,2024-08
+Paris,1234.777317,Total,2024-08
+Qingdao,2185.496500,Total,2024-08
+Rome,387.107723,Total,2024-08
+"San Francisco",4013.691102,Total,2024-08
+Santiago,1184.199029,Total,2024-08
+Seattle,1855.112528,Total,2024-08
+Seoul,6861.901758,Total,2024-08
+Shanghai,34536.680265,Total,2024-08
+Stockholm,119.773232,Total,2024-08
+Sydney,1853.984668,Total,2024-08
+Tokyo,15855.034187,Total,2024-08
+Washington,3058.446575,Total,2024-08
+Amsterdam,116.529834,Aviation,2024-09
+Bangkok,31.108491,Aviation,2024-09
+Barcelona,26.165937,Aviation,2024-09
+Beijing,284.877825,Aviation,2024-09
+Berlin,52.519987,Aviation,2024-09
+Bogota,30.019102,Aviation,2024-09
+"Cape Town",28.102218,Aviation,2024-09
+Chengdu,60.295752,Aviation,2024-09
+Chicago,443.731263,Aviation,2024-09
+Chongqing,173.023613,Aviation,2024-09
+Copenhagen,7.845793,Aviation,2024-09
+Hangzhou,106.278988,Aviation,2024-09
+Helsinki,7.355390,Aviation,2024-09
+Houston,152.082990,Aviation,2024-09
+Istanbul,77.641722,Aviation,2024-09
+Jinan,49.661750,Aviation,2024-09
+London,264.324164,Aviation,2024-09
+"Los Angeles",447.547871,Aviation,2024-09
+Lyon,1.141523,Aviation,2024-09
+Madrid,133.033287,Aviation,2024-09
+Marseille,2.454726,Aviation,2024-09
+Melbourne,43.125598,Aviation,2024-09
+"Mexico City",28.360264,Aviation,2024-09
+Miami,155.314566,Aviation,2024-09
+Milan,18.235921,Aviation,2024-09
+Moscow,51.381952,Aviation,2024-09
+Munich,4.599122,Aviation,2024-09
+Nanjing,51.460307,Aviation,2024-09
+"New Delhi",85.127879,Aviation,2024-09
+"New York",433.509152,Aviation,2024-09
+Nice,4.635978,Aviation,2024-09
+Osaka,64.432707,Aviation,2024-09
+Oslo,4.356563,Aviation,2024-09
+Paris,81.027670,Aviation,2024-09
+Qingdao,67.861456,Aviation,2024-09
+Rome,50.198152,Aviation,2024-09
+"San Francisco",147.129988,Aviation,2024-09
+Santiago,44.619507,Aviation,2024-09
+Seattle,170.240682,Aviation,2024-09
+Seoul,55.336690,Aviation,2024-09
+Shanghai,215.953665,Aviation,2024-09
+Stockholm,11.336066,Aviation,2024-09
+Sydney,60.278151,Aviation,2024-09
+Tokyo,174.562300,Aviation,2024-09
+Total,4788.980699,Aviation,2024-09
+Washington,270.154133,Aviation,2024-09
+Amsterdam,179.841785,"Ground Transport",2024-09
+Bangkok,555.996086,"Ground Transport",2024-09
+Barcelona,99.757600,"Ground Transport",2024-09
+Beijing,1559.093738,"Ground Transport",2024-09
+Berlin,147.706836,"Ground Transport",2024-09
+Bogota,207.323026,"Ground Transport",2024-09
+"Cape Town",170.597727,"Ground Transport",2024-09
+Chengdu,484.985685,"Ground Transport",2024-09
+Chicago,956.508982,"Ground Transport",2024-09
+Chongqing,1114.997798,"Ground Transport",2024-09
+Copenhagen,63.366541,"Ground Transport",2024-09
+Hangzhou,692.095929,"Ground Transport",2024-09
+Helsinki,74.270331,"Ground Transport",2024-09
+Houston,652.358986,"Ground Transport",2024-09
+Istanbul,446.984246,"Ground Transport",2024-09
+Jinan,284.108349,"Ground Transport",2024-09
+London,592.871920,"Ground Transport",2024-09
+"Los Angeles",1968.181242,"Ground Transport",2024-09
+Lyon,26.354554,"Ground Transport",2024-09
+Madrid,287.273876,"Ground Transport",2024-09
+Marseille,23.942300,"Ground Transport",2024-09
+Melbourne,427.110356,"Ground Transport",2024-09
+"Mexico City",614.141261,"Ground Transport",2024-09
+Miami,534.739903,"Ground Transport",2024-09
+Milan,48.951235,"Ground Transport",2024-09
+Moscow,181.535591,"Ground Transport",2024-09
+Munich,55.176599,"Ground Transport",2024-09
+Nanjing,575.557383,"Ground Transport",2024-09
+"New Delhi",152.366478,"Ground Transport",2024-09
+"New York",1255.700803,"Ground Transport",2024-09
+Nice,14.635832,"Ground Transport",2024-09
+Osaka,578.408789,"Ground Transport",2024-09
+Oslo,11.321022,"Ground Transport",2024-09
+Paris,300.892573,"Ground Transport",2024-09
+Qingdao,432.286658,"Ground Transport",2024-09
+Rome,151.423858,"Ground Transport",2024-09
+"San Francisco",572.426435,"Ground Transport",2024-09
+Santiago,293.695930,"Ground Transport",2024-09
+Seattle,558.620717,"Ground Transport",2024-09
+Seoul,946.580384,"Ground Transport",2024-09
+Shanghai,1402.591144,"Ground Transport",2024-09
+Stockholm,45.218632,"Ground Transport",2024-09
+Sydney,307.637130,"Ground Transport",2024-09
+Tokyo,941.670699,"Ground Transport",2024-09
+Total,21766.116879,"Ground Transport",2024-09
+Washington,774.809946,"Ground Transport",2024-09
+Amsterdam,560.347629,Industry,2024-09
+Bangkok,932.017732,Industry,2024-09
+Barcelona,226.874618,Industry,2024-09
+Beijing,6734.500414,Industry,2024-09
+Berlin,215.407895,Industry,2024-09
+Bogota,197.331408,Industry,2024-09
+"Cape Town",835.726438,Industry,2024-09
+Chengdu,4221.350325,Industry,2024-09
+Chicago,3579.521512,Industry,2024-09
+Chongqing,4826.673904,Industry,2024-09
+Copenhagen,102.394292,Industry,2024-09
+Hangzhou,3095.733265,Industry,2024-09
+Helsinki,108.251938,Industry,2024-09
+Houston,1980.577976,Industry,2024-09
+Istanbul,681.581806,Industry,2024-09
+Jinan,1762.669376,Industry,2024-09
+London,609.944058,Industry,2024-09
+"Los Angeles",4007.722519,Industry,2024-09
+Lyon,45.908898,Industry,2024-09
+Madrid,345.110712,Industry,2024-09
+Marseille,46.508705,Industry,2024-09
+Melbourne,873.608428,Industry,2024-09
+"Mexico City",1235.457957,Industry,2024-09
+Miami,1027.775406,Industry,2024-09
+Milan,59.411259,Industry,2024-09
+Moscow,811.106461,Industry,2024-09
+Munich,77.648464,Industry,2024-09
+Nanjing,4429.862426,Industry,2024-09
+"New Delhi",409.675318,Industry,2024-09
+"New York",2990.442849,Industry,2024-09
+Nice,27.013103,Industry,2024-09
+Osaka,2121.861603,Industry,2024-09
+Oslo,185.750900,Industry,2024-09
+Paris,520.645140,Industry,2024-09
+Qingdao,1244.708802,Industry,2024-09
+Rome,159.646858,Industry,2024-09
+"San Francisco",1435.772257,Industry,2024-09
+Santiago,346.964223,Industry,2024-09
+Seattle,662.506564,Industry,2024-09
+Seoul,2272.644840,Industry,2024-09
+Shanghai,28524.852716,Industry,2024-09
+Stockholm,71.826491,Industry,2024-09
+Sydney,890.192199,Industry,2024-09
+Tokyo,4062.512778,Industry,2024-09
+Total,90744.146514,Industry,2024-09
+Washington,1186.104065,Industry,2024-09
+Amsterdam,12.993981,Power,2024-09
+Bangkok,6.519950,Power,2024-09
+Barcelona,71.382855,Power,2024-09
+Beijing,2524.521999,Power,2024-09
+Berlin,205.754288,Power,2024-09
+Bogota,1.171982,Power,2024-09
+"Cape Town",0.081349,Power,2024-09
+Chengdu,887.310656,Power,2024-09
+Chicago,1672.462740,Power,2024-09
+Chongqing,5278.046055,Power,2024-09
+Copenhagen,10.821319,Power,2024-09
+Hangzhou,637.548804,Power,2024-09
+Helsinki,86.608091,Power,2024-09
+Houston,2430.074501,Power,2024-09
+Istanbul,82.502681,Power,2024-09
+Jinan,3649.440987,Power,2024-09
+London,92.048163,Power,2024-09
+"Los Angeles",1725.914895,Power,2024-09
+Lyon,2.668060,Power,2024-09
+Madrid,5.612355,Power,2024-09
+Marseille,0.000000,Power,2024-09
+Melbourne,74.660075,Power,2024-09
+"Mexico City",783.751997,Power,2024-09
+Miami,577.517010,Power,2024-09
+Milan,78.523800,Power,2024-09
+Moscow,3145.929199,Power,2024-09
+Munich,140.028493,Power,2024-09
+Nanjing,3044.151908,Power,2024-09
+"New Delhi",345.569692,Power,2024-09
+"New York",2975.294210,Power,2024-09
+Nice,0.000000,Power,2024-09
+Osaka,2380.761134,Power,2024-09
+Oslo,0.582410,Power,2024-09
+Paris,15.352180,Power,2024-09
+Qingdao,229.933579,Power,2024-09
+Rome,11.687778,Power,2024-09
+"San Francisco",970.248326,Power,2024-09
+Santiago,129.130368,Power,2024-09
+Seattle,74.197665,Power,2024-09
+Seoul,2220.846348,Power,2024-09
+Shanghai,3510.971729,Power,2024-09
+Stockholm,1.436586,Power,2024-09
+Sydney,58.655905,Power,2024-09
+Tokyo,8584.610064,Power,2024-09
+Total,48859.647557,Power,2024-09
+Washington,122.321400,Power,2024-09
+Amsterdam,124.528820,Residential,2024-09
+Bangkok,37.825538,Residential,2024-09
+Barcelona,135.005114,Residential,2024-09
+Beijing,658.182930,Residential,2024-09
+Berlin,271.708729,Residential,2024-09
+Bogota,108.112502,Residential,2024-09
+"Cape Town",101.097691,Residential,2024-09
+Chengdu,425.883962,Residential,2024-09
+Chicago,897.515698,Residential,2024-09
+Chongqing,892.880878,Residential,2024-09
+Copenhagen,38.069134,Residential,2024-09
+Hangzhou,276.842302,Residential,2024-09
+Helsinki,32.180412,Residential,2024-09
+Houston,527.916781,Residential,2024-09
+Istanbul,171.643914,Residential,2024-09
+Jinan,208.192805,Residential,2024-09
+London,892.547015,Residential,2024-09
+"Los Angeles",1765.277234,Residential,2024-09
+Lyon,62.821315,Residential,2024-09
+Madrid,227.618271,Residential,2024-09
+Marseille,51.485851,Residential,2024-09
+Melbourne,160.498407,Residential,2024-09
+"Mexico City",163.960413,Residential,2024-09
+Miami,552.260342,Residential,2024-09
+Milan,67.042731,Residential,2024-09
+Moscow,542.847758,Residential,2024-09
+Munich,99.281165,Residential,2024-09
+Nanjing,256.250860,Residential,2024-09
+"New Delhi",89.360629,Residential,2024-09
+"New York",1503.307081,Residential,2024-09
+Nice,14.357621,Residential,2024-09
+Osaka,452.024659,Residential,2024-09
+Oslo,8.329927,Residential,2024-09
+Paris,694.526605,Residential,2024-09
+Qingdao,202.069008,Residential,2024-09
+Rome,142.803195,Residential,2024-09
+"San Francisco",565.867643,Residential,2024-09
+Santiago,263.952601,Residential,2024-09
+Seattle,330.131681,Residential,2024-09
+Seoul,924.651511,Residential,2024-09
+Shanghai,722.229493,Residential,2024-09
+Stockholm,6.895400,Residential,2024-09
+Sydney,161.859099,Residential,2024-09
+Tokyo,967.551728,Residential,2024-09
+Total,17442.624151,Residential,2024-09
+Washington,643.227684,Residential,2024-09
+Amsterdam,994.242045,Total,2024-09
+Bangkok,1563.467791,Total,2024-09
+Barcelona,559.186115,Total,2024-09
+Beijing,11761.176911,Total,2024-09
+Berlin,893.097740,Total,2024-09
+Bogota,543.958018,Total,2024-09
+"Cape Town",1135.605424,Total,2024-09
+Chengdu,6079.826381,Total,2024-09
+Chicago,7549.740193,Total,2024-09
+Chongqing,12285.622246,Total,2024-09
+Copenhagen,222.497079,Total,2024-09
+Hangzhou,4808.499282,Total,2024-09
+Helsinki,308.666161,Total,2024-09
+Houston,5743.011241,Total,2024-09
+Istanbul,1460.354372,Total,2024-09
+Jinan,5954.073267,Total,2024-09
+London,2451.735316,Total,2024-09
+"Los Angeles",9914.643766,Total,2024-09
+Lyon,138.894350,Total,2024-09
+Madrid,998.648497,Total,2024-09
+Marseille,124.391582,Total,2024-09
+Melbourne,1579.002859,Total,2024-09
+"Mexico City",2825.671889,Total,2024-09
+Miami,2847.607234,Total,2024-09
+Milan,272.164947,Total,2024-09
+Moscow,4732.800967,Total,2024-09
+Munich,376.733847,Total,2024-09
+Nanjing,8357.282882,Total,2024-09
+"New Delhi",1082.099993,Total,2024-09
+"New York",9158.254096,Total,2024-09
+Nice,60.642537,Total,2024-09
+Osaka,5597.488897,Total,2024-09
+Oslo,210.340818,Total,2024-09
+Paris,1612.444174,Total,2024-09
+Qingdao,2176.859498,Total,2024-09
+Rome,515.759835,Total,2024-09
+"San Francisco",3691.444650,Total,2024-09
+Santiago,1078.362630,Total,2024-09
+Seattle,1795.697306,Total,2024-09
+Seoul,6420.059771,Total,2024-09
+Shanghai,34376.598743,Total,2024-09
+Stockholm,136.713174,Total,2024-09
+Sydney,1478.622489,Total,2024-09
+Tokyo,14730.907572,Total,2024-09
+Washington,2996.617229,Total,2024-09
+Amsterdam,118.000410,Aviation,2024-10
+Bangkok,34.755420,Aviation,2024-10
+Barcelona,25.101269,Aviation,2024-10
+Beijing,293.806502,Aviation,2024-10
+Berlin,56.227770,Aviation,2024-10
+Bogota,31.238247,Aviation,2024-10
+"Cape Town",31.463270,Aviation,2024-10
+Chengdu,115.061813,Aviation,2024-10
+Chicago,442.127998,Aviation,2024-10
+Chongqing,182.396552,Aviation,2024-10
+Copenhagen,7.765132,Aviation,2024-10
+Hangzhou,109.316294,Aviation,2024-10
+Helsinki,9.674992,Aviation,2024-10
+Houston,160.402315,Aviation,2024-10
+Istanbul,77.354289,Aviation,2024-10
+Jinan,51.061113,Aviation,2024-10
+London,265.058942,Aviation,2024-10
+"Los Angeles",455.330435,Aviation,2024-10
+Lyon,1.128929,Aviation,2024-10
+Madrid,130.785329,Aviation,2024-10
+Marseille,2.355083,Aviation,2024-10
+Melbourne,44.679680,Aviation,2024-10
+"Mexico City",29.093956,Aviation,2024-10
+Miami,170.316468,Aviation,2024-10
+Milan,18.261029,Aviation,2024-10
+Moscow,49.393015,Aviation,2024-10
+Munich,4.548465,Aviation,2024-10
+Nanjing,54.453004,Aviation,2024-10
+"New Delhi",89.896973,Aviation,2024-10
+"New York",430.801062,Aviation,2024-10
+Nice,3.806980,Aviation,2024-10
+Osaka,67.417298,Aviation,2024-10
+Oslo,4.148418,Aviation,2024-10
+Paris,81.209353,Aviation,2024-10
+Qingdao,67.284322,Aviation,2024-10
+Rome,47.274770,Aviation,2024-10
+"San Francisco",150.939327,Aviation,2024-10
+Santiago,46.448976,Aviation,2024-10
+Seattle,163.674323,Aviation,2024-10
+Seoul,57.008600,Aviation,2024-10
+Shanghai,224.775176,Aviation,2024-10
+Stockholm,11.218781,Aviation,2024-10
+Sydney,64.316422,Aviation,2024-10
+Tokyo,181.690882,Aviation,2024-10
+Total,4936.192080,Aviation,2024-10
+Washington,273.122673,Aviation,2024-10
+Amsterdam,186.441144,"Ground Transport",2024-10
+Bangkok,566.225658,"Ground Transport",2024-10
+Barcelona,108.132381,"Ground Transport",2024-10
+Beijing,1583.025644,"Ground Transport",2024-10
+Berlin,151.354494,"Ground Transport",2024-10
+Bogota,215.560313,"Ground Transport",2024-10
+"Cape Town",181.328445,"Ground Transport",2024-10
+Chengdu,502.486505,"Ground Transport",2024-10
+Chicago,996.675114,"Ground Transport",2024-10
+Chongqing,1155.439383,"Ground Transport",2024-10
+Copenhagen,62.915912,"Ground Transport",2024-10
+Hangzhou,683.555972,"Ground Transport",2024-10
+Helsinki,77.235100,"Ground Transport",2024-10
+Houston,689.867786,"Ground Transport",2024-10
+Istanbul,465.486191,"Ground Transport",2024-10
+Jinan,292.006112,"Ground Transport",2024-10
+London,612.891570,"Ground Transport",2024-10
+"Los Angeles",2055.498987,"Ground Transport",2024-10
+Lyon,27.655262,"Ground Transport",2024-10
+Madrid,320.958065,"Ground Transport",2024-10
+Marseille,24.803542,"Ground Transport",2024-10
+Melbourne,446.513205,"Ground Transport",2024-10
+"Mexico City",643.391178,"Ground Transport",2024-10
+Miami,560.095715,"Ground Transport",2024-10
+Milan,52.138301,"Ground Transport",2024-10
+Moscow,193.818943,"Ground Transport",2024-10
+Munich,56.427166,"Ground Transport",2024-10
+Nanjing,588.161720,"Ground Transport",2024-10
+"New Delhi",154.853929,"Ground Transport",2024-10
+"New York",1302.874521,"Ground Transport",2024-10
+Nice,15.101844,"Ground Transport",2024-10
+Osaka,600.206372,"Ground Transport",2024-10
+Oslo,11.998251,"Ground Transport",2024-10
+Paris,313.830839,"Ground Transport",2024-10
+Qingdao,445.519968,"Ground Transport",2024-10
+Rome,162.025146,"Ground Transport",2024-10
+"San Francisco",594.036624,"Ground Transport",2024-10
+Santiago,349.798424,"Ground Transport",2024-10
+Seattle,578.640167,"Ground Transport",2024-10
+Seoul,983.086251,"Ground Transport",2024-10
+Shanghai,1413.020827,"Ground Transport",2024-10
+Stockholm,46.778829,"Ground Transport",2024-10
+Sydney,321.521323,"Ground Transport",2024-10
+Tokyo,973.445746,"Ground Transport",2024-10
+Total,22586.486821,"Ground Transport",2024-10
+Washington,819.657964,"Ground Transport",2024-10
+Amsterdam,548.133681,Industry,2024-10
+Bangkok,903.351742,Industry,2024-10
+Barcelona,246.256241,Industry,2024-10
+Beijing,6966.492989,Industry,2024-10
+Berlin,216.070465,Industry,2024-10
+Bogota,200.835539,Industry,2024-10
+"Cape Town",797.584074,Industry,2024-10
+Chengdu,4352.479700,Industry,2024-10
+Chicago,3566.897073,Industry,2024-10
+Chongqing,4991.528550,Industry,2024-10
+Copenhagen,90.884825,Industry,2024-10
+Hangzhou,3200.989107,Industry,2024-10
+Helsinki,106.514734,Industry,2024-10
+Houston,1943.159842,Industry,2024-10
+Istanbul,740.267767,Industry,2024-10
+Jinan,1817.718401,Industry,2024-10
+London,640.321045,Industry,2024-10
+"Los Angeles",3986.496889,Industry,2024-10
+Lyon,48.518383,Industry,2024-10
+Madrid,374.616341,Industry,2024-10
+Marseille,49.503881,Industry,2024-10
+Melbourne,847.183345,Industry,2024-10
+"Mexico City",1202.472694,Industry,2024-10
+Miami,1029.843813,Industry,2024-10
+Milan,63.921068,Industry,2024-10
+Moscow,872.323181,Industry,2024-10
+Munich,77.803927,Industry,2024-10
+Nanjing,4567.425335,Industry,2024-10
+"New Delhi",408.405090,Industry,2024-10
+"New York",2985.762639,Industry,2024-10
+Nice,29.060278,Industry,2024-10
+Osaka,2152.122803,Industry,2024-10
+Oslo,207.128624,Industry,2024-10
+Paris,549.986567,Industry,2024-10
+Qingdao,1282.531157,Industry,2024-10
+Rome,168.021063,Industry,2024-10
+"San Francisco",1421.982022,Industry,2024-10
+Santiago,331.825898,Industry,2024-10
+Seattle,662.795114,Industry,2024-10
+Seoul,2405.606704,Industry,2024-10
+Shanghai,29528.808041,Industry,2024-10
+Stockholm,66.885247,Industry,2024-10
+Sydney,864.229813,Industry,2024-10
+Tokyo,4109.328951,Industry,2024-10
+Total,92811.822610,Industry,2024-10
+Washington,1187.747962,Industry,2024-10
+Amsterdam,16.973545,Power,2024-10
+Bangkok,7.095739,Power,2024-10
+Barcelona,66.380912,Power,2024-10
+Beijing,2155.539943,Power,2024-10
+Berlin,261.870553,Power,2024-10
+Bogota,1.103310,Power,2024-10
+"Cape Town",0.077800,Power,2024-10
+Chengdu,764.914182,Power,2024-10
+Chicago,1469.367486,Power,2024-10
+Chongqing,4533.471775,Power,2024-10
+Copenhagen,12.262647,Power,2024-10
+Hangzhou,548.613933,Power,2024-10
+Helsinki,138.068998,Power,2024-10
+Houston,2060.947969,Power,2024-10
+Istanbul,79.704114,Power,2024-10
+Jinan,3146.024176,Power,2024-10
+London,115.784510,Power,2024-10
+"Los Angeles",1397.420452,Power,2024-10
+Lyon,2.325597,Power,2024-10
+Madrid,5.268508,Power,2024-10
+Marseille,0.000000,Power,2024-10
+Melbourne,72.123840,Power,2024-10
+"Mexico City",718.572037,Power,2024-10
+Miami,469.865514,Power,2024-10
+Milan,70.699266,Power,2024-10
+Moscow,3843.241598,Power,2024-10
+Munich,184.626600,Power,2024-10
+Nanjing,2621.213629,Power,2024-10
+"New Delhi",386.344135,Power,2024-10
+"New York",2409.551144,Power,2024-10
+Nice,0.000000,Power,2024-10
+Osaka,2016.892119,Power,2024-10
+Oslo,0.730071,Power,2024-10
+Paris,15.204447,Power,2024-10
+Qingdao,198.203001,Power,2024-10
+Rome,10.512359,Power,2024-10
+"San Francisco",787.039300,Power,2024-10
+Santiago,94.750748,Power,2024-10
+Seattle,59.701992,Power,2024-10
+Seoul,2185.043906,Power,2024-10
+Shanghai,2977.364888,Power,2024-10
+Stockholm,2.459975,Power,2024-10
+Sydney,56.377502,Power,2024-10
+Tokyo,7173.581739,Power,2024-10
+Total,43245.806533,Power,2024-10
+Washington,108.490595,Power,2024-10
+Amsterdam,180.241939,Residential,2024-10
+Bangkok,41.294833,Residential,2024-10
+Barcelona,151.600053,Residential,2024-10
+Beijing,831.245681,Residential,2024-10
+Berlin,480.698510,Residential,2024-10
+Bogota,118.028403,Residential,2024-10
+"Cape Town",110.370203,Residential,2024-10
+Chengdu,537.865696,Residential,2024-10
+Chicago,1154.288093,Residential,2024-10
+Chongqing,1127.654912,Residential,2024-10
+Copenhagen,45.667430,Residential,2024-10
+Hangzhou,349.635263,Residential,2024-10
+Helsinki,65.226173,Residential,2024-10
+Houston,678.949230,Residential,2024-10
+Istanbul,642.450883,Residential,2024-10
+Jinan,262.934956,Residential,2024-10
+London,1128.256749,Residential,2024-10
+"Los Angeles",2270.308712,Residential,2024-10
+Lyon,81.214125,Residential,2024-10
+Madrid,255.597300,Residential,2024-10
+Marseille,66.560070,Residential,2024-10
+Melbourne,175.219053,Residential,2024-10
+"Mexico City",178.998590,Residential,2024-10
+Miami,710.257861,Residential,2024-10
+Milan,91.160010,Residential,2024-10
+Moscow,1123.312834,Residential,2024-10
+Munich,175.645048,Residential,2024-10
+Nanjing,323.629475,Residential,2024-10
+"New Delhi",100.678260,Residential,2024-10
+"New York",1933.392285,Residential,2024-10
+Nice,18.561201,Residential,2024-10
+Osaka,586.003826,Residential,2024-10
+Oslo,13.473764,Residential,2024-10
+Paris,897.869817,Residential,2024-10
+Qingdao,255.200981,Residential,2024-10
+Rome,194.173853,Residential,2024-10
+"San Francisco",727.757844,Residential,2024-10
+Santiago,263.589680,Residential,2024-10
+Seattle,424.579380,Residential,2024-10
+Seoul,1062.324920,Residential,2024-10
+Shanghai,912.132983,Residential,2024-10
+Stockholm,13.722585,Residential,2024-10
+Sydney,176.704546,Residential,2024-10
+Tokyo,1254.332625,Residential,2024-10
+Total,23020.060534,Residential,2024-10
+Washington,827.249907,Residential,2024-10
+Amsterdam,1049.790718,Total,2024-10
+Bangkok,1552.723392,Total,2024-10
+Barcelona,597.470862,Total,2024-10
+Beijing,11830.110759,Total,2024-10
+Berlin,1166.221791,Total,2024-10
+Bogota,566.765805,Total,2024-10
+"Cape Town",1120.823791,Total,2024-10
+Chengdu,6272.807893,Total,2024-10
+Chicago,7629.355769,Total,2024-10
+Chongqing,11990.491169,Total,2024-10
+Copenhagen,219.495947,Total,2024-10
+Hangzhou,4892.110574,Total,2024-10
+Helsinki,396.720002,Total,2024-10
+Houston,5533.327141,Total,2024-10
+Istanbul,2005.263249,Total,2024-10
+Jinan,5569.744756,Total,2024-10
+London,2762.312817,Total,2024-10
+"Los Angeles",10165.055474,Total,2024-10
+Lyon,160.842299,Total,2024-10
+Madrid,1087.225539,Total,2024-10
+Marseille,143.222576,Total,2024-10
+Melbourne,1585.719122,Total,2024-10
+"Mexico City",2772.528456,Total,2024-10
+Miami,2940.379371,Total,2024-10
+Milan,296.179660,Total,2024-10
+Moscow,6082.089568,Total,2024-10
+Munich,499.051203,Total,2024-10
+Nanjing,8154.883162,Total,2024-10
+"New Delhi",1140.178386,Total,2024-10
+"New York",9062.381655,Total,2024-10
+Nice,66.530303,Total,2024-10
+Osaka,5422.642419,Total,2024-10
+Oslo,237.479126,Total,2024-10
+Paris,1858.101020,Total,2024-10
+Qingdao,2248.739431,Total,2024-10
+Rome,582.007187,Total,2024-10
+"San Francisco",3681.755119,Total,2024-10
+Santiago,1086.413728,Total,2024-10
+Seattle,1889.390976,Total,2024-10
+Seoul,6693.070386,Total,2024-10
+Shanghai,35056.101916,Total,2024-10
+Stockholm,141.065416,Total,2024-10
+Sydney,1483.149610,Total,2024-10
+Tokyo,13692.379949,Total,2024-10
+Washington,3216.269104,Total,2024-10
+Amsterdam,106.399082,Aviation,2024-11
+Bangkok,36.895440,Aviation,2024-11
+Barcelona,20.204770,Aviation,2024-11
+Beijing,280.566446,Aviation,2024-11
+Berlin,45.789900,Aviation,2024-11
+Bogota,31.680003,Aviation,2024-11
+"Cape Town",38.261550,Aviation,2024-11
+Chengdu,149.830013,Aviation,2024-11
+Chicago,393.950354,Aviation,2024-11
+Chongqing,175.857990,Aviation,2024-11
+Copenhagen,6.506225,Aviation,2024-11
+Hangzhou,98.200959,Aviation,2024-11
+Helsinki,5.399265,Aviation,2024-11
+Houston,156.073664,Aviation,2024-11
+Istanbul,75.671081,Aviation,2024-11
+Jinan,48.905961,Aviation,2024-11
+London,233.797442,Aviation,2024-11
+"Los Angeles",434.571726,Aviation,2024-11
+Lyon,0.892921,Aviation,2024-11
+Madrid,128.788756,Aviation,2024-11
+Marseille,1.697489,Aviation,2024-11
+Melbourne,43.562863,Aviation,2024-11
+"Mexico City",28.752023,Aviation,2024-11
+Miami,190.563309,Aviation,2024-11
+Milan,16.725052,Aviation,2024-11
+Moscow,42.890102,Aviation,2024-11
+Munich,4.071629,Aviation,2024-11
+Nanjing,52.605384,Aviation,2024-11
+"New Delhi",91.529741,Aviation,2024-11
+"New York",394.881072,Aviation,2024-11
+Nice,2.289059,Aviation,2024-11
+Osaka,63.677491,Aviation,2024-11
+Oslo,3.455414,Aviation,2024-11
+Paris,72.875994,Aviation,2024-11
+Qingdao,60.283133,Aviation,2024-11
+Rome,35.395954,Aviation,2024-11
+"San Francisco",138.913476,Aviation,2024-11
+Santiago,52.001161,Aviation,2024-11
+Seattle,146.485512,Aviation,2024-11
+Seoul,55.447539,Aviation,2024-11
+Shanghai,213.720932,Aviation,2024-11
+Stockholm,9.158900,Aviation,2024-11
+Sydney,63.210066,Aviation,2024-11
+Tokyo,174.713152,Aviation,2024-11
+Total,4672.371511,Aviation,2024-11
+Washington,245.221517,Aviation,2024-11
+Amsterdam,179.452696,"Ground Transport",2024-11
+Bangkok,555.788075,"Ground Transport",2024-11
+Barcelona,102.821680,"Ground Transport",2024-11
+Beijing,1553.656175,"Ground Transport",2024-11
+Berlin,148.443318,"Ground Transport",2024-11
+Bogota,209.586188,"Ground Transport",2024-11
+"Cape Town",175.993590,"Ground Transport",2024-11
+Chengdu,483.887769,"Ground Transport",2024-11
+Chicago,943.248521,"Ground Transport",2024-11
+Chongqing,1113.213557,"Ground Transport",2024-11
+Copenhagen,63.542099,"Ground Transport",2024-11
+Hangzhou,715.217394,"Ground Transport",2024-11
+Helsinki,79.862491,"Ground Transport",2024-11
+Houston,653.053328,"Ground Transport",2024-11
+Istanbul,451.447517,"Ground Transport",2024-11
+Jinan,282.915594,"Ground Transport",2024-11
+London,598.006067,"Ground Transport",2024-11
+"Los Angeles",1969.979644,"Ground Transport",2024-11
+Lyon,26.209145,"Ground Transport",2024-11
+Madrid,301.571479,"Ground Transport",2024-11
+Marseille,23.778841,"Ground Transport",2024-11
+Melbourne,439.567416,"Ground Transport",2024-11
+"Mexico City",618.142639,"Ground Transport",2024-11
+Miami,541.230680,"Ground Transport",2024-11
+Milan,49.923953,"Ground Transport",2024-11
+Moscow,186.184454,"Ground Transport",2024-11
+Munich,54.037647,"Ground Transport",2024-11
+Nanjing,573.239981,"Ground Transport",2024-11
+"New Delhi",139.060564,"Ground Transport",2024-11
+"New York",1252.219306,"Ground Transport",2024-11
+Nice,14.419646,"Ground Transport",2024-11
+Osaka,581.100848,"Ground Transport",2024-11
+Oslo,12.141494,"Ground Transport",2024-11
+Paris,300.448759,"Ground Transport",2024-11
+Qingdao,431.210225,"Ground Transport",2024-11
+Rome,154.703844,"Ground Transport",2024-11
+"San Francisco",567.523797,"Ground Transport",2024-11
+Santiago,327.359946,"Ground Transport",2024-11
+Seattle,553.064271,"Ground Transport",2024-11
+Seoul,941.750706,"Ground Transport",2024-11
+Shanghai,1393.335292,"Ground Transport",2024-11
+Stockholm,45.495932,"Ground Transport",2024-11
+Sydney,316.545263,"Ground Transport",2024-11
+Tokyo,942.667131,"Ground Transport",2024-11
+Total,21836.928024,"Ground Transport",2024-11
+Washington,769.879040,"Ground Transport",2024-11
+Amsterdam,590.451298,Industry,2024-11
+Bangkok,872.902140,Industry,2024-11
+Barcelona,232.732631,Industry,2024-11
+Beijing,6777.576303,Industry,2024-11
+Berlin,220.735333,Industry,2024-11
+Bogota,201.737080,Industry,2024-11
+"Cape Town",773.681096,Industry,2024-11
+Chengdu,4235.101167,Industry,2024-11
+Chicago,3567.324148,Industry,2024-11
+Chongqing,4850.626020,Industry,2024-11
+Copenhagen,91.449342,Industry,2024-11
+Hangzhou,3115.410027,Industry,2024-11
+Helsinki,114.107218,Industry,2024-11
+Houston,1947.397996,Industry,2024-11
+Istanbul,764.115355,Industry,2024-11
+Jinan,1770.491779,Industry,2024-11
+London,624.362410,Industry,2024-11
+"Los Angeles",3983.373109,Industry,2024-11
+Lyon,45.106507,Industry,2024-11
+Madrid,353.779900,Industry,2024-11
+Marseille,46.212750,Industry,2024-11
+Melbourne,817.886651,Industry,2024-11
+"Mexico City",1157.950413,Industry,2024-11
+Miami,1025.996650,Industry,2024-11
+Milan,58.541712,Industry,2024-11
+Moscow,878.673825,Industry,2024-11
+Munich,79.605566,Industry,2024-11
+Nanjing,4446.104081,Industry,2024-11
+"New Delhi",412.427228,Industry,2024-11
+"New York",2980.956690,Industry,2024-11
+Nice,27.314975,Industry,2024-11
+Osaka,2122.152127,Industry,2024-11
+Oslo,224.398669,Industry,2024-11
+Paris,511.300642,Industry,2024-11
+Qingdao,1249.112064,Industry,2024-11
+Rome,152.727729,Industry,2024-11
+"San Francisco",1422.308241,Industry,2024-11
+Santiago,320.995417,Industry,2024-11
+Seattle,660.226073,Industry,2024-11
+Seoul,2455.911353,Industry,2024-11
+Shanghai,28713.771193,Industry,2024-11
+Stockholm,69.039304,Industry,2024-11
+Sydney,834.362455,Industry,2024-11
+Tokyo,4107.989910,Industry,2024-11
+Total,91092.717595,Industry,2024-11
+Washington,1184.291027,Industry,2024-11
+Amsterdam,26.470055,Power,2024-11
+Bangkok,7.025364,Power,2024-11
+Barcelona,92.515530,Power,2024-11
+Beijing,2363.476625,Power,2024-11
+Berlin,324.770930,Power,2024-11
+Bogota,1.009849,Power,2024-11
+"Cape Town",0.074521,Power,2024-11
+Chengdu,839.595640,Power,2024-11
+Chicago,1411.522287,Power,2024-11
+Chongqing,5085.663486,Power,2024-11
+Copenhagen,20.747109,Power,2024-11
+Hangzhou,605.120835,Power,2024-11
+Helsinki,177.256341,Power,2024-11
+Houston,1866.538400,Power,2024-11
+Istanbul,79.571081,Power,2024-11
+Jinan,3453.181870,Power,2024-11
+London,138.093221,Power,2024-11
+"Los Angeles",1151.145220,Power,2024-11
+Lyon,8.526063,Power,2024-11
+Madrid,6.980918,Power,2024-11
+Marseille,0.000000,Power,2024-11
+Melbourne,80.131496,Power,2024-11
+"Mexico City",591.631080,Power,2024-11
+Miami,397.828402,Power,2024-11
+Milan,86.424211,Power,2024-11
+Moscow,4245.978045,Power,2024-11
+Munich,236.429347,Power,2024-11
+Nanjing,2876.981294,Power,2024-11
+"New Delhi",369.008791,Power,2024-11
+"New York",1981.206717,Power,2024-11
+Nice,0.000000,Power,2024-11
+Osaka,1957.817728,Power,2024-11
+Oslo,0.562239,Power,2024-11
+Paris,57.184038,Power,2024-11
+Qingdao,217.554722,Power,2024-11
+Rome,12.797284,Power,2024-11
+"San Francisco",654.175185,Power,2024-11
+Santiago,77.402070,Power,2024-11
+Seattle,48.069871,Power,2024-11
+Seoul,2910.188810,Power,2024-11
+Shanghai,3309.266129,Power,2024-11
+Stockholm,6.446908,Power,2024-11
+Sydney,62.449910,Power,2024-11
+Tokyo,6812.292351,Power,2024-11
+Total,44759.003150,Power,2024-11
+Washington,107.891202,Power,2024-11
+Amsterdam,345.287483,Residential,2024-11
+Bangkok,34.553574,Residential,2024-11
+Barcelona,208.079192,Residential,2024-11
+Beijing,1134.220674,Residential,2024-11
+Berlin,789.504531,Residential,2024-11
+Bogota,98.760618,Residential,2024-11
+"Cape Town",92.352597,Residential,2024-11
+Chengdu,733.909588,Residential,2024-11
+Chicago,1584.683804,Residential,2024-11
+Chongqing,1538.667373,Residential,2024-11
+Copenhagen,70.651460,Residential,2024-11
+Hangzhou,477.071778,Residential,2024-11
+Helsinki,69.526437,Residential,2024-11
+Houston,932.107376,Residential,2024-11
+Istanbul,1068.229536,Residential,2024-11
+Jinan,358.770486,Residential,2024-11
+London,1454.614427,Residential,2024-11
+"Los Angeles",3116.833041,Residential,2024-11
+Lyon,123.863903,Residential,2024-11
+Madrid,350.820870,Residential,2024-11
+Marseille,101.513822,Residential,2024-11
+Melbourne,146.615059,Residential,2024-11
+"Mexico City",149.777600,Residential,2024-11
+Miami,975.089430,Residential,2024-11
+Milan,179.801462,Residential,2024-11
+Moscow,1578.729652,Residential,2024-11
+Munich,288.480837,Residential,2024-11
+Nanjing,441.587186,Residential,2024-11
+"New Delhi",127.955921,Residential,2024-11
+"New York",2654.290467,Residential,2024-11
+Nice,28.308633,Residential,2024-11
+Osaka,1288.874040,Residential,2024-11
+Oslo,14.517304,Residential,2024-11
+Paris,1369.385267,Residential,2024-11
+Qingdao,348.217929,Residential,2024-11
+Rome,382.983024,Residential,2024-11
+"San Francisco",999.115151,Residential,2024-11
+Santiago,167.829088,Residential,2024-11
+Seattle,582.891320,Residential,2024-11
+Seoul,3092.809610,Residential,2024-11
+Shanghai,1244.590212,Residential,2024-11
+Stockholm,16.791816,Residential,2024-11
+Sydney,147.858051,Residential,2024-11
+Tokyo,2758.816069,Residential,2024-11
+Total,34805.042158,Residential,2024-11
+Washington,1135.704479,Residential,2024-11
+Amsterdam,1248.060613,Total,2024-11
+Bangkok,1507.164592,Total,2024-11
+Barcelona,656.353803,Total,2024-11
+Beijing,12109.496226,Total,2024-11
+Berlin,1529.244018,Total,2024-11
+Bogota,542.773738,Total,2024-11
+"Cape Town",1080.363351,Total,2024-11
+Chengdu,6442.324179,Total,2024-11
+Chicago,7900.729113,Total,2024-11
+Chongqing,12764.028425,Total,2024-11
+Copenhagen,252.896234,Total,2024-11
+Hangzhou,5011.020993,Total,2024-11
+Helsinki,446.151749,Total,2024-11
+Houston,5555.170761,Total,2024-11
+Istanbul,2439.034570,Total,2024-11
+Jinan,5914.265691,Total,2024-11
+London,3048.873565,Total,2024-11
+"Los Angeles",10655.902737,Total,2024-11
+Lyon,204.598536,Total,2024-11
+Madrid,1141.941918,Total,2024-11
+Marseille,173.202899,Total,2024-11
+Melbourne,1527.763489,Total,2024-11
+"Mexico City",2546.253749,Total,2024-11
+Miami,3130.708467,Total,2024-11
+Milan,391.416392,Total,2024-11
+Moscow,6932.456072,Total,2024-11
+Munich,662.625036,Total,2024-11
+Nanjing,8390.517929,Total,2024-11
+"New Delhi",1139.982246,Total,2024-11
+"New York",9263.554255,Total,2024-11
+Nice,72.332312,Total,2024-11
+Osaka,6013.622232,Total,2024-11
+Oslo,255.075116,Total,2024-11
+Paris,2311.194705,Total,2024-11
+Qingdao,2306.378071,Total,2024-11
+Rome,738.607833,Total,2024-11
+"San Francisco",3782.035848,Total,2024-11
+Santiago,945.587688,Total,2024-11
+Seattle,1990.737045,Total,2024-11
+Seoul,9456.108016,Total,2024-11
+Shanghai,34874.683755,Total,2024-11
+Stockholm,146.932858,Total,2024-11
+Sydney,1424.425747,Total,2024-11
+Tokyo,14796.478607,Total,2024-11
+Washington,3442.987271,Total,2024-11
+Amsterdam,109.542899,Aviation,2024-12
+Bangkok,40.127056,Aviation,2024-12
+Barcelona,20.750211,Aviation,2024-12
+Beijing,288.255644,Aviation,2024-12
+Berlin,46.314516,Aviation,2024-12
+Bogota,32.887746,Aviation,2024-12
+"Cape Town",42.119273,Aviation,2024-12
+Chengdu,149.490704,Aviation,2024-12
+Chicago,404.945834,Aviation,2024-12
+Chongqing,167.400009,Aviation,2024-12
+Copenhagen,6.566985,Aviation,2024-12
+Hangzhou,99.483468,Aviation,2024-12
+Helsinki,6.486321,Aviation,2024-12
+Houston,167.612684,Aviation,2024-12
+Istanbul,79.014562,Aviation,2024-12
+Jinan,50.867772,Aviation,2024-12
+London,245.126672,Aviation,2024-12
+"Los Angeles",457.250012,Aviation,2024-12
+Lyon,0.996667,Aviation,2024-12
+Madrid,134.705177,Aviation,2024-12
+Marseille,1.927552,Aviation,2024-12
+Melbourne,48.980311,Aviation,2024-12
+"Mexico City",29.959017,Aviation,2024-12
+Miami,211.359407,Aviation,2024-12
+Milan,17.411702,Aviation,2024-12
+Moscow,43.265649,Aviation,2024-12
+Munich,4.028843,Aviation,2024-12
+Nanjing,50.816346,Aviation,2024-12
+"New Delhi",95.565060,Aviation,2024-12
+"New York",415.852315,Aviation,2024-12
+Nice,2.483127,Aviation,2024-12
+Osaka,66.477543,Aviation,2024-12
+Oslo,3.396619,Aviation,2024-12
+Paris,79.214746,Aviation,2024-12
+Qingdao,59.551042,Aviation,2024-12
+Rome,37.134110,Aviation,2024-12
+"San Francisco",145.934615,Aviation,2024-12
+Santiago,57.224223,Aviation,2024-12
+Seattle,153.234239,Aviation,2024-12
+Seoul,57.836632,Aviation,2024-12
+Shanghai,217.152866,Aviation,2024-12
+Stockholm,9.166905,Aviation,2024-12
+Sydney,70.682320,Aviation,2024-12
+Tokyo,180.095817,Aviation,2024-12
+Total,4862.846881,Aviation,2024-12
+Washington,254.151657,Aviation,2024-12
+Amsterdam,176.336704,"Ground Transport",2024-12
+Bangkok,556.549343,"Ground Transport",2024-12
+Barcelona,104.966794,"Ground Transport",2024-12
+Beijing,1581.438518,"Ground Transport",2024-12
+Berlin,145.828416,"Ground Transport",2024-12
+Bogota,214.914140,"Ground Transport",2024-12
+"Cape Town",174.762360,"Ground Transport",2024-12
+Chengdu,495.970226,"Ground Transport",2024-12
+Chicago,941.966964,"Ground Transport",2024-12
+Chongqing,1136.910877,"Ground Transport",2024-12
+Copenhagen,59.092704,"Ground Transport",2024-12
+Hangzhou,695.358821,"Ground Transport",2024-12
+Helsinki,74.903024,"Ground Transport",2024-12
+Houston,648.279699,"Ground Transport",2024-12
+Istanbul,465.801440,"Ground Transport",2024-12
+Jinan,281.036942,"Ground Transport",2024-12
+London,588.333041,"Ground Transport",2024-12
+"Los Angeles",2000.858945,"Ground Transport",2024-12
+Lyon,26.524732,"Ground Transport",2024-12
+Madrid,291.648385,"Ground Transport",2024-12
+Marseille,24.239391,"Ground Transport",2024-12
+Melbourne,454.204975,"Ground Transport",2024-12
+"Mexico City",624.868646,"Ground Transport",2024-12
+Miami,554.937698,"Ground Transport",2024-12
+Milan,47.673525,"Ground Transport",2024-12
+Moscow,194.778718,"Ground Transport",2024-12
+Munich,52.431368,"Ground Transport",2024-12
+Nanjing,581.115334,"Ground Transport",2024-12
+"New Delhi",153.585660,"Ground Transport",2024-12
+"New York",1285.311914,"Ground Transport",2024-12
+Nice,14.495919,"Ground Transport",2024-12
+Osaka,602.675700,"Ground Transport",2024-12
+Oslo,11.284593,"Ground Transport",2024-12
+Paris,310.612104,"Ground Transport",2024-12
+Qingdao,427.052478,"Ground Transport",2024-12
+Rome,156.117155,"Ground Transport",2024-12
+"San Francisco",579.391846,"Ground Transport",2024-12
+Santiago,337.567658,"Ground Transport",2024-12
+Seattle,553.370730,"Ground Transport",2024-12
+Seoul,938.222129,"Ground Transport",2024-12
+Shanghai,1389.920078,"Ground Transport",2024-12
+Stockholm,43.258259,"Ground Transport",2024-12
+Sydney,327.177584,"Ground Transport",2024-12
+Tokyo,975.402170,"Ground Transport",2024-12
+Total,22075.066876,"Ground Transport",2024-12
+Washington,773.889177,"Ground Transport",2024-12
+Amsterdam,558.371390,Industry,2024-12
+Bangkok,860.192424,Industry,2024-12
+Barcelona,184.597632,Industry,2024-12
+Beijing,6737.392301,Industry,2024-12
+Berlin,187.760892,Industry,2024-12
+Bogota,204.012244,Industry,2024-12
+"Cape Town",760.314413,Industry,2024-12
+Chengdu,4213.100506,Industry,2024-12
+Chicago,3577.584137,Industry,2024-12
+Chongqing,4816.377940,Industry,2024-12
+Copenhagen,83.085945,Industry,2024-12
+Hangzhou,3098.849642,Industry,2024-12
+Helsinki,106.895556,Industry,2024-12
+Houston,1948.811793,Industry,2024-12
+Istanbul,775.150470,Industry,2024-12
+Jinan,1761.883621,Industry,2024-12
+London,563.549552,Industry,2024-12
+"Los Angeles",3993.256491,Industry,2024-12
+Lyon,41.039232,Industry,2024-12
+Madrid,280.455559,Industry,2024-12
+Marseille,42.149949,Industry,2024-12
+Melbourne,805.015103,Industry,2024-12
+"Mexico City",1137.151774,Industry,2024-12
+Miami,1027.465534,Industry,2024-12
+Milan,45.340276,Industry,2024-12
+Moscow,967.743539,Industry,2024-12
+Munich,67.859108,Industry,2024-12
+Nanjing,4417.135423,Industry,2024-12
+"New Delhi",456.908171,Industry,2024-12
+"New York",2989.831513,Industry,2024-12
+Nice,25.014821,Industry,2024-12
+Osaka,2171.457371,Industry,2024-12
+Oslo,240.232932,Industry,2024-12
+Paris,465.164659,Industry,2024-12
+Qingdao,1242.299974,Industry,2024-12
+Rome,117.562553,Industry,2024-12
+"San Francisco",1425.203084,Industry,2024-12
+Santiago,316.733359,Industry,2024-12
+Seattle,660.652230,Industry,2024-12
+Seoul,2490.609745,Industry,2024-12
+Shanghai,28548.134136,Industry,2024-12
+Stockholm,63.287801,Industry,2024-12
+Sydney,821.377054,Industry,2024-12
+Tokyo,4270.182607,Industry,2024-12
+Total,90754.253890,Industry,2024-12
+Washington,1187.059458,Industry,2024-12
+Amsterdam,25.346143,Power,2024-12
+Bangkok,7.169943,Power,2024-12
+Barcelona,110.150674,Power,2024-12
+Beijing,2832.994130,Power,2024-12
+Berlin,284.194280,Power,2024-12
+Bogota,1.114337,Power,2024-12
+"Cape Town",0.085912,Power,2024-12
+Chengdu,990.226647,Power,2024-12
+Chicago,1668.022065,Power,2024-12
+Chongqing,5913.429475,Power,2024-12
+Copenhagen,20.299424,Power,2024-12
+Hangzhou,712.981448,Power,2024-12
+Helsinki,269.382153,Power,2024-12
+Houston,2302.915308,Power,2024-12
+Istanbul,68.132244,Power,2024-12
+Jinan,4072.747907,Power,2024-12
+London,104.829474,Power,2024-12
+"Los Angeles",1501.663780,Power,2024-12
+Lyon,8.547053,Power,2024-12
+Madrid,8.579204,Power,2024-12
+Marseille,0.000000,Power,2024-12
+Melbourne,76.535331,Power,2024-12
+"Mexico City",648.453047,Power,2024-12
+Miami,509.246109,Power,2024-12
+Milan,88.174030,Power,2024-12
+Moscow,4692.150048,Power,2024-12
+Munich,210.644153,Power,2024-12
+Nanjing,3401.490263,Power,2024-12
+"New Delhi",361.258456,Power,2024-12
+"New York",2599.432713,Power,2024-12
+Nice,0.000000,Power,2024-12
+Osaka,2533.854282,Power,2024-12
+Oslo,0.590322,Power,2024-12
+Paris,51.824815,Power,2024-12
+Qingdao,256.623948,Power,2024-12
+Rome,13.143844,Power,2024-12
+"San Francisco",846.763392,Power,2024-12
+Santiago,108.445308,Power,2024-12
+Seattle,63.392685,Power,2024-12
+Seoul,3565.837273,Power,2024-12
+Shanghai,3960.493962,Power,2024-12
+Stockholm,9.606750,Power,2024-12
+Sydney,60.207993,Power,2024-12
+Tokyo,8810.582678,Power,2024-12
+Total,53897.854496,Power,2024-12
+Washington,126.291507,Power,2024-12
+Amsterdam,395.068319,Residential,2024-12
+Bangkok,428.852295,Residential,2024-12
+Barcelona,302.057552,Residential,2024-12
+Beijing,1675.700261,Residential,2024-12
+Berlin,931.376090,Residential,2024-12
+Bogota,76.629566,Residential,2024-12
+"Cape Town",71.657509,Residential,2024-12
+Chengdu,1084.278917,Residential,2024-12
+Chicago,2059.098157,Residential,2024-12
+Chongqing,2273.229355,Residential,2024-12
+Copenhagen,78.175952,Residential,2024-12
+Hangzhou,704.826712,Residential,2024-12
+Helsinki,74.970141,Residential,2024-12
+Houston,1211.156476,Residential,2024-12
+Istanbul,1055.451828,Residential,2024-12
+Jinan,530.048150,Residential,2024-12
+London,1517.083483,Residential,2024-12
+"Los Angeles",4049.933881,Residential,2024-12
+Lyon,155.721060,Residential,2024-12
+Madrid,509.268082,Residential,2024-12
+Marseille,127.622712,Residential,2024-12
+Melbourne,113.760416,Residential,2024-12
+"Mexico City",885.763031,Residential,2024-12
+Miami,1267.006361,Residential,2024-12
+Milan,242.552578,Residential,2024-12
+Moscow,1971.733830,Residential,2024-12
+Munich,340.320749,Residential,2024-12
+Nanjing,652.401775,Residential,2024-12
+"New Delhi",353.989130,Residential,2024-12
+"New York",3448.917649,Residential,2024-12
+Nice,35.589483,Residential,2024-12
+Osaka,2243.122160,Residential,2024-12
+Oslo,12.631785,Residential,2024-12
+Paris,1721.583069,Residential,2024-12
+Qingdao,514.457641,Residential,2024-12
+Rome,516.644716,Residential,2024-12
+"San Francisco",1298.224897,Residential,2024-12
+Santiago,117.201919,Residential,2024-12
+Seattle,757.394322,Residential,2024-12
+Seoul,3988.297332,Residential,2024-12
+Shanghai,1838.759491,Residential,2024-12
+Stockholm,17.634233,Residential,2024-12
+Sydney,114.724870,Residential,2024-12
+Tokyo,4801.369172,Residential,2024-12
+Total,48041.992593,Residential,2024-12
+Washington,1475.705517,Residential,2024-12
+Amsterdam,1264.665457,Total,2024-12
+Bangkok,1892.891062,Total,2024-12
+Barcelona,722.522859,Total,2024-12
+Beijing,13115.780854,Total,2024-12
+Berlin,1595.474197,Total,2024-12
+Bogota,529.558038,Total,2024-12
+"Cape Town",1048.939467,Total,2024-12
+Chengdu,6933.067001,Total,2024-12
+Chicago,8651.617159,Total,2024-12
+Chongqing,14307.347652,Total,2024-12
+Copenhagen,247.221015,Total,2024-12
+Hangzhou,5311.500093,Total,2024-12
+Helsinki,532.637198,Total,2024-12
+Houston,6278.775961,Total,2024-12
+Istanbul,2443.550540,Total,2024-12
+Jinan,6696.584401,Total,2024-12
+London,3018.922219,Total,2024-12
+"Los Angeles",12002.963101,Total,2024-12
+Lyon,232.828742,Total,2024-12
+Madrid,1224.656409,Total,2024-12
+Marseille,195.939600,Total,2024-12
+Melbourne,1498.496136,Total,2024-12
+"Mexico City",3326.195521,Total,2024-12
+Miami,3570.015100,Total,2024-12
+Milan,441.152113,Total,2024-12
+Moscow,7869.671786,Total,2024-12
+Munich,675.284222,Total,2024-12
+Nanjing,9102.959140,Total,2024-12
+"New Delhi",1421.306476,Total,2024-12
+"New York",10739.346104,Total,2024-12
+Nice,77.583350,Total,2024-12
+Osaka,7617.587050,Total,2024-12
+Oslo,268.136252,Total,2024-12
+Paris,2628.399384,Total,2024-12
+Qingdao,2499.985082,Total,2024-12
+Rome,840.602377,Total,2024-12
+"San Francisco",4295.517823,Total,2024-12
+Santiago,937.172471,Total,2024-12
+Seattle,2188.044204,Total,2024-12
+Seoul,11040.803110,Total,2024-12
+Shanghai,35954.460540,Total,2024-12
+Stockholm,142.953946,Total,2024-12
+Sydney,1394.169824,Total,2024-12
+Tokyo,19037.632443,Total,2024-12
+Washington,3817.097308,Total,2024-12

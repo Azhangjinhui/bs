@@ -1,0 +1,187 @@
+Area,"CO2 (Mt)",Sector,Date
+Anhui,3.664749,Aviation,2024
+Beijing,3.560966,Aviation,2024
+Chongqing,4.015955,Aviation,2024
+Fujian,3.994016,Aviation,2024
+Gansu,1.628871,Aviation,2024
+Guangdong,4.162475,Aviation,2024
+Guangxi,0.835327,Aviation,2024
+Guizhou,2.892325,Aviation,2024
+Hainan,0.231876,Aviation,2024
+Hebei,3.377248,Aviation,2024
+Heilongjiang,1.480491,Aviation,2024
+Henan,1.872752,Aviation,2024
+Hubei,1.718104,Aviation,2024
+Hunan,1.558248,Aviation,2024
+"Inner Mongolia",1.803765,Aviation,2024
+Jiangsu,9.720625,Aviation,2024
+Jiangxi,2.388124,Aviation,2024
+Jilin,1.363433,Aviation,2024
+Liaoning,3.171965,Aviation,2024
+Ningxia,0.682578,Aviation,2024
+Qinghai,0.491303,Aviation,2024
+Shaanxi,4.360544,Aviation,2024
+Shandong,7.084331,Aviation,2024
+Shanghai,3.790081,Aviation,2024
+Shanxi,1.743018,Aviation,2024
+Sichuan,8.049116,Aviation,2024
+Tianjin,1.269120,Aviation,2024
+Tibet,0.339024,Aviation,2024
+Xinjiang,2.535531,Aviation,2024
+Yunnan,3.922178,Aviation,2024
+Zhejiang,6.422060,Aviation,2024
+Anhui,28.337744,"Ground Transport",2024
+Beijing,31.143488,"Ground Transport",2024
+Chongqing,30.630219,"Ground Transport",2024
+Fujian,29.099242,"Ground Transport",2024
+Gansu,31.552761,"Ground Transport",2024
+Guangdong,29.432460,"Ground Transport",2024
+Guangxi,29.053482,"Ground Transport",2024
+Guizhou,29.219685,"Ground Transport",2024
+Hainan,29.786192,"Ground Transport",2024
+Hebei,29.852415,"Ground Transport",2024
+Heilongjiang,30.886873,"Ground Transport",2024
+Henan,29.284967,"Ground Transport",2024
+Hubei,30.136161,"Ground Transport",2024
+Hunan,29.664181,"Ground Transport",2024
+"Inner Mongolia",29.285405,"Ground Transport",2024
+Jiangsu,28.413186,"Ground Transport",2024
+Jiangxi,28.733249,"Ground Transport",2024
+Jilin,30.604581,"Ground Transport",2024
+Liaoning,30.616321,"Ground Transport",2024
+Ningxia,29.857914,"Ground Transport",2024
+Qinghai,30.733251,"Ground Transport",2024
+Shaanxi,30.325636,"Ground Transport",2024
+Shandong,29.520194,"Ground Transport",2024
+Shanghai,30.296485,"Ground Transport",2024
+Shanxi,29.885134,"Ground Transport",2024
+Sichuan,30.159525,"Ground Transport",2024
+Tianjin,29.721490,"Ground Transport",2024
+Tibet,28.029448,"Ground Transport",2024
+Xinjiang,28.029448,"Ground Transport",2024
+Yunnan,29.504980,"Ground Transport",2024
+Zhejiang,28.617822,"Ground Transport",2024
+Anhui,133.306986,Industry,2024
+Beijing,4.939046,Industry,2024
+Chongqing,47.386227,Industry,2024
+Fujian,122.710415,Industry,2024
+Gansu,42.657851,Industry,2024
+Guangdong,201.308263,Industry,2024
+Guangxi,151.728577,Industry,2024
+Guizhou,95.108795,Industry,2024
+Hainan,7.186590,Industry,2024
+Hebei,522.074643,Industry,2024
+Heilongjiang,32.225876,Industry,2024
+Henan,141.463583,Industry,2024
+Hubei,286.029542,Industry,2024
+Hunan,101.981033,Industry,2024
+"Inner Mongolia",110.897233,Industry,2024
+Jiangsu,390.474100,Industry,2024
+Jiangxi,95.484468,Industry,2024
+Jilin,44.114423,Industry,2024
+Liaoning,204.447567,Industry,2024
+Ningxia,22.688205,Industry,2024
+Qinghai,19.999501,Industry,2024
+Shaanxi,67.631684,Industry,2024
+Shandong,353.918564,Industry,2024
+Shanghai,47.907858,Industry,2024
+Shanxi,157.927708,Industry,2024
+Sichuan,168.773872,Industry,2024
+Tianjin,65.185217,Industry,2024
+Tibet,2.206890,Industry,2024
+Xinjiang,64.974703,Industry,2024
+Yunnan,158.468625,Industry,2024
+Zhejiang,159.243265,Industry,2024
+Anhui,250.262882,Power,2024
+Beijing,23.138611,Power,2024
+Chongqing,48.821427,Power,2024
+Fujian,111.841137,Power,2024
+Gansu,83.367220,Power,2024
+Guangdong,248.228544,Power,2024
+Guangxi,76.583872,Power,2024
+Guizhou,89.675534,Power,2024
+Hainan,20.177759,Power,2024
+Hebei,287.763933,Power,2024
+Heilongjiang,65.852860,Power,2024
+Henan,214.695679,Power,2024
+Hubei,111.261048,Power,2024
+Hunan,73.057981,Power,2024
+"Inner Mongolia",538.396312,Power,2024
+Jiangsu,377.056195,Power,2024
+Jiangxi,78.453766,Power,2024
+Jilin,48.817246,Power,2024
+Liaoning,110.463960,Power,2024
+Ningxia,116.170005,Power,2024
+Qinghai,20.418908,Power,2024
+Shaanxi,208.415992,Power,2024
+Shandong,427.780133,Power,2024
+Shanghai,46.655703,Power,2024
+Shanxi,275.178871,Power,2024
+Sichuan,66.515860,Power,2024
+Tianjin,60.562724,Power,2024
+Tibet,0.399563,Power,2024
+Xinjiang,272.790269,Power,2024
+Yunnan,50.868975,Power,2024
+Zhejiang,197.636876,Power,2024
+Anhui,2.278649,Residential,2024
+Beijing,52.219739,Residential,2024
+Chongqing,0.000000,Residential,2024
+Fujian,0.000000,Residential,2024
+Gansu,21.440203,Residential,2024
+Guangdong,0.000000,Residential,2024
+Guangxi,0.000000,Residential,2024
+Guizhou,0.142261,Residential,2024
+Hainan,0.000000,Residential,2024
+Hebei,73.173800,Residential,2024
+Heilongjiang,66.356793,Residential,2024
+Henan,43.920175,Residential,2024
+Hubei,1.478775,Residential,2024
+Hunan,0.000000,Residential,2024
+"Inner Mongolia",52.072889,Residential,2024
+Jiangsu,0.096607,Residential,2024
+Jiangxi,0.000000,Residential,2024
+Jilin,53.090055,Residential,2024
+Liaoning,106.301637,Residential,2024
+Ningxia,11.576150,Residential,2024
+Qinghai,6.553576,Residential,2024
+Shaanxi,36.733494,Residential,2024
+Shandong,132.316281,Residential,2024
+Shanghai,0.000000,Residential,2024
+Shanxi,59.264436,Residential,2024
+Sichuan,0.000000,Residential,2024
+Tianjin,43.549272,Residential,2024
+Tibet,0.117457,Residential,2024
+Xinjiang,36.395265,Residential,2024
+Yunnan,0.143993,Residential,2024
+Zhejiang,0.000000,Residential,2024
+Anhui,417.851032,Total,2024
+Beijing,115.001836,Total,2024
+Chongqing,130.853833,Total,2024
+Fujian,267.644802,Total,2024
+Gansu,180.646895,Total,2024
+Guangdong,483.131752,Total,2024
+Guangxi,258.201247,Total,2024
+Guizhou,217.038586,Total,2024
+Hainan,57.382410,Total,2024
+Hebei,916.242035,Total,2024
+Heilongjiang,196.802888,Total,2024
+Henan,431.237159,Total,2024
+Hubei,430.623619,Total,2024
+Hunan,206.261455,Total,2024
+"Inner Mongolia",732.455615,Total,2024
+Jiangsu,805.760727,Total,2024
+Jiangxi,205.059577,Total,2024
+Jilin,177.989757,Total,2024
+Liaoning,455.001458,Total,2024
+Ningxia,180.974854,Total,2024
+Qinghai,78.196526,Total,2024
+Shaanxi,347.467349,Total,2024
+Shandong,950.619527,Total,2024
+Shanghai,128.650125,Total,2024
+Shanxi,523.999158,Total,2024
+Sichuan,273.498362,Total,2024
+Tianjin,200.287836,Total,2024
+Tibet,31.092379,Total,2024
+Xinjiang,404.725221,Total,2024
+Yunnan,242.908762,Total,2024
+Zhejiang,391.920027,Total,2024

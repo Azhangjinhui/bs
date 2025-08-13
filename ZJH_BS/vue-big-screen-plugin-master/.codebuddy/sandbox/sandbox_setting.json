@@ -1,0 +1,20 @@
+{
+  "path": "c:\\Users\\zhang\\Desktop\\代码\\vue-big-screen-plugin-master\\dist",
+  "desc": "这是一个Vue大屏可视化项目，使用了data-view和echarts等库，提供了丰富的数据可视化界面。",
+  "id": "17abda0ff8e3424aafb61cef3435839e",
+  "data": {
+    "spaceKey": "17abda0ff8e3424aafb61cef3435839e",
+    "connections": {
+      "webIDE": "https://17abda0ff8e3424aafb61cef3435839e.ap-singapore.cloudstudio.club",
+      "preview": "",
+      "api": "https://17abda0ff8e3424aafb61cef3435839e--api.ap-singapore.cloudstudio.club",
+      "pty": "https://17abda0ff8e3424aafb61cef3435839e--pty.ap-singapore.cloudstudio.club"
+    }
+  },
+  "config": {
+    "api": "https://17abda0ff8e3424aafb61cef3435839e--api.ap-singapore.cloudstudio.club",
+    "pty": "https://17abda0ff8e3424aafb61cef3435839e--pty.ap-singapore.cloudstudio.club",
+    "region": "ap-shanghai",
+    "spaceKey": "17abda0ff8e3424aafb61cef3435839e"
+  }
+}
